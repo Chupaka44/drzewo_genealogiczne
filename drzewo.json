@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-01T20:49:33.584Z",
+ "exported": "2026-11-01T20:49:50.018Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -726,6 +726,7 @@
    "gender": "M",
    "deceased": false,
    "residence": "Poznań",
+   "notes": "Samobójstwo w więzieniu w Poznaniu",
    "events": [],
    "fatherId": "pmvy2s9z9cozikh",
    "motherId": "pmvy2serhtwpk73"
