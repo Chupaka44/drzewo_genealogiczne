@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-01T20:39:51.704Z",
+ "exported": "2026-11-01T20:40:01.997Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3235,13 +3235,6 @@
    "gender": "K",
    "deceased": false,
    "events": []
-  },
-  {
-   "id": "pmvy7d98ibpzx2c",
-   "lastName": "Zięcina",
-   "gender": "N",
-   "deceased": false,
-   "events": []
   }
  ],
  "unions": [
@@ -3885,12 +3878,6 @@
    "id": "umvyal8opftvnhz",
    "a": "pmvy3bs2mb1w04m",
    "b": "pmvyal0s1q5wicj",
-   "status": "malzenstwo"
-  },
-  {
-   "id": "umvy7diycnmdgll",
-   "a": "pmvy796bokz1lci",
-   "b": "pmvy7d98ibpzx2c",
    "status": "malzenstwo"
   }
  ]
