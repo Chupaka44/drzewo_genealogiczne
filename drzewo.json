@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-01T20:38:22.224Z",
+ "exported": "2026-11-01T20:38:31.159Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3238,7 +3238,7 @@
   },
   {
    "id": "pmvyal0s1q5wicj",
-   "lastName": "Szara",
+   "lastName": "Szary",
    "gender": "K",
    "deceased": false,
    "events": []
