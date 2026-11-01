@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-01T20:38:09.071Z",
+ "exported": "2026-11-01T20:38:22.224Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -461,7 +461,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "fatherId": "pmvy3bs2mb1w04m"
+   "fatherId": "pmvy3bs2mb1w04m",
+   "motherId": "pmvyal0s1q5wicj"
   },
   {
    "id": "pmvy3cdx0mnu8ly",
@@ -3234,6 +3235,13 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmvyal0s1q5wicj",
+   "lastName": "Szara",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -3877,6 +3885,12 @@
    "id": "umvy8m4a0jlanib",
    "a": "pmvy8lk17r3i2o0",
    "b": "pmvy8lzft1ikntp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvyal8opftvnhz",
+   "a": "pmvy3bs2mb1w04m",
+   "b": "pmvyal0s1q5wicj",
    "status": "malzenstwo"
   }
  ]
