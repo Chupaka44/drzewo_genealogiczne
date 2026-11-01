@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-01T20:41:13.262Z",
+ "exported": "2026-11-01T20:41:22.431Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2038,7 +2038,7 @@
   {
    "id": "pmvy60h5bqw69ij",
    "lastName": "Moździerz",
-   "gender": "N",
+   "gender": "K",
    "deceased": false,
    "events": []
   },
