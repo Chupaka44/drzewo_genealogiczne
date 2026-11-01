@@ -1,0 +1,3883 @@
+{
+ "app": "kronika-rodu",
+ "version": 1,
+ "exported": "2026-11-01T19:55:26.870Z",
+ "meta": {
+  "id": "tree",
+  "name": "Setlakowie"
+ },
+ "people": [
+  {
+   "id": "pmvy2lcpp3n99om",
+   "firstName": "Mikołaj",
+   "middleName": "Adam",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "8 11 2002",
+   "birthPlace": "Gorlice",
+   "deceased": false,
+   "occupation": "mgr inż",
+   "residence": "Biecz",
+   "events": [],
+   "fatherId": "pmvy2m6q0k58zvu",
+   "motherId": "pmvy2mc35h74mzm"
+  },
+  {
+   "id": "pmvy2m6q0k58zvu",
+   "firstName": "Waldemar",
+   "middleName": "Artur",
+   "lastName": "Setlak",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2oeo7r0k6w7",
+   "motherId": "pmvy2os3jryq9lm"
+  },
+  {
+   "id": "pmvy2mc35h74mzm",
+   "firstName": "Iwona",
+   "middleName": "Małgorzata",
+   "lastName": "Setlak",
+   "maidenName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2pgzztkit4f",
+   "motherId": "pmvy2pqpq1mh3bm"
+  },
+  {
+   "id": "pmvy2ns17fl20eh",
+   "firstName": "Jakub",
+   "middleName": "Jan",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "8 11 2002",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2m6q0k58zvu",
+   "motherId": "pmvy2mc35h74mzm"
+  },
+  {
+   "id": "pmvy2o2pkuuukze",
+   "firstName": "Mateusz",
+   "middleName": "Jakub",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "23 10 1998",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2m6q0k58zvu",
+   "motherId": "pmvy2mc35h74mzm"
+  },
+  {
+   "id": "pmvy2oeo7r0k6w7",
+   "firstName": "Saturnin",
+   "middleName": "Ludwik",
+   "lastName": "Setlak",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2s9z9cozikh",
+   "motherId": "pmvy2serhtwpk73"
+  },
+  {
+   "id": "pmvy2os3jryq9lm",
+   "firstName": "Bogumiła",
+   "lastName": "Setlak",
+   "maidenName": "Szara",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2ss7npocnzr",
+   "motherId": "pmvy2syveqfzgnj"
+  },
+  {
+   "id": "pmvy2pgzztkit4f",
+   "firstName": "Maria",
+   "lastName": "Mazurek",
+   "maidenName": "Przybyłowicz",
+   "gender": "M",
+   "birthDate": "11 01 1951",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2rlim4florh",
+   "motherId": "pmvy2ru5xzqdxb6"
+  },
+  {
+   "id": "pmvy2pqpq1mh3bm",
+   "firstName": "Jan",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "birthDate": "14 08 1945",
+   "deceased": true,
+   "deathDate": "5 12 2023",
+   "events": [],
+   "fatherId": "pmvy2qcbascca8r",
+   "motherId": "pmvy2qkmd0ddkik"
+  },
+  {
+   "id": "pmvy2qcbascca8r",
+   "firstName": "Franciszek",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy2qkmd0ddkik",
+   "firstName": "Felicja",
+   "lastName": "Mazurek",
+   "maidenName": "Szczurowska",
+   "gender": "K",
+   "birthDate": "1910",
+   "deceased": true,
+   "deathDate": "2008",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy2rlim4florh",
+   "firstName": "Stanisław",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "birthDate": "7 07 1921",
+   "deceased": true,
+   "deathDate": "2017",
+   "events": [],
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
+  },
+  {
+   "id": "pmvy2ru5xzqdxb6",
+   "firstName": "Leokadia",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Pabis",
+   "gender": "K",
+   "birthDate": "17 11 1925",
+   "deceased": true,
+   "deathDate": "2015",
+   "events": [],
+   "fatherId": "pmvy4p5sicewfar",
+   "motherId": "pmvy4pd2al13gto"
+  },
+  {
+   "id": "pmvy2s9z9cozikh",
+   "firstName": "Władysław",
+   "lastName": "Setlak",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4fgkm2v2k9w",
+   "motherId": "pmvy4g1jmh3rc4k"
+  },
+  {
+   "id": "pmvy2serhtwpk73",
+   "firstName": "Apolonia",
+   "lastName": "Setlak",
+   "maidenName": "Makowiec",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy345i249oo9x",
+   "motherId": "pmvy349newb8p1u"
+  },
+  {
+   "id": "pmvy2ss7npocnzr",
+   "firstName": "Adam",
+   "lastName": "Szary",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2tc8vyn73nb",
+   "motherId": "pmvy2w8j4rzt9yu"
+  },
+  {
+   "id": "pmvy2syveqfzgnj",
+   "firstName": "Wiktoria",
+   "lastName": "Szara",
+   "maidenName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2xfac8000j4",
+   "motherId": "pmvy2xrb5j78j6n"
+  },
+  {
+   "id": "pmvy2tc8vyn73nb",
+   "firstName": "Michał",
+   "lastName": "Szary",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy2twarxuekl5",
+   "firstName": "Franciszek",
+   "middleName": "Jan",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "14 04 2026",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2o2pkuuukze",
+   "motherId": "pmvy2u8hrbfwj9w"
+  },
+  {
+   "id": "pmvy2u8hrbfwj9w",
+   "firstName": "Natalia",
+   "lastName": "Setlak",
+   "maidenName": "Cieśla",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy2uzn16ho0rt",
+   "firstName": "Zofia",
+   "lastName": "Pierzchała",
+   "maidenName": "Przybyłowicz",
+   "gender": "K",
+   "birthDate": "4 06 1956",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2rlim4florh",
+   "motherId": "pmvy2ru5xzqdxb6"
+  },
+  {
+   "id": "pmvy2w8j4rzt9yu",
+   "firstName": "Maria",
+   "lastName": "Szara",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy2xfac8000j4",
+   "firstName": "Jan",
+   "lastName": "Czech",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy2xrb5j78j6n",
+   "firstName": "Bronisława",
+   "lastName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy2z6tdrl5avg",
+   "firstName": "Ewelina",
+   "middleName": "Lilianna",
+   "lastName": "Pater",
+   "maidenName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2oeo7r0k6w7",
+   "motherId": "pmvy2os3jryq9lm"
+  },
+  {
+   "id": "pmvy2zuk0guvp5i",
+   "firstName": "Witold",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2oeo7r0k6w7",
+   "motherId": "pmvy2os3jryq9lm"
+  },
+  {
+   "id": "pmvy300jl0imktn",
+   "firstName": "Adam",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2oeo7r0k6w7",
+   "motherId": "pmvy2os3jryq9lm"
+  },
+  {
+   "id": "pmvy30a18cq6bdl",
+   "firstName": "Magdalena",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2oeo7r0k6w7",
+   "motherId": "pmvy2os3jryq9lm"
+  },
+  {
+   "id": "pmvy30klva3nf9e",
+   "firstName": "Andrzej",
+   "middleName": "Antoni",
+   "lastName": "Mazurek",
+   "gender": "N",
+   "birthDate": "29 11 1971",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2pgzztkit4f",
+   "motherId": "pmvy2pqpq1mh3bm"
+  },
+  {
+   "id": "pmvy3153n6jn6vx",
+   "firstName": "Wiesława",
+   "lastName": "Pecka",
+   "maidenName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2qcbascca8r",
+   "motherId": "pmvy2qkmd0ddkik"
+  },
+  {
+   "id": "pmvy31i00is89mp",
+   "firstName": "Alfred",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2qcbascca8r",
+   "motherId": "pmvy2qkmd0ddkik"
+  },
+  {
+   "id": "pmvy322u53bpbvq",
+   "firstName": "Kazimierz",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "birthDate": "12 01 1950",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2rlim4florh",
+   "motherId": "pmvy2ru5xzqdxb6"
+  },
+  {
+   "id": "pmvy32ppro8nuan",
+   "firstName": "Marian",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2s9z9cozikh",
+   "motherId": "pmvy2serhtwpk73"
+  },
+  {
+   "id": "pmvy330237aziby",
+   "firstName": "Wiesława",
+   "lastName": "Setlak",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy345i249oo9x",
+   "firstName": "Andrzej",
+   "lastName": "Makowiec",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy349newb8p1u",
+   "firstName": "Ewa",
+   "lastName": "Makowiec",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy36rx9n8ojtv",
+   "firstName": "Lucyna",
+   "lastName": "Szara",
+   "maidenName": "Szurek",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy37igob3hqb4",
+   "firstName": "Franciszka",
+   "lastName": "Setlak",
+   "maidenName": "Wojtunik",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3av3s3rgyv5",
+   "firstName": "Jan",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2ss7npocnzr",
+   "motherId": "pmvy2syveqfzgnj"
+  },
+  {
+   "id": "pmvy3bampmmd8mc",
+   "firstName": "Edward",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2ss7npocnzr",
+   "motherId": "pmvy2syveqfzgnj"
+  },
+  {
+   "id": "pmvy3bhou8kz9y2",
+   "firstName": "Zuzanna",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3bs2mb1w04m",
+   "firstName": "Grzegorz",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3bampmmd8mc",
+   "motherId": "pmvy3bhou8kz9y2"
+  },
+  {
+   "id": "pmvy3byl3g8dib5",
+   "firstName": "Andrzej",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3bampmmd8mc",
+   "motherId": "pmvy3bhou8kz9y2"
+  },
+  {
+   "id": "pmvy3c7yimrckn8",
+   "firstName": "Ksawery",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3bs2mb1w04m"
+  },
+  {
+   "id": "pmvy3cdx0mnu8ly",
+   "firstName": "Elżbieta",
+   "lastName": "Szary",
+   "maidenName": "Zięba",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3cy1x45t3nd",
+   "firstName": "Wiktoria",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3cdx0mnu8ly",
+   "motherId": "pmvy3byl3g8dib5"
+  },
+  {
+   "id": "pmvy3d3x5jku6a5",
+   "firstName": "Szymon",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3cdx0mnu8ly",
+   "motherId": "pmvy3byl3g8dib5"
+  },
+  {
+   "id": "pmvy3eef8bkrrd3",
+   "firstName": "Aleksandra",
+   "lastName": "Kazimierczak",
+   "maidenName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2ss7npocnzr",
+   "motherId": "pmvy2syveqfzgnj"
+  },
+  {
+   "id": "pmvy3fhfay88zc0",
+   "firstName": "Mirosława",
+   "lastName": "Kazimierczak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3eef8bkrrd3"
+  },
+  {
+   "id": "pmvy3fremuqgutd",
+   "firstName": "Waldemar",
+   "lastName": "Kazimierczak",
+   "gender": "N",
+   "deceased": false,
+   "notes": "Po rozwodzie",
+   "events": []
+  },
+  {
+   "id": "pmvy3g70t7ogwuq",
+   "firstName": "Wiktor",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3eef8bkrrd3",
+   "motherId": "pmvy3fremuqgutd"
+  },
+  {
+   "id": "pmvy3gp5urrlmy7",
+   "firstName": "Tadeusz",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2tc8vyn73nb",
+   "motherId": "pmvy2w8j4rzt9yu"
+  },
+  {
+   "id": "pmvy3h0j3w6l6t3",
+   "firstName": "Stanisław",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3gp5urrlmy7"
+  },
+  {
+   "id": "pmvy3hyvr3ho1ky",
+   "firstName": "Łukasz",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3h0j3w6l6t3"
+  },
+  {
+   "id": "pmvy3i4twk9w3mi",
+   "firstName": "Karolina",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3h0j3w6l6t3"
+  },
+  {
+   "id": "pmvy3ig6qwdc1d6",
+   "firstName": "Janina",
+   "lastName": "Bochnia",
+   "maidenName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3gp5urrlmy7"
+  },
+  {
+   "id": "pmvy3ix9uny5ppq",
+   "firstName": "Beata",
+   "lastName": "Łukaszyk",
+   "maidenName": "Bochnia",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ig6qwdc1d6"
+  },
+  {
+   "id": "pmvy3je4wc3zb09",
+   "firstName": "Justyna",
+   "lastName": "Łukaszyk",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ix9uny5ppq",
+   "motherId": "pmvy3m6qswfcc5f"
+  },
+  {
+   "id": "pmvy3m6qswfcc5f",
+   "firstName": "Grzegorz",
+   "lastName": "Łukaszyk",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3mqrd82jf22",
+   "firstName": "Marcin",
+   "lastName": "Łukaszyk",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ix9uny5ppq",
+   "motherId": "pmvy3m6qswfcc5f"
+  },
+  {
+   "id": "pmvy3mzo835984v",
+   "firstName": "Teresa",
+   "lastName": "Tumidajewicz",
+   "maidenName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3gp5urrlmy7"
+  },
+  {
+   "id": "pmvy3p1jupsbird",
+   "firstName": "Paulina",
+   "lastName": "Tumidajewicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3mzo835984v"
+  },
+  {
+   "id": "pmvy3qegsrbrtko",
+   "firstName": "Mateusz",
+   "lastName": "Tumidajewicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3mzo835984v"
+  },
+  {
+   "id": "pmvy3qoey7wmkvd",
+   "firstName": "Marzena",
+   "lastName": "Bochnia",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ig6qwdc1d6"
+  },
+  {
+   "id": "pmvy3qwsh2mtoyi",
+   "firstName": "Rafał",
+   "lastName": "Bochnia",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ig6qwdc1d6"
+  },
+  {
+   "id": "pmvy3rclkyvdxce",
+   "firstName": "Wojciech",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2tc8vyn73nb",
+   "motherId": "pmvy2w8j4rzt9yu"
+  },
+  {
+   "id": "pmvy3rjgi55hs0p",
+   "firstName": "Zofia",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3rclkyvdxce"
+  },
+  {
+   "id": "pmvy3rx9vokzer8",
+   "firstName": "Danuta",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3rclkyvdxce"
+  },
+  {
+   "id": "pmvy3s2j4phzy0e",
+   "firstName": "Krzysztof",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3rclkyvdxce"
+  },
+  {
+   "id": "pmvy3sbnarsqdpy",
+   "firstName": "Dorota",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3sxwedvnmky",
+   "firstName": "Zofia",
+   "lastName": "Wędrychowicz",
+   "maidenName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2tc8vyn73nb",
+   "motherId": "pmvy2w8j4rzt9yu"
+  },
+  {
+   "id": "pmvy3tk4cm00jlh",
+   "firstName": "Sylwester",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "residence": "Poznań",
+   "events": [],
+   "fatherId": "pmvy2s9z9cozikh",
+   "motherId": "pmvy2serhtwpk73"
+  },
+  {
+   "id": "pmvy3tzsodfwar8",
+   "firstName": "Leokadia",
+   "lastName": "Setlak",
+   "maidenName": "Wachowiak",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3ulbmsqxjbh",
+   "firstName": "Janusz",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy32ppro8nuan",
+   "motherId": "pmvy330237aziby"
+  },
+  {
+   "id": "pmvy3uq00stptw5",
+   "firstName": "Bogusław",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy32ppro8nuan",
+   "motherId": "pmvy330237aziby"
+  },
+  {
+   "id": "pmvy3v2105w4mlz",
+   "firstName": "Marzena",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3vcbelch2z6",
+   "firstName": "Galina",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3vivojf3s6s",
+   "firstName": "Piotr",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ulbmsqxjbh",
+   "motherId": "pmvy3vcbelch2z6"
+  },
+  {
+   "id": "pmvy3vo3m3y0po0",
+   "firstName": "Paulina",
+   "lastName": "Wolańczyk",
+   "maidenName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3ulbmsqxjbh",
+   "motherId": "pmvy3vcbelch2z6"
+  },
+  {
+   "id": "pmvy3vvvg0cq76n",
+   "firstName": "Patrycja",
+   "lastName": "Setlak",
+   "maidenName": "Gargas",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3wgh4ez9v1w",
+   "firstName": "Jagoda",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3vivojf3s6s",
+   "motherId": "pmvy3vvvg0cq76n"
+  },
+  {
+   "id": "pmvy3x2muyixamh",
+   "firstName": "Łukasz",
+   "lastName": "Wolańczyk",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy3x8eyc7v73m",
+   "firstName": "Anna",
+   "lastName": "Wolańczyk",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy3vo3m3y0po0",
+   "motherId": "pmvy3x2muyixamh"
+  },
+  {
+   "id": "pmvy3xy2er2q7ed",
+   "firstName": "Tomasz",
+   "lastName": "Wolańczyk",
+   "gender": "M",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmvy3vo3m3y0po0",
+   "motherId": "pmvy3x2muyixamh"
+  },
+  {
+   "id": "pmvy3zsluu7cnno",
+   "firstName": "Kamil",
+   "middleName": "Michał",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy300jl0imktn",
+   "motherId": "pmvy36rx9n8ojtv"
+  },
+  {
+   "id": "pmvy400su9s01cq",
+   "firstName": "Hubert",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy300jl0imktn",
+   "motherId": "pmvy36rx9n8ojtv"
+  },
+  {
+   "id": "pmvy40a2ynqlfhh",
+   "firstName": "Bartłomiej",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy300jl0imktn",
+   "motherId": "pmvy36rx9n8ojtv"
+  },
+  {
+   "id": "pmvy40k4i0sxnyt",
+   "firstName": "Antoni",
+   "lastName": "Szary",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy300jl0imktn",
+   "motherId": "pmvy36rx9n8ojtv"
+  },
+  {
+   "id": "pmvy414uwv0pcho",
+   "firstName": "Andrzej",
+   "middleName": "Mariusz",
+   "lastName": "Pater",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy43js4b0cqwn",
+   "motherId": "pmvy43o3aw7761s"
+  },
+  {
+   "id": "pmvy43js4b0cqwn",
+   "firstName": "Franciszek",
+   "lastName": "Pater",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy448ggl4ju71",
+   "motherId": "pmvy44cie6wssu3"
+  },
+  {
+   "id": "pmvy43o3aw7761s",
+   "firstName": "Emilia",
+   "lastName": "Pater",
+   "maidenName": "Synowiec",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy44zwsqnzrbp",
+   "motherId": "pmvy457x86n06sy"
+  },
+  {
+   "id": "pmvy448ggl4ju71",
+   "firstName": "Jan",
+   "lastName": "Pater",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy44cie6wssu3",
+   "firstName": "Maria",
+   "lastName": "Pater",
+   "maidenName": "Pawlak",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy44zwsqnzrbp",
+   "firstName": "Władysław",
+   "lastName": "Synowiec",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy457x86n06sy",
+   "firstName": "Józefa",
+   "lastName": "Synowiec",
+   "maidenName": "Ligęza",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy468e8j23xyc",
+   "firstName": "Jan",
+   "middleName": "Kazimierz",
+   "lastName": "Pater",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2z6tdrl5avg",
+   "motherId": "pmvy414uwv0pcho"
+  },
+  {
+   "id": "pmvy46ex8nei9ar",
+   "firstName": "Małgorzata",
+   "middleName": "Maria",
+   "lastName": "Pater",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2z6tdrl5avg",
+   "motherId": "pmvy414uwv0pcho"
+  },
+  {
+   "id": "pmvy46p00e7gh10",
+   "firstName": "Barbara",
+   "middleName": "Wiktoria",
+   "lastName": "Pater",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy2z6tdrl5avg",
+   "motherId": "pmvy414uwv0pcho"
+  },
+  {
+   "id": "pmvy48yta38jwaj",
+   "firstName": "Ignacy",
+   "lastName": "Pierzchała",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy499pot8lt45",
+   "firstName": "Magdalena",
+   "lastName": "Serafin",
+   "maidenName": "Pierzchała",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy48yta38jwaj",
+   "motherId": "pmvy2uzn16ho0rt"
+  },
+  {
+   "id": "pmvy49mg4fhk7o6",
+   "firstName": "Michał",
+   "lastName": "Pierzchała",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy48yta38jwaj",
+   "motherId": "pmvy2uzn16ho0rt"
+  },
+  {
+   "id": "pmvy49r0a5ptz88",
+   "firstName": "Elżbieta",
+   "lastName": "Szczepanik",
+   "maidenName": "Pierzchała",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy48yta38jwaj",
+   "motherId": "pmvy2uzn16ho0rt"
+  },
+  {
+   "id": "pmvy4abu42jeai4",
+   "firstName": "Katarzyna",
+   "lastName": "Pierzchała",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4aitgehuja3",
+   "firstName": "Anna",
+   "lastName": "Pierzchała",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy49mg4fhk7o6",
+   "motherId": "pmvy4abu42jeai4"
+  },
+  {
+   "id": "pmvy4anxg9dsj5l",
+   "firstName": "Emilia",
+   "lastName": "Pierzchała",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy49mg4fhk7o6",
+   "motherId": "pmvy4abu42jeai4"
+  },
+  {
+   "id": "pmvy4b07w7ehpuo",
+   "firstName": "Tomasz",
+   "lastName": "Serafin",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4b6fcy07k7e",
+   "firstName": "Szymon",
+   "lastName": "Serafin",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy499pot8lt45",
+   "motherId": "pmvy4b07w7ehpuo"
+  },
+  {
+   "id": "pmvy4base9yyyrn",
+   "firstName": "Przemysław",
+   "lastName": "Serafin",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy499pot8lt45",
+   "motherId": "pmvy4b07w7ehpuo"
+  },
+  {
+   "id": "pmvy4bhqk28mq38",
+   "firstName": "Tymoteusz",
+   "lastName": "Serafin",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy499pot8lt45",
+   "motherId": "pmvy4b07w7ehpuo"
+  },
+  {
+   "id": "pmvy4bmlgjaydi4",
+   "firstName": "Zofia",
+   "lastName": "Serafin",
+   "gender": "N",
+   "birthDate": "01 11 2026",
+   "birthPlace": "Gorlice",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy499pot8lt45",
+   "motherId": "pmvy4b07w7ehpuo"
+  },
+  {
+   "id": "pmvy4ci7g8iglmb",
+   "firstName": "Wojciech",
+   "lastName": "Szczepanik",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4cqbckwlnf9",
+   "firstName": "Jakub",
+   "lastName": "Szczepanik",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy49r0a5ptz88",
+   "motherId": "pmvy4ci7g8iglmb"
+  },
+  {
+   "id": "pmvy4cu4kyhri6x",
+   "firstName": "Filip",
+   "lastName": "Szczepanik",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy49r0a5ptz88",
+   "motherId": "pmvy4ci7g8iglmb"
+  },
+  {
+   "id": "pmvy4cznm0ahw2h",
+   "firstName": "Nikodem",
+   "lastName": "Szczepanik",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy49r0a5ptz88",
+   "motherId": "pmvy4ci7g8iglmb"
+  },
+  {
+   "id": "pmvy4fgkm2v2k9w",
+   "firstName": "Józef",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "1875",
+   "deceased": true,
+   "deathDate": "1938",
+   "events": []
+  },
+  {
+   "id": "pmvy4g1jmh3rc4k",
+   "firstName": "Agnieszka",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "1877",
+   "deceased": true,
+   "deathDate": "1961",
+   "events": []
+  },
+  {
+   "id": "pmvy4hw881aone1",
+   "firstName": "Krystyna",
+   "lastName": "Mazurek",
+   "maidenName": "Gurbisz",
+   "gender": "N",
+   "birthDate": "13 09 1976",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4jgt8l51axz",
+   "motherId": "pmvy4jnhiya789i"
+  },
+  {
+   "id": "pmvy4i622urmhma",
+   "firstName": "Aleksandra",
+   "middleName": "Zofia",
+   "lastName": "Mazurek",
+   "gender": "N",
+   "birthDate": "15 05 1998",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy30klva3nf9e",
+   "motherId": "pmvy4hw881aone1"
+  },
+  {
+   "id": "pmvy4jgt8l51axz",
+   "firstName": "Stanisław",
+   "lastName": "Gurbisz",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4jnhiya789i",
+   "firstName": "Jadwiga",
+   "lastName": "Gurbisz",
+   "maidenName": "Sitek",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4k1wgfd74j1",
+   "firstName": "Agnieszka",
+   "lastName": "Gurbisz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4jgt8l51axz",
+   "motherId": "pmvy4jnhiya789i"
+  },
+  {
+   "id": "pmvy4kdkeyppuex",
+   "firstName": "Sławek",
+   "lastName": "Gurbisz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4jgt8l51axz",
+   "motherId": "pmvy4jnhiya789i"
+  },
+  {
+   "id": "pmvy4l0ws0wu2js",
+   "firstName": "Maria",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Rzońca",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4lprkirdqan",
+   "firstName": "Katarzyna",
+   "lastName": "Przybyło",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy322u53bpbvq",
+   "motherId": "pmvy4l0ws0wu2js"
+  },
+  {
+   "id": "pmvy4mp944my8ar",
+   "firstName": "Oliwia",
+   "lastName": "Przybyło",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4lprkirdqan"
+  },
+  {
+   "id": "pmvy4mvpozxacdp",
+   "firstName": "Rafał",
+   "lastName": "Przybyło",
+   "gender": "N",
+   "deceased": false,
+   "notes": "rozwód",
+   "events": []
+  },
+  {
+   "id": "pmvy4ndycsp3m6i",
+   "firstName": "Szymon",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy4l0ws0wu2js",
+   "fatherId": "pmvy322u53bpbvq"
+  },
+  {
+   "id": "pmvy4nh5umz04md",
+   "firstName": "Andżelika",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Świerczek",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4nz5cackv8o",
+   "firstName": "Hubert",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4ndycsp3m6i",
+   "motherId": "pmvy4nh5umz04md"
+  },
+  {
+   "id": "pmvy4o2wksdas3t",
+   "firstName": "Wiktor",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4ndycsp3m6i",
+   "motherId": "pmvy4nh5umz04md"
+  },
+  {
+   "id": "pmvy4p5sicewfar",
+   "firstName": "Antoni",
+   "lastName": "Pabis",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4pd2al13gto",
+   "firstName": "Zofia",
+   "lastName": "Pabis",
+   "maidenName": "Mazur",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5xtm74v969c",
+   "motherId": "pmvy5xx8jap348f"
+  },
+  {
+   "id": "pmvy4pph6mzqirk",
+   "firstName": "Jan",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4pyvwy7wstb",
+   "firstName": "Anna",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Dyląg",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4qeqkkztcyx",
+   "firstName": "Zbigniew",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4p5sicewfar",
+   "motherId": "pmvy4pd2al13gto"
+  },
+  {
+   "id": "pmvy4qwbkdc3pi8",
+   "firstName": "Edward",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy4pd2al13gto",
+   "fatherId": "pmvy4p5sicewfar"
+  },
+  {
+   "id": "pmvy4r478o1xtcv",
+   "firstName": "Adam",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy4pd2al13gto",
+   "fatherId": "pmvy4p5sicewfar"
+  },
+  {
+   "id": "pmvy4rq5awqgsm7",
+   "firstName": "Maria",
+   "lastName": "Pabis",
+   "maidenName": "Fik",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4s6pyb5l4wl",
+   "firstName": "Andrzej",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4qeqkkztcyx",
+   "motherId": "pmvy4rq5awqgsm7"
+  },
+  {
+   "id": "pmvy4sd7m0ijl6m",
+   "firstName": "Agnieszka",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4sw9or1yfn3",
+   "firstName": "Anna",
+   "lastName": "Mosoń",
+   "maidenName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4rq5awqgsm7",
+   "motherId": "pmvy4qeqkkztcyx"
+  },
+  {
+   "id": "pmvy4t5wcqahqlg",
+   "firstName": "Andrzej",
+   "lastName": "Mosoń",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4u7agzvdcba",
+   "firstName": "Maria",
+   "lastName": "Pabis",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4uk5gtwfs0m",
+   "firstName": "Katarzyna",
+   "lastName": "Moździerz",
+   "maidenName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4u7agzvdcba",
+   "motherId": "pmvy4qwbkdc3pi8"
+  },
+  {
+   "id": "pmvy4v402alkopl",
+   "firstName": "Paweł",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "occupation": "lekarz",
+   "events": []
+  },
+  {
+   "id": "pmvy4vou4rlin7w",
+   "firstName": "Antoni",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4qwbkdc3pi8",
+   "motherId": "pmvy4u7agzvdcba"
+  },
+  {
+   "id": "pmvy4w5wgjf8id5",
+   "firstName": "Bogdan",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4u7agzvdcba",
+   "motherId": "pmvy4qwbkdc3pi8"
+  },
+  {
+   "id": "pmvy4wpduvnqpd1",
+   "firstName": "Michał",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4uk5gtwfs0m",
+   "motherId": "pmvy4v402alkopl"
+  },
+  {
+   "id": "pmvy4wtio8ct9dc",
+   "firstName": "Mateusz",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4uk5gtwfs0m",
+   "motherId": "pmvy4v402alkopl"
+  },
+  {
+   "id": "pmvy4y70iysaauj",
+   "firstName": "Maria",
+   "lastName": "Pabis",
+   "maidenName": "Ćwiklik",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4yq14n04lee",
+   "firstName": "Agata",
+   "lastName": "Magiera",
+   "maidenName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4y70iysaauj",
+   "motherId": "pmvy4r478o1xtcv"
+  },
+  {
+   "id": "pmvy4yxk5yvh28x",
+   "firstName": "Piotr",
+   "lastName": "Pabis",
+   "gender": "N",
+   "deceased": false,
+   "occupation": "ksiądz",
+   "events": [],
+   "fatherId": "pmvy4y70iysaauj",
+   "motherId": "pmvy4r478o1xtcv"
+  },
+  {
+   "id": "pmvy4z7wdvoobvx",
+   "firstName": "Tadeusz",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy4zilj8u9mjk",
+   "firstName": "Szczepan",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4yq14n04lee",
+   "motherId": "pmvy4z7wdvoobvx"
+  },
+  {
+   "id": "pmvy4zmbf5eroc7",
+   "firstName": "Marcin",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "occupation": "dziennikarz",
+   "events": [],
+   "fatherId": "pmvy4yq14n04lee",
+   "motherId": "pmvy4z7wdvoobvx"
+  },
+  {
+   "id": "pmvy4zqbvsr0mm9",
+   "firstName": "Bartłomiej",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "occupation": "pilot samolotów pasażerskich",
+   "events": [],
+   "fatherId": "pmvy4yq14n04lee",
+   "motherId": "pmvy4z7wdvoobvx"
+  },
+  {
+   "id": "pmvy509c1ujtu9u",
+   "firstName": "Zuzanna",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4zilj8u9mjk"
+  },
+  {
+   "id": "pmvy50kk1g9amv7",
+   "firstName": "Ignacy",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4zmbf5eroc7"
+  },
+  {
+   "id": "pmvy532oneprc1h",
+   "firstName": "Tadeusz",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy4pyvwy7wstb",
+   "fatherId": "pmvy4pph6mzqirk"
+  },
+  {
+   "id": "pmvy53bh3r5zqlv",
+   "firstName": "Janina",
+   "lastName": "Druciak",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
+  },
+  {
+   "id": "pmvy53ijburkxsi",
+   "firstName": "Stefania",
+   "lastName": "Śliwa",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
+  },
+  {
+   "id": "pmvy53mrf5hqgvb",
+   "firstName": "Adam",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
+  },
+  {
+   "id": "pmvy53v8nb7tndu",
+   "firstName": "Zofia",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Radwan",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy544sxg7twzv",
+   "firstName": "Renata",
+   "lastName": "Karp",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy532oneprc1h",
+   "motherId": "pmvy53v8nb7tndu"
+  },
+  {
+   "id": "pmvy5483netleul",
+   "firstName": "Janusz",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy532oneprc1h",
+   "motherId": "pmvy53v8nb7tndu"
+  },
+  {
+   "id": "pmvy54hybxisey5",
+   "firstName": "Ewelina",
+   "lastName": "Miarecka",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy544sxg7twzv"
+  },
+  {
+   "id": "pmvy54zgv9izjg0",
+   "firstName": "Dawid",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy544sxg7twzv"
+  },
+  {
+   "id": "pmvy55gh171usvq",
+   "firstName": "Henryk",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy53bh3r5zqlv"
+  },
+  {
+   "id": "pmvy59uhnqop3qp",
+   "firstName": "Jolanta",
+   "lastName": "Rządca",
+   "maidenName": "Śliwa",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy53ijburkxsi"
+  },
+  {
+   "id": "pmvy5ecgph57imd",
+   "lastName": "Karp",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5furthcd8pb",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Kudłaty",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5hc6t8pejhb",
+   "firstName": "Edward",
+   "lastName": "Śliwa",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5hrhdsfver1",
+   "firstName": "Adam",
+   "lastName": "Rządca",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5ifv7lyiw70",
+   "firstName": "Ryszard",
+   "lastName": "Śliwa",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5hc6t8pejhb",
+   "motherId": "pmvy53ijburkxsi"
+  },
+  {
+   "id": "pmvy5iq0r9f7isk",
+   "firstName": "Bożena",
+   "lastName": "Śliwa",
+   "maidenName": "Dutka",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5k5xh545vix",
+   "lastName": "Druciak",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5kxyzkz68i6",
+   "firstName": "Leokadia",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Kukla",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5lc4x4ctwty",
+   "firstName": "Jolanta",
+   "lastName": "Deruś",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy53mrf5hqgvb",
+   "motherId": "pmvy5kxyzkz68i6"
+  },
+  {
+   "id": "pmvy5luapf4sl9w",
+   "firstName": "Władysław",
+   "lastName": "Deruś",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5lzy1cvqhng",
+   "firstName": "Sebastian",
+   "lastName": "Deruś",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5luapf4sl9w",
+   "motherId": "pmvy5lc4x4ctwty"
+  },
+  {
+   "id": "pmvy5m3nfgp23ab",
+   "firstName": "Wojciech",
+   "lastName": "Deruś",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5luapf4sl9w",
+   "motherId": "pmvy5lc4x4ctwty"
+  },
+  {
+   "id": "pmvy5mco5320fxo",
+   "lastName": "Deruś",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5luapf4sl9w",
+   "motherId": "pmvy5lc4x4ctwty"
+  },
+  {
+   "id": "pmvy5mmrj52od23",
+   "firstName": "Piotr",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy53mrf5hqgvb",
+   "motherId": "pmvy5kxyzkz68i6"
+  },
+  {
+   "id": "pmvy5o1wr8ebd7o",
+   "firstName": "Krystyna",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5oao7hj49da",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5o1wr8ebd7o",
+   "motherId": "pmvy5mmrj52od23"
+  },
+  {
+   "id": "pmvy5ot25vsbv39",
+   "firstName": "Antoni",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
+  },
+  {
+   "id": "pmvy5p0b76kxer1",
+   "firstName": "Stefania",
+   "lastName": "Przybyłowicz",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5pbx7yh7kjn",
+   "firstName": "Zbigniew",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5ot25vsbv39",
+   "motherId": "pmvy5p0b76kxer1"
+  },
+  {
+   "id": "pmvy5pfx9c0be40",
+   "firstName": "Bogusława",
+   "lastName": "Dąbrowska",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5ot25vsbv39",
+   "motherId": "pmvy5p0b76kxer1"
+  },
+  {
+   "id": "pmvy5plqdf0bpnx",
+   "firstName": "Andrzej",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5ot25vsbv39",
+   "motherId": "pmvy5p0b76kxer1"
+  },
+  {
+   "id": "pmvy5px1d9korpk",
+   "firstName": "Jolanta",
+   "lastName": "Siwek",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5ot25vsbv39",
+   "motherId": "pmvy5p0b76kxer1"
+  },
+  {
+   "id": "pmvy5q1x1dzeh6s",
+   "firstName": "Marzena",
+   "lastName": "Zajdel",
+   "maidenName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5ot25vsbv39",
+   "motherId": "pmvy5p0b76kxer1"
+  },
+  {
+   "id": "pmvy5qxw3eiyx97",
+   "firstName": "Joanna",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "notes": "2 żona",
+   "events": []
+  },
+  {
+   "id": "pmvy5rl8btklxr6",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "notes": "1  żona",
+   "events": []
+  },
+  {
+   "id": "pmvy5s9nbrpwgh4",
+   "firstName": "Jan",
+   "lastName": "Dąbrowski",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5svuothxf64",
+   "lastName": "Dąbrowski",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5pfx9c0be40",
+   "motherId": "pmvy5s9nbrpwgh4"
+  },
+  {
+   "id": "pmvy5sxszna4s95",
+   "lastName": "Dąbrowski",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5pfx9c0be40",
+   "motherId": "pmvy5s9nbrpwgh4"
+  },
+  {
+   "id": "pmvy5tn25o7wdls",
+   "firstName": "Zbigniew",
+   "lastName": "Siwek",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5uel7tmm24s",
+   "lastName": "Siwek",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5px1d9korpk",
+   "motherId": "pmvy5tn25o7wdls"
+  },
+  {
+   "id": "pmvy5v7kjnryyq1",
+   "firstName": "Andrzej",
+   "lastName": "Zajdel",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5vd37yw9ujv",
+   "lastName": "Zajdel",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5q1x1dzeh6s",
+   "motherId": "pmvy5v7kjnryyq1"
+  },
+  {
+   "id": "pmvy5vfzb8lbx56",
+   "lastName": "Zajdel",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5q1x1dzeh6s",
+   "motherId": "pmvy5v7kjnryyq1"
+  },
+  {
+   "id": "pmvy5vm7x4fl9v9",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5wb7ta1onal",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5pbx7yh7kjn",
+   "motherId": "pmvy5vm7x4fl9v9"
+  },
+  {
+   "id": "pmvy5wcvtvvfbwg",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5pbx7yh7kjn",
+   "motherId": "pmvy5vm7x4fl9v9"
+  },
+  {
+   "id": "pmvy5we7rni1i9j",
+   "lastName": "Przybyłowicz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5pbx7yh7kjn",
+   "motherId": "pmvy5vm7x4fl9v9"
+  },
+  {
+   "id": "pmvy5xtm74v969c",
+   "firstName": "Maciej",
+   "lastName": "Mazur",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5xx8jap348f",
+   "firstName": "Petronela",
+   "lastName": "Mazur",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy5yz8dwfd5wz",
+   "firstName": "Wojciech",
+   "lastName": "Mosoń",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4t5wcqahqlg",
+   "motherId": "pmvy4sw9or1yfn3"
+  },
+  {
+   "id": "pmvy60h5bqw69ij",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy60vfd9oh4o3",
+   "firstName": "Maria",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wpduvnqpd1",
+   "motherId": "pmvy60h5bqw69ij"
+  },
+  {
+   "id": "pmvy6131d4kqbei",
+   "firstName": "Michalina",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wpduvnqpd1",
+   "motherId": "pmvy60h5bqw69ij"
+  },
+  {
+   "id": "pmvy618y93oh9no",
+   "lastName": "Moździerz",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wpduvnqpd1",
+   "motherId": "pmvy60h5bqw69ij"
+  },
+  {
+   "id": "pmvy61htn11xyel",
+   "lastName": "Moździerz",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy61r9h47ji49",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wtio8ct9dc",
+   "motherId": "pmvy61htn11xyel"
+  },
+  {
+   "id": "pmvy61tmzs91wh1",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wtio8ct9dc",
+   "motherId": "pmvy61htn11xyel"
+  },
+  {
+   "id": "pmvy61w1doswyd9",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wtio8ct9dc",
+   "motherId": "pmvy61htn11xyel"
+  },
+  {
+   "id": "pmvy61xdjomhw1b",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wtio8ct9dc",
+   "motherId": "pmvy61htn11xyel"
+  },
+  {
+   "id": "pmvy61ykbiz6or4",
+   "lastName": "Moździerz",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4wtio8ct9dc",
+   "motherId": "pmvy61htn11xyel"
+  },
+  {
+   "id": "pmvy65d81oug7g7",
+   "lastName": "Magiera",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4zilj8u9mjk"
+  },
+  {
+   "id": "pmvy65hj1n53ub0",
+   "firstName": "Agnieszka",
+   "lastName": "Magiera",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy663abb78dd3",
+   "lastName": "Magiera",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy6facl6cfubb",
+   "firstName": "Ludwik",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "birthDate": "1889",
+   "deceased": true,
+   "deathDate": "1922",
+   "events": []
+  },
+  {
+   "id": "pmvy6fei3stwy4a",
+   "firstName": "Weronika",
+   "lastName": "Szczurowska",
+   "maidenName": "Haluch",
+   "gender": "K",
+   "birthDate": "1889",
+   "deceased": true,
+   "deathDate": "1975",
+   "events": []
+  },
+  {
+   "id": "pmvy6grs0ngd75r",
+   "firstName": "Emilia",
+   "lastName": "Serwa",
+   "maidenName": "Szczurowska",
+   "gender": "K",
+   "birthDate": "1906",
+   "deceased": true,
+   "deathDate": "1993",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6i6qgirdwwp",
+   "firstName": "Ewa",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "birthDate": "1908",
+   "deceased": true,
+   "deathDate": "1984",
+   "notes": "panna",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6iu5yzmo7ph",
+   "firstName": "Adam",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "birthDate": "1911",
+   "deceased": true,
+   "deathDate": "1963",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6j5im1p97cu",
+   "firstName": "Zofia",
+   "lastName": "Zięcina Mazurkiewicz",
+   "maidenName": "Szczurowska",
+   "gender": "N",
+   "birthDate": "1914",
+   "deceased": true,
+   "deathDate": "1999",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6jzn749y52p",
+   "firstName": "Karol",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "birthDate": "1917",
+   "deceased": true,
+   "deathDate": "1986",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6kal68w2ouy",
+   "firstName": "Józef",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "birthDate": "1921",
+   "deceased": true,
+   "deathDate": "2019",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6l6w0evxrtg",
+   "firstName": "Władysława",
+   "lastName": "Janaś",
+   "maidenName": "Szczurowska",
+   "gender": "K",
+   "birthDate": "29 04 1923",
+   "deceased": true,
+   "deathDate": "21 07 2017",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6loli5tkxsh",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "notes": "zgon przy porodzie (bliźniaczki)",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6maxsvho491",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "notes": "zgon przy porodzie (bliźniaczki)",
+   "events": [],
+   "fatherId": "pmvy6facl6cfubb",
+   "motherId": "pmvy6fei3stwy4a"
+  },
+  {
+   "id": "pmvy6n8ey0hn9b3",
+   "firstName": "Ludwik",
+   "lastName": "Serwa",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy6oiqgohr75b",
+   "firstName": "Urszula",
+   "lastName": "Stępień",
+   "maidenName": "Serwa",
+   "gender": "N",
+   "birthDate": "1945",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmvy6n8ey0hn9b3",
+   "motherId": "pmvy6grs0ngd75r"
+  },
+  {
+   "id": "pmvy6qh98uzy6ps",
+   "firstName": "Celina",
+   "lastName": "Skorupa",
+   "maidenName": "Serwa",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6n8ey0hn9b3",
+   "motherId": "pmvy6grs0ngd75r"
+  },
+  {
+   "id": "pmvy6qrpkq2xp7x",
+   "lastName": "Stępień",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6oiqgohr75b"
+  },
+  {
+   "id": "pmvy6qsx8datc4n",
+   "lastName": "Stępień",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6oiqgohr75b"
+  },
+  {
+   "id": "pmvy6r0k4wde6nt",
+   "firstName": "Zbigniew",
+   "lastName": "Serwa",
+   "gender": "N",
+   "deceased": false,
+   "occupation": "wojskowy",
+   "residence": "Giźycko",
+   "events": [],
+   "fatherId": "pmvy6n8ey0hn9b3",
+   "motherId": "pmvy6grs0ngd75r"
+  },
+  {
+   "id": "pmvy6rine4df0pm",
+   "firstName": "Aleksandra",
+   "lastName": "Serwa",
+   "gender": "N",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmvy6rovi73zgow",
+   "lastName": "Serwa",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6r0k4wde6nt",
+   "motherId": "pmvy6rine4df0pm"
+  },
+  {
+   "id": "pmvy6rt3kugvir6",
+   "lastName": "Serwa",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6r0k4wde6nt",
+   "motherId": "pmvy6rine4df0pm"
+  },
+  {
+   "id": "pmvy6s5zg7e77jh",
+   "firstName": "Mieczysława",
+   "lastName": "Pietrusza",
+   "maidenName": "Serwa",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6n8ey0hn9b3",
+   "motherId": "pmvy6grs0ngd75r"
+  },
+  {
+   "id": "pmvy6sg7ogmsscv",
+   "firstName": "Jan",
+   "lastName": "Pietrusza",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6s5zg7e77jh"
+  },
+  {
+   "id": "pmvy6sv7ye7cz2q",
+   "firstName": "Maria",
+   "lastName": "Pietrusza",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6s5zg7e77jh"
+  },
+  {
+   "id": "pmvy6t5tcb2xlxb",
+   "firstName": "Jan",
+   "lastName": "Pietrusza",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy6vwtgqgojrz",
+   "firstName": "Ryszard",
+   "lastName": "Skorupa",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy6wkusogk4mz",
+   "firstName": "Jan",
+   "lastName": "Stępień",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy6ypje25xwga",
+   "firstName": "Urszula",
+   "lastName": "Skorupa",
+   "gender": "N",
+   "deceased": false,
+   "notes": "panna",
+   "events": [],
+   "fatherId": "pmvy6vwtgqgojrz",
+   "motherId": "pmvy6qh98uzy6ps"
+  },
+  {
+   "id": "pmvy6yu9aj92sxj",
+   "firstName": "Joanna",
+   "maidenName": "Skorupa",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6vwtgqgojrz",
+   "motherId": "pmvy6qh98uzy6ps"
+  },
+  {
+   "id": "pmvy6ywyoud22dp",
+   "firstName": "Bogusław",
+   "lastName": "Skorupa",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy6qh98uzy6ps",
+   "fatherId": "pmvy6vwtgqgojrz"
+  },
+  {
+   "id": "pmvy73fdauc50c3",
+   "firstName": "Janina",
+   "lastName": "Szczurowska",
+   "maidenName": "Sowa",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy73uosl087be",
+   "firstName": "Zdzisław",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "birthPlace": "Rzeszów",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6iu5yzmo7ph",
+   "motherId": "pmvy73fdauc50c3"
+  },
+  {
+   "id": "pmvy74d8ehqssbv",
+   "firstName": "Marek",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6iu5yzmo7ph",
+   "motherId": "pmvy73fdauc50c3"
+  },
+  {
+   "id": "pmvy74ho42dl1y0",
+   "firstName": "Marta",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy74wr254posp",
+   "firstName": "Joanna",
+   "lastName": "Lewandowska",
+   "maidenName": "Szczurowska",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy74d8ehqssbv",
+   "motherId": "pmvy74ho42dl1y0"
+  },
+  {
+   "id": "pmvy75m1cv0gq7e",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy76q1kpdccsb",
+   "firstName": "Jakub",
+   "lastName": "Szczurowski",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy74d8ehqssbv",
+   "motherId": "pmvy74ho42dl1y0"
+  },
+  {
+   "id": "pmvy777sw7a2vg0",
+   "firstName": "Jan",
+   "lastName": "Zięcina",
+   "gender": "N",
+   "deceased": false,
+   "notes": "pierwszy mąż",
+   "events": []
+  },
+  {
+   "id": "pmvy77qv8wzkhf6",
+   "firstName": "Ludwik",
+   "lastName": "Zięcina",
+   "gender": "N",
+   "deceased": false,
+   "residence": "Dąbrowa Tarnowska",
+   "events": [],
+   "fatherId": "pmvy777sw7a2vg0",
+   "motherId": "pmvy6j5im1p97cu"
+  },
+  {
+   "id": "pmvy785yaqlqdil",
+   "firstName": "Weronika",
+   "maidenName": "Zięcina",
+   "gender": "K",
+   "deceased": false,
+   "notes": "bliźniaczka",
+   "events": [],
+   "fatherId": "pmvy777sw7a2vg0",
+   "motherId": "pmvy6j5im1p97cu"
+  },
+  {
+   "id": "pmvy78fve8mcs7i",
+   "firstName": "Krystyna",
+   "lastName": "Szara",
+   "maidenName": "Zięcina",
+   "gender": "K",
+   "deceased": false,
+   "notes": "bliźniaczki",
+   "events": [],
+   "fatherId": "pmvy777sw7a2vg0",
+   "motherId": "pmvy6j5im1p97cu"
+  },
+  {
+   "id": "pmvy78xdol44785",
+   "firstName": "Adam",
+   "middleName": "Szary",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy796bokz1lci",
+   "firstName": "Małgorzata",
+   "lastName": "Klein Kudłaty",
+   "maidenName": "Szara",
+   "gender": "N",
+   "birthPlace": "Libusza",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy78xdol44785",
+   "motherId": "pmvy78fve8mcs7i"
+  },
+  {
+   "id": "pmvy79k6yk161mi",
+   "firstName": "Ewa",
+   "lastName": "Rurka",
+   "maidenName": "Szara",
+   "gender": "N",
+   "birthPlace": "Libusza",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy78xdol44785",
+   "motherId": "pmvy78fve8mcs7i"
+  },
+  {
+   "id": "pmvy7aveqfbxnva",
+   "lastName": "Klein",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7b5b4m5tzkl",
+   "firstName": "Antoni",
+   "lastName": "Kudłaty",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7bies8ie678",
+   "firstName": "Kamil",
+   "lastName": "Kudłaty",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy796bokz1lci",
+   "motherId": "pmvy7b5b4m5tzkl"
+  },
+  {
+   "id": "pmvy7byygkjw4zu",
+   "firstName": "Władysław",
+   "lastName": "Rurka",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7cc0wknro26",
+   "lastName": "Rurka",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy79k6yk161mi",
+   "motherId": "pmvy7byygkjw4zu"
+  },
+  {
+   "id": "pmvy7cwamrkw7m0",
+   "firstName": "Klaudia",
+   "lastName": "Klein",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy796bokz1lci",
+   "motherId": "pmvy7aveqfbxnva"
+  },
+  {
+   "id": "pmvy7d98ibpzx2c",
+   "lastName": "Zięcina",
+   "gender": "N",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7dn4yjt1cj7",
+   "lastName": "Zięcina",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7drlot18q9f",
+   "lastName": "Zięcina",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy77qv8wzkhf6",
+   "motherId": "pmvy7dn4yjt1cj7"
+  },
+  {
+   "id": "pmvy7duhoji52tr",
+   "lastName": "Zięcina",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy77qv8wzkhf6",
+   "motherId": "pmvy7dn4yjt1cj7"
+  },
+  {
+   "id": "pmvy7dwtuq19g3f",
+   "lastName": "Zięcina",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy77qv8wzkhf6",
+   "motherId": "pmvy7dn4yjt1cj7"
+  },
+  {
+   "id": "pmvy7fpvkj3xvjv",
+   "firstName": "Mieczysław",
+   "gender": "M",
+   "birthPlace": "Krosno",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7gcgefa8ksh",
+   "firstName": "Agnieszka",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7fpvkj3xvjv"
+  },
+  {
+   "id": "pmvy7glv4j4ypkb",
+   "firstName": "Elżbieta",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7fpvkj3xvjv"
+  },
+  {
+   "id": "pmvy7hwlul0hzm9",
+   "firstName": "\"Dolka\"",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7ii96evf1ba",
+   "firstName": "Jacek",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6jzn749y52p",
+   "motherId": "pmvy7hwlul0hzm9"
+  },
+  {
+   "id": "pmvy7il9qhzt7li",
+   "firstName": "Zdzisława",
+   "lastName": "Wintonow",
+   "maidenName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6jzn749y52p",
+   "motherId": "pmvy7hwlul0hzm9"
+  },
+  {
+   "id": "pmvy7iyd6oyy0oj",
+   "firstName": "Ryszard",
+   "lastName": "Wintonow",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7j3p0eas207",
+   "firstName": "Klaudiusz",
+   "lastName": "Wintonow",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7il9qhzt7li",
+   "motherId": "pmvy7iyd6oyy0oj"
+  },
+  {
+   "id": "pmvy7jukoekjwyr",
+   "firstName": "Irena",
+   "lastName": "Szczurowska",
+   "maidenName": "Tybor",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7k4p43lmi96",
+   "firstName": "Grażyna",
+   "maidenName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "notes": "panna, oślepła",
+   "events": [],
+   "fatherId": "pmvy6kal68w2ouy",
+   "motherId": "pmvy7jukoekjwyr"
+  },
+  {
+   "id": "pmvy7l3puja3qa0",
+   "firstName": "Jan",
+   "lastName": "Janaś",
+   "gender": "M",
+   "birthDate": "17 8 1920",
+   "deceased": true,
+   "deathDate": "22 11 1987",
+   "events": []
+  },
+  {
+   "id": "pmvy7lge0fzxmbp",
+   "firstName": "Arleta",
+   "lastName": "Armata",
+   "maidenName": "Janaś",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7l3puja3qa0",
+   "motherId": "pmvy6l6w0evxrtg"
+  },
+  {
+   "id": "pmvy7lwjwxfhza2",
+   "lastName": "Armata",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7m7mycfafuu",
+   "firstName": "Elżbieta",
+   "maidenName": "Janas",
+   "gender": "K",
+   "deceased": false,
+   "notes": "Amerykanka",
+   "events": [],
+   "fatherId": "pmvy7l3puja3qa0",
+   "motherId": "pmvy6l6w0evxrtg"
+  },
+  {
+   "id": "pmvy7njrp3p99cv",
+   "firstName": "Wacław",
+   "lastName": "Janaś",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7l3puja3qa0",
+   "motherId": "pmvy6l6w0evxrtg"
+  },
+  {
+   "id": "pmvy7nqao8w3uyc",
+   "lastName": "Janaś",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7nytcr45n77",
+   "lastName": "Janaś",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7njrp3p99cv",
+   "motherId": "pmvy7nqao8w3uyc"
+  },
+  {
+   "id": "pmvy7o27elke83y",
+   "lastName": "Janaś",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7njrp3p99cv",
+   "motherId": "pmvy7nqao8w3uyc"
+  },
+  {
+   "id": "pmvy7w726jw6xt0",
+   "firstName": "Jerzy",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy6kal68w2ouy",
+   "motherId": "pmvy7jukoekjwyr"
+  },
+  {
+   "id": "pmvy7wgj8oz6m6a",
+   "firstName": "Ewa",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7x72h0ll1ox",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7w726jw6xt0",
+   "motherId": "pmvy7wgj8oz6m6a"
+  },
+  {
+   "id": "pmvy7x9if7ni9zn",
+   "lastName": "Szczurowski",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7w726jw6xt0",
+   "motherId": "pmvy7wgj8oz6m6a"
+  },
+  {
+   "id": "pmvy7ydw7jum6ex",
+   "firstName": "Aleksandra",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy7yqzxbt4exh",
+   "firstName": "Anna",
+   "lastName": "Szczurowska",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7ii96evf1ba",
+   "motherId": "pmvy7ydw7jum6ex"
+  },
+  {
+   "id": "pmvy7ztic4gll32",
+   "firstName": "Dagmara",
+   "maidenName": "Wintonow",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy7j3p0eas207"
+  },
+  {
+   "id": "pmvy821g7e0s6s1",
+   "firstName": "Czesław",
+   "lastName": "Mazurkiewicz",
+   "gender": "N",
+   "deceased": false,
+   "notes": "drugi mąż, bez dzieci, wdowiec po Rozalii Mazurkiewicz",
+   "events": []
+  },
+  {
+   "id": "pmvy859gfc05kbv",
+   "firstName": "Aleksandra",
+   "lastName": "Mazurek",
+   "maidenName": "Glista",
+   "gender": "K",
+   "deceased": false,
+   "residence": "Kobylanka",
+   "notes": "mieszkały ciotka cela, koło cmentarza",
+   "events": []
+  },
+  {
+   "id": "pmvy86cf756duga",
+   "firstName": "Waldemar",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy31i00is89mp",
+   "motherId": "pmvy859gfc05kbv"
+  },
+  {
+   "id": "pmvy86mpvh45tw9",
+   "firstName": "Anna",
+   "lastName": "Tylutki",
+   "maidenName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy31i00is89mp",
+   "motherId": "pmvy859gfc05kbv"
+  },
+  {
+   "id": "pmvy8704fayswxc",
+   "firstName": "Krzysztof",
+   "lastName": "Tylutki",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy87861iasnn3",
+   "firstName": "Anna",
+   "lastName": "Mazurek",
+   "maidenName": "Żyrek",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy87ivb6d2pai",
+   "firstName": "Monika",
+   "maidenName": "Tylutki",
+   "gender": "K",
+   "deceased": false,
+   "notes": "wdowa",
+   "events": [],
+   "fatherId": "pmvy8704fayswxc",
+   "motherId": "pmvy86mpvh45tw9"
+  },
+  {
+   "id": "pmvy8a6xl7d042p",
+   "firstName": "Klaudia",
+   "lastName": "Tabaj",
+   "maidenName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy86cf756duga",
+   "motherId": "pmvy87861iasnn3"
+  },
+  {
+   "id": "pmvy8aimtupm850",
+   "firstName": "Andrzej",
+   "lastName": "Tylutki",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy8704fayswxc",
+   "motherId": "pmvy86mpvh45tw9"
+  },
+  {
+   "id": "pmvy8bfmx7ml2wd",
+   "firstName": "Rafał",
+   "lastName": "Tylutki",
+   "gender": "M",
+   "deceased": true,
+   "notes": "zmarł 5/6 latek",
+   "events": [],
+   "fatherId": "pmvy8704fayswxc",
+   "motherId": "pmvy86mpvh45tw9"
+  },
+  {
+   "id": "pmvy8co0bzuv39e",
+   "firstName": "Krzysztof",
+   "lastName": "Tabaj",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy8cv8n9weqfz",
+   "firstName": "Zuzanna",
+   "lastName": "Tabaj",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy8a6xl7d042p",
+   "fatherId": "pmvy8co0bzuv39e"
+  },
+  {
+   "id": "pmvy8d0itdahive",
+   "firstName": "Szymon",
+   "lastName": "Tabaj",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy8a6xl7d042p",
+   "fatherId": "pmvy8co0bzuv39e"
+  },
+  {
+   "id": "pmvy8d7sjhcuhz7",
+   "firstName": "Daniel",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy86cf756duga",
+   "motherId": "pmvy87861iasnn3"
+  },
+  {
+   "id": "pmvy8debfdbtvg5",
+   "firstName": "Anna",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy8dixlhwktz2",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy8d7sjhcuhz7",
+   "motherId": "pmvy8debfdbtvg5"
+  },
+  {
+   "id": "pmvy8dmm13v1o29",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy8d7sjhcuhz7",
+   "motherId": "pmvy8debfdbtvg5"
+  },
+  {
+   "id": "pmvy8dtrvhf54y2",
+   "firstName": "Tadeusz",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy8e0cvl1gqy7",
+   "firstName": "Aleksander",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": true,
+   "notes": "10 msc jak zmarł",
+   "events": [],
+   "motherId": "pmvy3153n6jn6vx",
+   "fatherId": "pmvy8dtrvhf54y2"
+  },
+  {
+   "id": "pmvy8egnhjdzyjt",
+   "firstName": "Roman",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy8dtrvhf54y2",
+   "motherId": "pmvy3153n6jn6vx"
+  },
+  {
+   "id": "pmvy8ersn9dh1es",
+   "firstName": "Małgorzata",
+   "lastName": "Pecka",
+   "maidenName": "Wachowicz",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy8fb832s5aq2",
+   "firstName": "Andrzej",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy3153n6jn6vx",
+   "fatherId": "pmvy8dtrvhf54y2"
+  },
+  {
+   "id": "pmvy8fkv11piau0",
+   "firstName": "Barbara",
+   "lastName": "Pecka",
+   "maidenName": "Myśliwiec",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy8g0ttzieqnv",
+   "firstName": "Michał",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": false,
+   "notes": "kawaler",
+   "events": [],
+   "motherId": "pmvy8fkv11piau0",
+   "fatherId": "pmvy8fb832s5aq2"
+  },
+  {
+   "id": "pmvy8gk6p632iic",
+   "firstName": "Wojeciech",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": false,
+   "notes": "po rozwodzie",
+   "events": [],
+   "fatherId": "pmvy8fb832s5aq2",
+   "motherId": "pmvy8fkv11piau0"
+  },
+  {
+   "id": "pmvy8gxq5sy0ya8",
+   "firstName": "Jagoda",
+   "lastName": "Pecka",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy8gk6p632iic"
+  },
+  {
+   "id": "pmvy8hi6x2vgkar",
+   "firstName": "Tomasz",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": true,
+   "deathDate": "2025",
+   "burialPlace": "Warszawa, Jasło",
+   "events": [],
+   "fatherId": "pmvy8egnhjdzyjt",
+   "motherId": "pmvy8ersn9dh1es"
+  },
+  {
+   "id": "pmvy8hzw5wjg76s",
+   "firstName": "Tomasz",
+   "lastName": "Pecka",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy8hi6x2vgkar",
+   "motherId": "pmvy8jqmf9i133a"
+  },
+  {
+   "id": "pmvy8j0nzk90f46",
+   "lastName": "Pecka",
+   "gender": "K",
+   "deceased": false,
+   "notes": "pierwsza żona, bez dzieci",
+   "events": []
+  },
+  {
+   "id": "pmvy8jqmf9i133a",
+   "firstName": "Magdalena",
+   "lastName": "Pecka",
+   "gender": "K",
+   "deceased": false,
+   "notes": "druga żona",
+   "events": []
+  },
+  {
+   "id": "pmvy8krgzb662j1",
+   "firstName": "Katarzyna",
+   "lastName": "Fil",
+   "maidenName": "Pecka",
+   "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmvy8egnhjdzyjt",
+   "motherId": "pmvy8ersn9dh1es"
+  },
+  {
+   "id": "pmvy8l97r4phtrb",
+   "firstName": "Tadeusz",
+   "lastName": "Fil",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmvy8lk17r3i2o0",
+   "firstName": "Dominika",
+   "lastName": "Kurowska",
+   "maidenName": "Pecka",
+   "gender": "K",
+   "deceased": false,
+   "occupation": "kierowca TIR'a",
+   "events": [],
+   "motherId": "pmvy8krgzb662j1"
+  },
+  {
+   "id": "pmvy8lzft1ikntp",
+   "firstName": "Stanisław",
+   "lastName": "Kurowski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  }
+ ],
+ "unions": [
+  {
+   "id": "umvy2mxgv4fc8ml",
+   "a": "pmvy2m6q0k58zvu",
+   "b": "pmvy2mc35h74mzm",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2p53rwjwlgb",
+   "a": "pmvy2oeo7r0k6w7",
+   "b": "pmvy2os3jryq9lm",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2pxro2njmh5",
+   "a": "pmvy2pgzztkit4f",
+   "b": "pmvy2pqpq1mh3bm",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2qpzpbghp42",
+   "a": "pmvy2qcbascca8r",
+   "b": "pmvy2qkmd0ddkik",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2s4bwj20uz4",
+   "a": "pmvy2rlim4florh",
+   "b": "pmvy2ru5xzqdxb6",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2spum2yri9n",
+   "a": "pmvy2s9z9cozikh",
+   "b": "pmvy2serhtwpk73",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2t6co90hy4j",
+   "a": "pmvy2ss7npocnzr",
+   "b": "pmvy2syveqfzgnj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2uoznfi2z4u",
+   "a": "pmvy2o2pkuuukze",
+   "b": "pmvy2u8hrbfwj9w",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2wswmnlxu5q",
+   "a": "pmvy2tc8vyn73nb",
+   "b": "pmvy2w8j4rzt9yu",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy2xx1o7ue7zr",
+   "a": "pmvy2xfac8000j4",
+   "b": "pmvy2xrb5j78j6n",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy33cln03olt0",
+   "a": "pmvy32ppro8nuan",
+   "b": "pmvy330237aziby",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy34fqefcuqax",
+   "a": "pmvy345i249oo9x",
+   "b": "pmvy349newb8p1u",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy378n0mk1kqy",
+   "a": "pmvy300jl0imktn",
+   "b": "pmvy36rx9n8ojtv",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy37p9x8n17ds",
+   "a": "pmvy2s9z9cozikh",
+   "b": "pmvy37igob3hqb4",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3bon4wwkks6",
+   "a": "pmvy3bampmmd8mc",
+   "b": "pmvy3bhou8kz9y2",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3ck7bump84d",
+   "a": "pmvy3byl3g8dib5",
+   "b": "pmvy3cdx0mnu8ly",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3g32bd8kv9b",
+   "a": "pmvy3eef8bkrrd3",
+   "b": "pmvy3fremuqgutd",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3mk0q29owmf",
+   "a": "pmvy3ix9uny5ppq",
+   "b": "pmvy3m6qswfcc5f",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3sgqesp738e",
+   "a": "pmvy3s2j4phzy0e",
+   "b": "pmvy3sbnarsqdpy",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3u6vg2qlug9",
+   "a": "pmvy3tk4cm00jlh",
+   "b": "pmvy3tzsodfwar8",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3v563k8g5hb",
+   "a": "pmvy3uq00stptw5",
+   "b": "pmvy3v2105w4mlz",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3vg7xgrleao",
+   "a": "pmvy3ulbmsqxjbh",
+   "b": "pmvy3vcbelch2z6",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3w1dvilln4v",
+   "a": "pmvy3vivojf3s6s",
+   "b": "pmvy3vvvg0cq76n",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy3x7d0g80lxx",
+   "a": "pmvy3vo3m3y0po0",
+   "b": "pmvy3x2muyixamh",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy419wjp4pvyc",
+   "a": "pmvy2z6tdrl5avg",
+   "b": "pmvy414uwv0pcho",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy43zjwb6rgig",
+   "a": "pmvy43js4b0cqwn",
+   "b": "pmvy43o3aw7761s",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy44rqh7xnwbj",
+   "a": "pmvy448ggl4ju71",
+   "b": "pmvy44cie6wssu3",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy45m19220vqq",
+   "a": "pmvy44zwsqnzrbp",
+   "b": "pmvy457x86n06sy",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4961cir3i8b",
+   "a": "pmvy2uzn16ho0rt",
+   "b": "pmvy48yta38jwaj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4agii00sfx7",
+   "a": "pmvy49mg4fhk7o6",
+   "b": "pmvy4abu42jeai4",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4b4wmlenkvh",
+   "a": "pmvy499pot8lt45",
+   "b": "pmvy4b07w7ehpuo",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4cp3ccp7xs2",
+   "a": "pmvy49r0a5ptz88",
+   "b": "pmvy4ci7g8iglmb",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4gjfzcc5ybz",
+   "a": "pmvy4fgkm2v2k9w",
+   "b": "pmvy4g1jmh3rc4k",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4i432n4oojb",
+   "a": "pmvy30klva3nf9e",
+   "b": "pmvy4hw881aone1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4jy4jdtbjrq",
+   "a": "pmvy4jgt8l51axz",
+   "b": "pmvy4jnhiya789i",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4lfq0rrpnmr",
+   "a": "pmvy322u53bpbvq",
+   "b": "pmvy4l0ws0wu2js",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4n89ojysi7e",
+   "a": "pmvy4lprkirdqan",
+   "b": "pmvy4mvpozxacdp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4nt118ymbj6",
+   "a": "pmvy4ndycsp3m6i",
+   "b": "pmvy4nh5umz04md",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4pm2t0c2tag",
+   "a": "pmvy4p5sicewfar",
+   "b": "pmvy4pd2al13gto",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4q6zs0h3514",
+   "a": "pmvy4pph6mzqirk",
+   "b": "pmvy4pyvwy7wstb",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4rvw629bdsx",
+   "a": "pmvy4qeqkkztcyx",
+   "b": "pmvy4rq5awqgsm7",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4sj7m78eqkm",
+   "a": "pmvy4s6pyb5l4wl",
+   "b": "pmvy4sd7m0ijl6m",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4tbix3v9qsv",
+   "a": "pmvy4sw9or1yfn3",
+   "b": "pmvy4t5wcqahqlg",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4ufmmase09r",
+   "a": "pmvy4qwbkdc3pi8",
+   "b": "pmvy4u7agzvdcba",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4vbhp9iyzzo",
+   "a": "pmvy4uk5gtwfs0m",
+   "b": "pmvy4v402alkopl",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4yi37couzyq",
+   "a": "pmvy4r478o1xtcv",
+   "b": "pmvy4y70iysaauj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy4zevxhcmqgn",
+   "a": "pmvy4yq14n04lee",
+   "b": "pmvy4z7wdvoobvx",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy53zpv8mnn4o",
+   "a": "pmvy532oneprc1h",
+   "b": "pmvy53v8nb7tndu",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5efshuwp56l",
+   "a": "pmvy544sxg7twzv",
+   "b": "pmvy5ecgph57imd",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5g8hlzlpx8z",
+   "a": "pmvy5483netleul",
+   "b": "pmvy5furthcd8pb",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5hkfr4dy677",
+   "a": "pmvy53ijburkxsi",
+   "b": "pmvy5hc6t8pejhb",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5hyazhxvupr",
+   "a": "pmvy59uhnqop3qp",
+   "b": "pmvy5hrhdsfver1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5iyl97sacnl",
+   "a": "pmvy5ifv7lyiw70",
+   "b": "pmvy5iq0r9f7isk",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5k9pl4z771a",
+   "a": "pmvy53bh3r5zqlv",
+   "b": "pmvy5k5xh545vix",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5l94f295dap",
+   "a": "pmvy53mrf5hqgvb",
+   "b": "pmvy5kxyzkz68i6",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5lxp4he9ejs",
+   "a": "pmvy5lc4x4ctwty",
+   "b": "pmvy5luapf4sl9w",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5o70b67e1fa",
+   "a": "pmvy5mmrj52od23",
+   "b": "pmvy5o1wr8ebd7o",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5p8wb9977xb",
+   "a": "pmvy5ot25vsbv39",
+   "b": "pmvy5p0b76kxer1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5rjwdrsrfio",
+   "a": "pmvy5plqdf0bpnx",
+   "b": "pmvy5qxw3eiyx97",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5rtotne5g9e",
+   "a": "pmvy5plqdf0bpnx",
+   "b": "pmvy5rl8btklxr6",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5sl8enosamz",
+   "a": "pmvy5pfx9c0be40",
+   "b": "pmvy5s9nbrpwgh4",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5u5ffv8yrnz",
+   "a": "pmvy5px1d9korpk",
+   "b": "pmvy5tn25o7wdls",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5vbdpraniyd",
+   "a": "pmvy5q1x1dzeh6s",
+   "b": "pmvy5v7kjnryyq1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5w59xpkyhql",
+   "a": "pmvy5pbx7yh7kjn",
+   "b": "pmvy5vm7x4fl9v9",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy5y609na07u3",
+   "a": "pmvy5xtm74v969c",
+   "b": "pmvy5xx8jap348f",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy60t7wllx5ag",
+   "a": "pmvy4wpduvnqpd1",
+   "b": "pmvy60h5bqw69ij",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy61q55yaoeae",
+   "a": "pmvy4wtio8ct9dc",
+   "b": "pmvy61htn11xyel",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy65q9bxcuwvx",
+   "a": "pmvy4zilj8u9mjk",
+   "b": "pmvy65hj1n53ub0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy668uwpwg2nh",
+   "a": "pmvy4zmbf5eroc7",
+   "b": "pmvy663abb78dd3",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy6fjkelwvo0q",
+   "a": "pmvy6facl6cfubb",
+   "b": "pmvy6fei3stwy4a",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy6njulkfxiik",
+   "a": "pmvy6grs0ngd75r",
+   "b": "pmvy6n8ey0hn9b3",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy6rm6s3zt0y0",
+   "a": "pmvy6r0k4wde6nt",
+   "b": "pmvy6rine4df0pm",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy6ta520bs1c7",
+   "a": "pmvy6s5zg7e77jh",
+   "b": "pmvy6t5tcb2xlxb",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy6w212c1y6jq",
+   "a": "pmvy6qh98uzy6ps",
+   "b": "pmvy6vwtgqgojrz",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy6wq200fg8tn",
+   "a": "pmvy6oiqgohr75b",
+   "b": "pmvy6wkusogk4mz",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy73mbc1ucpf1",
+   "a": "pmvy6iu5yzmo7ph",
+   "b": "pmvy73fdauc50c3",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy74pdofiblvc",
+   "a": "pmvy74d8ehqssbv",
+   "b": "pmvy74ho42dl1y0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy75tteqb590a",
+   "a": "pmvy73uosl087be",
+   "b": "pmvy75m1cv0gq7e",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy77mtqw9ftr3",
+   "a": "pmvy6j5im1p97cu",
+   "b": "pmvy777sw7a2vg0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy78zxcygp6r1",
+   "a": "pmvy78fve8mcs7i",
+   "b": "pmvy78xdol44785",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7b1v6hq30ta",
+   "a": "pmvy796bokz1lci",
+   "b": "pmvy7aveqfbxnva",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7bak6klonuz",
+   "a": "pmvy796bokz1lci",
+   "b": "pmvy7b5b4m5tzkl",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7c7bkiwvqe8",
+   "a": "pmvy79k6yk161mi",
+   "b": "pmvy7byygkjw4zu",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7diycnmdgll",
+   "a": "pmvy796bokz1lci",
+   "b": "pmvy7d98ibpzx2c",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7dqg1xrdk0l",
+   "a": "pmvy77qv8wzkhf6",
+   "b": "pmvy7dn4yjt1cj7",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7g6bi3sqw14",
+   "a": "pmvy785yaqlqdil",
+   "b": "pmvy7fpvkj3xvjv",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7ign2e11mj0",
+   "a": "pmvy6jzn749y52p",
+   "b": "pmvy7hwlul0hzm9",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7j2ivb77fox",
+   "a": "pmvy7il9qhzt7li",
+   "b": "pmvy7iyd6oyy0oj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7k2zg6lgfpy",
+   "a": "pmvy6kal68w2ouy",
+   "b": "pmvy7jukoekjwyr",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7l768jkc95p",
+   "a": "pmvy6l6w0evxrtg",
+   "b": "pmvy7l3puja3qa0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7lzbo9gal7k",
+   "a": "pmvy7lge0fzxmbp",
+   "b": "pmvy7lwjwxfhza2",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7nskus8zfjx",
+   "a": "pmvy7njrp3p99cv",
+   "b": "pmvy7nqao8w3uyc",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7wl8p9w3vu8",
+   "a": "pmvy7w726jw6xt0",
+   "b": "pmvy7wgj8oz6m6a",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy7ymtrpfgl6x",
+   "a": "pmvy7ii96evf1ba",
+   "b": "pmvy7ydw7jum6ex",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy82io3u22324",
+   "a": "pmvy6j5im1p97cu",
+   "b": "pmvy821g7e0s6s1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy868f8nyidjy",
+   "a": "pmvy31i00is89mp",
+   "b": "pmvy859gfc05kbv",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy875f1150vvo",
+   "a": "pmvy86mpvh45tw9",
+   "b": "pmvy8704fayswxc",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy87dkuwsj1t2",
+   "a": "pmvy86cf756duga",
+   "b": "pmvy87861iasnn3",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8csxy6idz99",
+   "a": "pmvy8a6xl7d042p",
+   "b": "pmvy8co0bzuv39e",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8dgol0zmvk8",
+   "a": "pmvy8d7sjhcuhz7",
+   "b": "pmvy8debfdbtvg5",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8dyqx9qq3wr",
+   "a": "pmvy3153n6jn6vx",
+   "b": "pmvy8dtrvhf54y2",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8f397w9buhr",
+   "a": "pmvy8egnhjdzyjt",
+   "b": "pmvy8ersn9dh1es",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8foqneqkg7r",
+   "a": "pmvy8fb832s5aq2",
+   "b": "pmvy8fkv11piau0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8j4rn2q301y",
+   "a": "pmvy8hi6x2vgkar",
+   "b": "pmvy8j0nzk90f46",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8jt969nrhd7",
+   "a": "pmvy8hi6x2vgkar",
+   "b": "pmvy8jqmf9i133a",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8lf3nwfjj34",
+   "a": "pmvy8krgzb662j1",
+   "b": "pmvy8l97r4phtrb",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umvy8m4a0jlanib",
+   "a": "pmvy8lk17r3i2o0",
+   "b": "pmvy8lzft1ikntp",
+   "status": "malzenstwo"
+  }
+ ]
+}
