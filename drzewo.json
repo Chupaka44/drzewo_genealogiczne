@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-01T20:52:37.640Z",
+ "exported": "2026-11-03T21:46:03.316Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -724,9 +724,11 @@
    "firstName": "Sylwester",
    "lastName": "Setlak",
    "gender": "M",
-   "deceased": false,
+   "deceased": true,
+   "deathDate": "13 12 1959",
+   "deathPlace": "Poznań",
    "residence": "Poznań",
-   "notes": "Samobójstwo w więzieniu w Poznaniu",
+   "notes": "Samobójstwo w więzieniu w Poznaniu,\n\nPochówek\nCmentarz komunalny nr 2 Junikowo w Poznaniu\nPoznań, Miasto Poznań, Wielkopolskie, Polska\nKwatera\nPole 14, Kwatera 3, Rząd 2, Miejsce 14",
    "events": [],
    "fatherId": "pmvy2s9z9cozikh",
    "motherId": "pmvy2serhtwpk73"
