@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-03T21:57:23.628Z",
+ "exported": "2026-11-03T21:57:58.090Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -856,6 +856,7 @@
    "birthPlace": "Rzeszów",
    "deceased": true,
    "deathDate": "06 04 2012",
+   "deathPlace": "Rzeszów",
    "burialPlace": "Rzeszów",
    "events": [],
    "fatherId": "pmvy3vo3m3y0po0",
