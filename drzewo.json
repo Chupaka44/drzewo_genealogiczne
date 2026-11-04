@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:00:30.734Z",
+ "exported": "2026-11-04T23:00:49.643Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1182,7 +1182,8 @@
    "deceased": true,
    "deathDate": "3 05 1961",
    "burialPlace": "Korczyna",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2pzrn7dq7we3"
   },
   {
    "id": "pmvy4hw881aone1",
@@ -3274,6 +3275,14 @@
    "events": [],
    "fatherId": "pmvy2s9z9cozikh",
    "motherId": "pmvy2serhtwpk73"
+  },
+  {
+   "id": "pmw2pzrn7dq7we3",
+   "firstName": "Marcin",
+   "lastName": "Świątkowski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
