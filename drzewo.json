@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:41:51.483Z",
+ "exported": "2026-11-04T23:42:05.045Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3737,7 +3737,8 @@
    "deceased": true,
    "deathDate": "2018",
    "events": [],
-   "fatherId": "pmw2rgo8tqxn2t6"
+   "fatherId": "pmw2rgo8tqxn2t6",
+   "motherId": "pmw2rgssskqg1u7"
   },
   {
    "id": "pmw2rfrrgu0eptu",
@@ -3762,6 +3763,15 @@
    "firstName": "Ludwik",
    "lastName": "Tumidajewicz",
    "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw2rgssskqg1u7",
+   "firstName": "Maria",
+   "lastName": "Tumidajewicz",
+   "maidenName": "Wędrychowicz",
+   "gender": "K",
    "deceased": false,
    "events": []
   }
@@ -4485,6 +4495,12 @@
    "id": "umw2rfq4uxo2zyc",
    "a": "pmw2rcz5713gdyq",
    "b": "pmw2rfbn7tubv8d",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2rh1y64ebfig",
+   "a": "pmw2rgo8tqxn2t6",
+   "b": "pmw2rgssskqg1u7",
    "status": "malzenstwo"
   }
  ]
