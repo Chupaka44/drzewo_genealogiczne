@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:40:30.836Z",
+ "exported": "2026-11-04T23:41:03.064Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3725,6 +3725,18 @@
    "events": [],
    "fatherId": "pmw2rcr90a2fdhl",
    "motherId": "pmw2q2ot6suzk24"
+  },
+  {
+   "id": "pmw2rfbn7tubv8d",
+   "firstName": "Anna",
+   "lastName": "Mruk",
+   "maidenName": "Tumidajewicz",
+   "gender": "K",
+   "birthDate": "1938",
+   "birthPlace": "Korczyna",
+   "deceased": true,
+   "deathDate": "2018",
+   "events": []
   }
  ],
  "unions": [
@@ -4440,6 +4452,12 @@
    "id": "umw2rcvtjpu2pnu",
    "a": "pmw2q2ot6suzk24",
    "b": "pmw2rcr90a2fdhl",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2rfq4uxo2zyc",
+   "a": "pmw2rcz5713gdyq",
+   "b": "pmw2rfbn7tubv8d",
    "status": "malzenstwo"
   }
  ]
