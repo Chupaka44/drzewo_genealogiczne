@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:02:03.899Z",
+ "exported": "2026-11-04T23:02:48.510Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3328,6 +3328,18 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2q29cq0ompps",
+   "firstName": "Wiktoria",
+   "lastName": "Liana",
+   "maidenName": "Setlak",
+   "gender": "K",
+   "birthDate": "1905",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4fgkm2v2k9w",
+   "motherId": "pmvy4g1jmh3rc4k"
   }
  ],
  "unions": [
