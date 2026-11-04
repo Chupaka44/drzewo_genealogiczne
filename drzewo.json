@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:37:20.062Z",
+ "exported": "2026-11-04T23:37:56.072Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3657,6 +3657,21 @@
    "events": [],
    "motherId": "pmw2q29cq0ompps",
    "fatherId": "pmw2ql3d7008gs4"
+  },
+  {
+   "id": "pmw2rb72k153zf4",
+   "firstName": "Maria",
+   "lastName": "Władyka",
+   "maidenName": "Liana",
+   "gender": "K",
+   "birthDate": "1946",
+   "birthPlace": "Korczyna",
+   "deceased": true,
+   "deathDate": "2020",
+   "burialPlace": "Gorlice",
+   "events": [],
+   "fatherId": "pmw2ql3d7008gs4",
+   "motherId": "pmw2q29cq0ompps"
   }
  ],
  "unions": [
