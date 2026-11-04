@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:36:34.763Z",
+ "exported": "2026-11-04T23:36:42.029Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3617,6 +3617,33 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2ra05v28utf4",
+   "lastName": "Trznadel",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2qlx23egd7rs",
+   "fatherId": "pmw2r9u2r47xkq2"
+  },
+  {
+   "id": "pmw2ra1zfx8693y",
+   "lastName": "Trznadel",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2qlx23egd7rs",
+   "fatherId": "pmw2r9u2r47xkq2"
+  },
+  {
+   "id": "pmw2ra3okyew4jc",
+   "lastName": "Trznadel",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2qlx23egd7rs",
+   "fatherId": "pmw2r9u2r47xkq2"
   }
  ],
  "unions": [
