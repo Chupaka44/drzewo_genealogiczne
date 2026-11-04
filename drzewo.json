@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:26:28.441Z",
+ "exported": "2026-11-04T23:26:45.383Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3378,19 +3378,6 @@
    "burialPlace": "Cieklin",
    "events": [],
    "fatherId": "pmvy4fgkm2v2k9w",
-   "motherId": "pmvy4g1jmh3rc4k"
-  },
-  {
-   "id": "pmw2q5y2ims7hit",
-   "firstName": "Andrzej",
-   "lastName": "Setlak",
-   "gender": "M",
-   "birthDate": "1912",
-   "birthPlace": "Pagórek",
-   "deceased": true,
-   "deathDate": "1950",
-   "burialPlace": "Biecz",
-   "events": [],
    "motherId": "pmvy4g1jmh3rc4k"
   },
   {
