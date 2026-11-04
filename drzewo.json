@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:52:48.574Z",
+ "exported": "2026-11-04T23:53:24.953Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3985,6 +3985,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2rvj8308bh7l",
+   "firstName": "Józef",
+   "lastName": "Gawlik",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw2rugu41q5il0",
+   "motherId": "pmw2run64bwwdu5"
   }
  ],
  "unions": [
