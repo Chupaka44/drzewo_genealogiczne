@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:38:43.051Z",
+ "exported": "2026-11-04T23:38:50.464Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3681,6 +3681,14 @@
    "events": [],
    "fatherId": "pmw2ql3d7008gs4",
    "motherId": "pmw2q29cq0ompps"
+  },
+  {
+   "id": "pmw2rcr90a2fdhl",
+   "firstName": "Jan",
+   "lastName": "Mruk",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -4390,6 +4398,12 @@
    "id": "umw2r9z3qduv8k5",
    "a": "pmw2qlx23egd7rs",
    "b": "pmw2r9u2r47xkq2",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2rcvtjpu2pnu",
+   "a": "pmw2q2ot6suzk24",
+   "b": "pmw2rcr90a2fdhl",
    "status": "malzenstwo"
   }
  ]
