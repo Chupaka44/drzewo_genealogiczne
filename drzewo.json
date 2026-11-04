@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T22:58:28.064Z",
+ "exported": "2026-11-04T22:58:39.500Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1166,8 +1166,7 @@
    "birthDate": "1875",
    "deceased": true,
    "deathDate": "1938",
-   "events": [],
-   "fatherId": "pmw2puw11pjiqp3"
+   "events": []
   },
   {
    "id": "pmvy4g1jmh3rc4k",
@@ -3269,19 +3268,6 @@
    "events": [],
    "fatherId": "pmvy2s9z9cozikh",
    "motherId": "pmvy2serhtwpk73"
-  },
-  {
-   "id": "pmw2puw11pjiqp3",
-   "firstName": "Józef",
-   "lastName": "Setlak",
-   "gender": "M",
-   "birthDate": "10 02 1877",
-   "birthPlace": "Pagórek",
-   "deceased": true,
-   "deathDate": "11 12 1938",
-   "burialPlace": "Wójtowa",
-   "occupation": "kowal",
-   "events": []
   }
  ],
  "unions": [
