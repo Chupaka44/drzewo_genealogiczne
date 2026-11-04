@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:01:56.889Z",
+ "exported": "2026-11-04T23:02:03.899Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3316,6 +3316,15 @@
    "firstName": "Marianna",
    "lastName": "Setlak",
    "maidenName": "Knapik",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2q1hkjkils0m"
+  },
+  {
+   "id": "pmw2q1hkjkils0m",
+   "firstName": "Magdalena",
+   "lastName": "Knapik",
    "gender": "K",
    "deceased": false,
    "events": []
