@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:10:24.210Z",
+ "exported": "2026-11-04T23:11:03.292Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3351,7 +3351,10 @@
    "lastName": "Mruk",
    "maidenName": "Setlak",
    "gender": "K",
-   "deceased": false,
+   "birthDate": "1907",
+   "deceased": true,
+   "deathDate": "1964",
+   "burialPlace": "Gorlice",
    "events": [],
    "fatherId": "pmvy4fgkm2v2k9w",
    "motherId": "pmvy4g1jmh3rc4k"
