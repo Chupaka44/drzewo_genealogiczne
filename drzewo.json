@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:40:25.468Z",
+ "exported": "2026-11-04T23:40:30.836Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3720,11 +3720,11 @@
    "id": "pmw2renfvmok3bz",
    "lastName": "Zapłata",
    "maidenName": "Mruk",
-   "gender": "N",
+   "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q2ot6suzk24",
-   "fatherId": "pmw2rcr90a2fdhl"
+   "fatherId": "pmw2rcr90a2fdhl",
+   "motherId": "pmw2q2ot6suzk24"
   }
  ],
  "unions": [
