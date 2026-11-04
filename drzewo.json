@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:24:49.252Z",
+ "exported": "2026-11-04T23:24:57.119Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3453,7 +3453,7 @@
    "firstName": "Andrzej",
    "lastName": "Świątkowski",
    "gender": "M",
-   "deceased": false,
+   "deceased": true,
    "events": []
   },
   {
