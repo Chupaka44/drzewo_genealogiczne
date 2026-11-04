@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:55:21.008Z",
+ "exported": "2026-11-04T23:55:35.884Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4028,13 +4028,23 @@
    "deathDate": "20 01 2003",
    "burialPlace": "Biecz",
    "events": [],
-   "fatherId": "pmw2ry0j83wa482"
+   "fatherId": "pmw2ry0j83wa482",
+   "motherId": "pmw2ry5wcsbcalv"
   },
   {
    "id": "pmw2ry0j83wa482",
    "firstName": "Józef",
    "lastName": "Rządca",
    "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw2ry5wcsbcalv",
+   "firstName": "Maria",
+   "lastName": "Rządca",
+   "maidenName": "Przybyłowicz",
+   "gender": "K",
    "deceased": false,
    "events": []
   }
@@ -4812,6 +4822,12 @@
    "id": "umw2rxrtyhqzs9o",
    "a": "pmw2qe3vehknpro",
    "b": "pmw2rx7a4yckp91",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2ryflryzeo4r",
+   "a": "pmw2ry0j83wa482",
+   "b": "pmw2ry5wcsbcalv",
    "status": "malzenstwo"
   }
  ]
