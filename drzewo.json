@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:40:06.636Z",
+ "exported": "2026-11-04T23:40:25.468Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3712,6 +3712,16 @@
    "birthPlace": "Korczyna",
    "deceased": true,
    "deathDate": "2011",
+   "events": [],
+   "motherId": "pmw2q2ot6suzk24",
+   "fatherId": "pmw2rcr90a2fdhl"
+  },
+  {
+   "id": "pmw2renfvmok3bz",
+   "lastName": "Zapłata",
+   "maidenName": "Mruk",
+   "gender": "N",
+   "deceased": false,
    "events": [],
    "motherId": "pmw2q2ot6suzk24",
    "fatherId": "pmw2rcr90a2fdhl"
