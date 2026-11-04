@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:06:51.898Z",
+ "exported": "2026-11-04T23:10:14.988Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3382,7 +3382,7 @@
    "deathDate": "1950",
    "burialPlace": "Biecz",
    "events": [],
-   "fatherId": "pmvy4fgkm2v2k9w",
+   "fatherId": "pmw2q70ea1e3oyx",
    "motherId": "pmvy4g1jmh3rc4k"
   },
   {
