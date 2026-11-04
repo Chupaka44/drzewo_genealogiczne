@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:21:02.068Z",
+ "exported": "2026-11-04T23:21:16.324Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -746,8 +746,7 @@
    "residence": "Poznań",
    "notes": "Samobójstwo w więzieniu w Poznaniu,\n\nPochówek\nCmentarz komunalny nr 2 Junikowo w Poznaniu\nPoznań, Miasto Poznań, Wielkopolskie, Polska\nKwatera\nPole 14, Kwatera 3, Rząd 2, Miejsce 14",
    "events": [],
-   "fatherId": "pmvy2s9z9cozikh",
-   "motherId": "pmvy2serhtwpk73"
+   "fatherId": "pmvy2s9z9cozikh"
   },
   {
    "id": "pmvy3tzsodfwar8",
