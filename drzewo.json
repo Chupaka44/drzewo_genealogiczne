@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:15:49.200Z",
+ "exported": "2026-11-04T23:16:51.076Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -414,11 +414,12 @@
   },
   {
    "id": "pmvy37igob3hqb4",
-   "firstName": "Franciszka",
+   "firstName": "Franciszka/Maria",
    "lastName": "Setlak",
    "maidenName": "Wojtunik",
    "gender": "K",
-   "deceased": false,
+   "deceased": true,
+   "deathDate": "przed 1940",
    "events": []
   },
   {
