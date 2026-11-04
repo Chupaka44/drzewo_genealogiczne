@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:54:03.343Z",
+ "exported": "2026-11-04T23:55:05.073Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4015,6 +4015,19 @@
    "events": [],
    "motherId": "pmw2ru8czimxenu",
    "fatherId": "pmw2rto3vh29nr2"
+  },
+  {
+   "id": "pmw2rx7a4yckp91",
+   "firstName": "Helena",
+   "lastName": "Setlak",
+   "maidenName": "Rządca",
+   "gender": "K",
+   "birthDate": "15 12 1924",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "20 01 2003",
+   "burialPlace": "Biecz",
+   "events": []
   }
  ],
  "unions": [
@@ -4784,6 +4797,12 @@
    "id": "umw2ruuhztiujmj",
    "a": "pmw2rugu41q5il0",
    "b": "pmw2run64bwwdu5",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2rxrtyhqzs9o",
+   "a": "pmw2qe3vehknpro",
+   "b": "pmw2rx7a4yckp91",
    "status": "malzenstwo"
   }
  ]
