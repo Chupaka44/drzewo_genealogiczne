@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:45:21.137Z",
+ "exported": "2026-11-04T23:46:02.758Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3850,6 +3850,19 @@
    "events": [],
    "fatherId": "pmw2qf81nihqrxv",
    "motherId": "pmw2rj1q4gn0cid"
+  },
+  {
+   "id": "pmw2rli5wf46iph",
+   "firstName": "Stanisław",
+   "lastName": "Gościmiński",
+   "gender": "M",
+   "birthDate": "05 05 1938",
+   "birthPlace": "Wójtowa",
+   "deceased": true,
+   "deathDate": "29 09 2018",
+   "deathPlace": "Gorlice",
+   "burialPlace": "Wójtowa",
+   "events": []
   }
  ],
  "unions": [
@@ -4589,6 +4602,12 @@
    "id": "umw2rk293z0plbb",
    "a": "pmw2qf81nihqrxv",
    "b": "pmw2rj1q4gn0cid",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2rm5d9vygrt1",
+   "a": "pmw2rk7k4waxfcu",
+   "b": "pmw2rli5wf46iph",
    "status": "malzenstwo"
   }
  ]
