@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:41:13.093Z",
+ "exported": "2026-11-04T23:41:51.483Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3736,7 +3736,8 @@
    "birthPlace": "Korczyna",
    "deceased": true,
    "deathDate": "2018",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2rgo8tqxn2t6"
   },
   {
    "id": "pmw2rfrrgu0eptu",
@@ -3755,6 +3756,14 @@
    "events": [],
    "fatherId": "pmw2rcz5713gdyq",
    "motherId": "pmw2rfbn7tubv8d"
+  },
+  {
+   "id": "pmw2rgo8tqxn2t6",
+   "firstName": "Ludwik",
+   "lastName": "Tumidajewicz",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
