@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:34:26.264Z",
+ "exported": "2026-11-04T23:34:44.161Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3566,6 +3566,13 @@
    "events": [],
    "fatherId": "pmw2r3i9ob56xec",
    "motherId": "pmw2r2dzgx5zsy4"
+  },
+  {
+   "id": "pmw2r7gx0uq57h5",
+   "lastName": "Aftyka",
+   "gender": "N",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -4257,6 +4264,12 @@
    "id": "umw2r592md1022n",
    "a": "pmw2r4gqccwuq6p",
    "b": "pmw2r571vb5c0et",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2r7lrot0cxaq",
+   "a": "pmw2r6mjgkbqrpg",
+   "b": "pmw2r7gx0uq57h5",
    "status": "malzenstwo"
   }
  ]
