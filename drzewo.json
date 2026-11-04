@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:32:26.751Z",
+ "exported": "2026-11-04T23:32:42.939Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3521,6 +3521,15 @@
    "events": [],
    "motherId": "pmw2r2dzgx5zsy4",
    "fatherId": "pmw2r3i9ob56xec"
+  },
+  {
+   "id": "pmw2r4pubeibn29",
+   "firstName": "Justyna",
+   "lastName": "Zabawa",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw2r4gqccwuq6p"
   }
  ],
  "unions": [
