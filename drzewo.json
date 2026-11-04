@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:01:06.916Z",
+ "exported": "2026-11-04T23:01:18.135Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1183,7 +1183,8 @@
    "deathDate": "3 05 1961",
    "burialPlace": "Korczyna",
    "events": [],
-   "fatherId": "pmw2pzrn7dq7we3"
+   "fatherId": "pmw2pzrn7dq7we3",
+   "motherId": "pmw2q0fyat58ndy"
   },
   {
    "id": "pmvy4hw881aone1",
@@ -3291,6 +3292,14 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2q0fyat58ndy",
+   "firstName": "Anna",
+   "lastName": "Świątkowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -3940,6 +3949,12 @@
    "id": "umw2q0d98lv8b82",
    "a": "pmvy4g1jmh3rc4k",
    "b": "pmw2q057fmuniw0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2q0lwt8l7umz",
+   "a": "pmw2pzrn7dq7we3",
+   "b": "pmw2q0fyat58ndy",
    "status": "malzenstwo"
   }
  ]
