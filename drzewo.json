@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:34:48.458Z",
+ "exported": "2026-11-04T23:35:00.800Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3573,6 +3573,16 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2r7qcc1qe31t",
+   "lastName": "Jakubczak",
+   "maidenName": "Aftyka",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw2r7gx0uq57h5",
+   "motherId": "pmw2r6mjgkbqrpg"
   }
  ],
  "unions": [
