@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:47:49.960Z",
+ "exported": "2026-11-04T23:48:39.645Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3895,6 +3895,14 @@
    "events": [],
    "motherId": "pmw2rj1q4gn0cid",
    "fatherId": "pmw2qf81nihqrxv"
+  },
+  {
+   "id": "pmw2rp390j7mr7h",
+   "lastName": "Setlak",
+   "maidenName": "Skórska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -4640,6 +4648,12 @@
    "id": "umw2rm5d9vygrt1",
    "a": "pmw2rk7k4waxfcu",
    "b": "pmw2rli5wf46iph",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2rpifjijcll3",
+   "a": "pmw2rnyp9y0mius",
+   "b": "pmw2rp390j7mr7h",
    "status": "malzenstwo"
   }
  ]
