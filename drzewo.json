@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:53:42.959Z",
+ "exported": "2026-11-04T23:54:03.343Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4005,6 +4005,16 @@
    "events": [],
    "fatherId": "pmw2rugu41q5il0",
    "motherId": "pmw2run64bwwdu5"
+  },
+  {
+   "id": "pmw2rw8rgpxvl82",
+   "lastName": "Pyznar",
+   "maidenName": "Gawlik",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2ru8czimxenu",
+   "fatherId": "pmw2rto3vh29nr2"
   }
  ],
  "unions": [
