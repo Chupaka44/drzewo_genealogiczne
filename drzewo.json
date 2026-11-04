@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:11:28.757Z",
+ "exported": "2026-11-04T23:12:24.556Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3385,6 +3385,21 @@
    "deathDate": "1950",
    "burialPlace": "Biecz",
    "events": [],
+   "motherId": "pmvy4g1jmh3rc4k"
+  },
+  {
+   "id": "pmw2qe3vehknpro",
+   "firstName": "Ludwik",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "19 01 1917",
+   "birthPlace": "Pagórek",
+   "deceased": true,
+   "deathDate": "14 06 1990",
+   "burialPlace": "Biecz",
+   "deathCause": "utonięcie",
+   "events": [],
+   "fatherId": "pmvy4fgkm2v2k9w",
    "motherId": "pmvy4g1jmh3rc4k"
   }
  ],
