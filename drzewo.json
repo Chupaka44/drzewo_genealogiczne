@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:17:33.859Z",
+ "exported": "2026-11-04T23:19:00.292Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3432,6 +3432,19 @@
    "birthPlace": "Libusza",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw2qlx23egd7rs",
+   "firstName": "Krystyna",
+   "lastName": "Słowakiewicz",
+   "gender": "K",
+   "birthDate": "1930",
+   "birthPlace": "Wójtowa",
+   "deceased": true,
+   "deathDate": "1993",
+   "events": [],
+   "motherId": "pmw2q29cq0ompps",
+   "fatherId": "pmw2ql3d7008gs4"
   }
  ],
  "unions": [
