@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:04:12.125Z",
+ "exported": "2026-11-04T23:05:02.327Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3350,6 +3350,21 @@
    "maidenName": "Setlak",
    "gender": "K",
    "deceased": false,
+   "events": [],
+   "fatherId": "pmvy4fgkm2v2k9w",
+   "motherId": "pmvy4g1jmh3rc4k"
+  },
+  {
+   "id": "pmw2q4x8a9uxpcs",
+   "firstName": "Stefania",
+   "lastName": "Pienta",
+   "maidenName": "Setlak",
+   "gender": "K",
+   "birthDate": "1911",
+   "birthPlace": "Pagórek",
+   "deceased": true,
+   "deathDate": "1974",
+   "burialPlace": "Cieklin",
    "events": [],
    "fatherId": "pmvy4fgkm2v2k9w",
    "motherId": "pmvy4g1jmh3rc4k"
