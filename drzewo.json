@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:55:05.073Z",
+ "exported": "2026-11-04T23:55:21.008Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4027,6 +4027,15 @@
    "deceased": true,
    "deathDate": "20 01 2003",
    "burialPlace": "Biecz",
+   "events": [],
+   "fatherId": "pmw2ry0j83wa482"
+  },
+  {
+   "id": "pmw2ry0j83wa482",
+   "firstName": "Józef",
+   "lastName": "Rządca",
+   "gender": "M",
+   "deceased": false,
    "events": []
   }
  ],
