@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:01:43.393Z",
+ "exported": "2026-11-04T23:01:56.889Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1170,7 +1170,8 @@
    "burialPlace": "Wójtowa",
    "occupation": "kowal",
    "events": [],
-   "fatherId": "pmw2q0zn8z158f3"
+   "fatherId": "pmw2q0zn8z158f3",
+   "motherId": "pmw2q16o2globvi"
   },
   {
    "id": "pmvy4g1jmh3rc4k",
@@ -3309,6 +3310,15 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2q16o2globvi",
+   "firstName": "Marianna",
+   "lastName": "Setlak",
+   "maidenName": "Knapik",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -3964,6 +3974,12 @@
    "id": "umw2q0lwt8l7umz",
    "a": "pmw2pzrn7dq7we3",
    "b": "pmw2q0fyat58ndy",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2q1ft0p2jlpi",
+   "a": "pmw2q0zn8z158f3",
+   "b": "pmw2q16o2globvi",
    "status": "malzenstwo"
   }
  ]
