@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:35:25.385Z",
+ "exported": "2026-11-04T23:35:28.026Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3593,6 +3593,15 @@
   },
   {
    "id": "pmw2r8g3v73une5",
+   "lastName": "Setlak",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw2r0ykj826jhk",
+   "motherId": "pmw2r8cwjnsb05b"
+  },
+  {
+   "id": "pmw2r8i9w9sdckd",
    "lastName": "Setlak",
    "gender": "N",
    "deceased": false,
