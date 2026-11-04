@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:26:45.383Z",
+ "exported": "2026-11-04T23:29:12.131Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3465,6 +3465,17 @@
    "events": [],
    "fatherId": "pmvy4fgkm2v2k9w",
    "motherId": "pmvy4g1jmh3rc4k"
+  },
+  {
+   "id": "pmw2r03szunnbhp",
+   "firstName": "Genowefa",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "1923",
+   "deceased": true,
+   "deathDate": "1956",
+   "burialPlace": "Biecz",
+   "events": []
   }
  ],
  "unions": [
@@ -4138,6 +4149,12 @@
    "id": "umw2quuq54o61dq",
    "a": "pmw2qu9ak9exazp",
    "b": "pmw2quhma9ir0p4",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2r0hkmlwzdp9",
+   "a": "pmw2qwies6vg7b8",
+   "b": "pmw2r03szunnbhp",
    "status": "malzenstwo"
   }
  ]
