@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:16:51.076Z",
+ "exported": "2026-11-04T23:17:33.859Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3422,6 +3422,16 @@
    "events": [],
    "fatherId": "pmvy4fgkm2v2k9w",
    "motherId": "pmvy4g1jmh3rc4k"
+  },
+  {
+   "id": "pmw2ql3d7008gs4",
+   "firstName": "Franciszek",
+   "lastName": "Liana",
+   "gender": "M",
+   "birthDate": "9 07 1901",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -4083,6 +4093,12 @@
    "id": "umw2q1ft0p2jlpi",
    "a": "pmw2q0zn8z158f3",
    "b": "pmw2q16o2globvi",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2qlirxgr4974",
+   "a": "pmw2q29cq0ompps",
+   "b": "pmw2ql3d7008gs4",
    "status": "malzenstwo"
   }
  ]
