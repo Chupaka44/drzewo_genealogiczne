@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:36:42.029Z",
+ "exported": "2026-11-04T23:37:20.062Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3644,6 +3644,19 @@
    "events": [],
    "motherId": "pmw2qlx23egd7rs",
    "fatherId": "pmw2r9u2r47xkq2"
+  },
+  {
+   "id": "pmw2rakwbwwkknj",
+   "firstName": "Jan",
+   "lastName": "Liana",
+   "gender": "M",
+   "birthDate": "1942",
+   "birthPlace": "Wójtowa",
+   "deceased": true,
+   "deathDate": "2018",
+   "events": [],
+   "motherId": "pmw2q29cq0ompps",
+   "fatherId": "pmw2ql3d7008gs4"
   }
  ],
  "unions": [
