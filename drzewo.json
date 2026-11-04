@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:49:45.452Z",
+ "exported": "2026-11-04T23:50:09.577Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3927,6 +3927,19 @@
    "deathDate": "1992",
    "burialPlace": "Wola Łużańska",
    "events": []
+  },
+  {
+   "id": "pmw2rr2a4vll5cm",
+   "firstName": "Tadeusz",
+   "lastName": "Skórski",
+   "gender": "M",
+   "birthDate": "1951",
+   "deceased": true,
+   "deathDate": "1012 2018",
+   "burialPlace": "Gorlice",
+   "events": [],
+   "motherId": "pmw2rqi8zibazma",
+   "fatherId": "pmw2rpoh8ppypus"
   }
  ],
  "unions": [
