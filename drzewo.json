@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:32:49.714Z",
+ "exported": "2026-11-04T23:32:54.390Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3539,6 +3539,13 @@
    "deceased": false,
    "events": [],
    "fatherId": "pmw2r4gqccwuq6p"
+  },
+  {
+   "id": "pmw2r571vb5c0et",
+   "lastName": "Zabawa",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -4224,6 +4231,12 @@
    "id": "umw2r42oei9n0zy",
    "a": "pmw2r2dzgx5zsy4",
    "b": "pmw2r3i9ob56xec",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2r592md1022n",
+   "a": "pmw2r4gqccwuq6p",
+   "b": "pmw2r571vb5c0et",
    "status": "malzenstwo"
   }
  ]
