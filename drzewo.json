@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:30:58.920Z",
+ "exported": "2026-11-04T23:31:59.455Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3500,6 +3500,17 @@
    "events": [],
    "fatherId": "pmw2qwies6vg7b8",
    "motherId": "pmw2r03szunnbhp"
+  },
+  {
+   "id": "pmw2r3i9ob56xec",
+   "firstName": "Stanisław",
+   "lastName": "Zabawa",
+   "gender": "M",
+   "birthDate": "9 11 1936",
+   "deceased": true,
+   "deathDate": "1991",
+   "burialPlace": "Wójtowa",
+   "events": []
   }
  ],
  "unions": [
@@ -4179,6 +4190,12 @@
    "id": "umw2r0hkmlwzdp9",
    "a": "pmw2qwies6vg7b8",
    "b": "pmw2r03szunnbhp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2r42oei9n0zy",
+   "a": "pmw2r2dzgx5zsy4",
+   "b": "pmw2r3i9ob56xec",
    "status": "malzenstwo"
   }
  ]
