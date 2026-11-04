@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:01:18.135Z",
+ "exported": "2026-11-04T23:01:43.393Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1169,7 +1169,8 @@
    "deathDate": "11 12 1938",
    "burialPlace": "Wójtowa",
    "occupation": "kowal",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2q0zn8z158f3"
   },
   {
    "id": "pmvy4g1jmh3rc4k",
@@ -3298,6 +3299,14 @@
    "firstName": "Anna",
    "lastName": "Świątkowska",
    "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw2q0zn8z158f3",
+   "firstName": "Marcin",
+   "lastName": "Setlak",
+   "gender": "M",
    "deceased": false,
    "events": []
   }
