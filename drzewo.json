@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T22:59:09.795Z",
+ "exported": "2026-11-04T23:00:30.734Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1175,10 +1175,13 @@
    "id": "pmvy4g1jmh3rc4k",
    "firstName": "Agnieszka",
    "lastName": "Setlak",
+   "maidenName": "Świątkowska",
    "gender": "K",
-   "birthDate": "1877",
+   "birthDate": "22 10 1876",
+   "birthPlace": "Pagórek",
    "deceased": true,
-   "deathDate": "1961",
+   "deathDate": "3 05 1961",
+   "burialPlace": "Korczyna",
    "events": []
   },
   {
