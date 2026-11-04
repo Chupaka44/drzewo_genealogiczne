@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:43:09.107Z",
+ "exported": "2026-11-04T23:43:17.920Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3782,6 +3782,15 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2ril3xp3nb5e",
+   "lastName": "Pienta",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2q4x8a9uxpcs",
+   "fatherId": "pmw2ri8r8cxmtzm"
   }
  ],
  "unions": [
