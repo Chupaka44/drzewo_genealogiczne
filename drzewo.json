@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:50:19.710Z",
+ "exported": "2026-11-04T23:50:51.174Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3940,6 +3940,16 @@
    "events": [],
    "fatherId": "pmw2rpoh8ppypus",
    "motherId": "pmw2rqi8zibazma"
+  },
+  {
+   "id": "pmw2rrtxxy9yc3t",
+   "lastName": "Szura",
+   "maidenName": "Skórska",
+   "gender": "N",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2rqi8zibazma",
+   "fatherId": "pmw2rpoh8ppypus"
   }
  ],
  "unions": [
