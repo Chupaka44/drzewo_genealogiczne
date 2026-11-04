@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:31:59.455Z",
+ "exported": "2026-11-04T23:32:26.751Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3511,6 +3511,16 @@
    "deathDate": "1991",
    "burialPlace": "Wójtowa",
    "events": []
+  },
+  {
+   "id": "pmw2r4gqccwuq6p",
+   "firstName": "Wojciech??",
+   "lastName": "Zabawa",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw2r2dzgx5zsy4",
+   "fatherId": "pmw2r3i9ob56xec"
   }
  ],
  "unions": [
