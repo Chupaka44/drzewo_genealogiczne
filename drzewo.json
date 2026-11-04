@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:36:12.208Z",
+ "exported": "2026-11-04T23:36:34.763Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3609,6 +3609,14 @@
    "events": [],
    "fatherId": "pmw2r0ykj826jhk",
    "motherId": "pmw2r8cwjnsb05b"
+  },
+  {
+   "id": "pmw2r9u2r47xkq2",
+   "firstName": "Adam",
+   "lastName": "Trznadel",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -4312,6 +4320,12 @@
    "id": "umw2r8ev2ey7lmf",
    "a": "pmw2r0ykj826jhk",
    "b": "pmw2r8cwjnsb05b",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2r9z3qduv8k5",
+   "a": "pmw2qlx23egd7rs",
+   "b": "pmw2r9u2r47xkq2",
    "status": "malzenstwo"
   }
  ]
