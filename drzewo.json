@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-04T23:24:31.377Z",
+ "exported": "2026-11-04T23:24:49.252Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3310,7 +3310,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw2qu9ak9exazp"
+   "fatherId": "pmw2qu9ak9exazp",
+   "motherId": "pmw2quhma9ir0p4"
   },
   {
    "id": "pmw2q0zn8z158f3",
@@ -3453,6 +3454,15 @@
    "lastName": "Świątkowski",
    "gender": "M",
    "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw2quhma9ir0p4",
+   "firstName": "Marianna",
+   "lastName": "Świą",
+   "maidenName": "Libuszewska",
+   "gender": "K",
+   "deceased": true,
    "events": []
   }
  ],
@@ -4121,6 +4131,12 @@
    "id": "umw2qlirxgr4974",
    "a": "pmw2q29cq0ompps",
    "b": "pmw2ql3d7008gs4",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2quuq54o61dq",
+   "a": "pmw2qu9ak9exazp",
+   "b": "pmw2quhma9ir0p4",
    "status": "malzenstwo"
   }
  ]
