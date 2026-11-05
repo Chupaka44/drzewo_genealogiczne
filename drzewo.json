@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:56:12.823Z",
+ "exported": "2026-11-05T00:56:22.108Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4258,7 +4258,7 @@
    "gender": "K",
    "birthDate": "1844",
    "birthPlace": "Strzeszyn",
-   "deceased": false,
+   "deceased": true,
    "events": [],
    "fatherId": "pmw2tlgd1tdsodi",
    "motherId": "pmw2tmgnpxd6f27"
