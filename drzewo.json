@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:42:14.548Z",
+ "exported": "2026-11-05T00:42:35.833Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4256,7 +4256,8 @@
    "birthPlace": "Strzeszyn",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw2tlgd1tdsodi"
+   "fatherId": "pmw2tlgd1tdsodi",
+   "motherId": "pmw2tmgnpxd6f27"
   },
   {
    "id": "pmw2tjzt1yaigow",
@@ -4285,6 +4286,16 @@
    "birthPlace": "Strzeszyn",
    "deceased": true,
    "notes": "Ślub 1839",
+   "events": []
+  },
+  {
+   "id": "pmw2tmgnpxd6f27",
+   "firstName": "Tekla",
+   "lastName": "Litwińska",
+   "maidenName": "Kwiatkowska",
+   "gender": "K",
+   "birthDate": "1810",
+   "deceased": true,
    "events": []
   }
  ],
@@ -5115,6 +5126,12 @@
    "id": "umw2tl2v5h79abj",
    "a": "pmw2tksnipnltux",
    "b": "pmw2tjzt1yaigow",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2tmvhq5zb1lt",
+   "a": "pmw2tlgd1tdsodi",
+   "b": "pmw2tmgnpxd6f27",
    "status": "malzenstwo"
   }
  ]
