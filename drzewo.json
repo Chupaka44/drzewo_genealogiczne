@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:29:15.631Z",
+ "exported": "2026-11-05T00:30:07.291Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4168,7 +4168,8 @@
    "deathDate": "20 08 1971",
    "residence": "Biecz",
    "events": [],
-   "fatherId": "pmw2t4obh34nu8q"
+   "fatherId": "pmw2t4obh34nu8q",
+   "motherId": "pmw2t660t6yhvo7"
   },
   {
    "id": "pmw2t3olw2kw098",
@@ -4190,6 +4191,17 @@
    "deceased": true,
    "deathDate": "19 03 1943",
    "burialPlace": "Kobylanka",
+   "events": []
+  },
+  {
+   "id": "pmw2t660t6yhvo7",
+   "firstName": "Maria",
+   "lastName": "Bulińska",
+   "maidenName": "Pietrusza",
+   "gender": "K",
+   "birthDate": "04 07 1879",
+   "deceased": true,
+   "deathDate": "25 08 1954",
    "events": []
   }
  ],
@@ -4996,6 +5008,12 @@
    "id": "umw2t4hw7ikjlus",
    "a": "pmw2t1yt21ummah",
    "b": "pmw2t3olw2kw098",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2t6twox5mj1o",
+   "a": "pmw2t4obh34nu8q",
+   "b": "pmw2t660t6yhvo7",
    "status": "malzenstwo"
   }
  ]
