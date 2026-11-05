@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:13:11.268Z",
+ "exported": "2026-11-05T00:13:20.407Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2835,7 +2835,8 @@
    "deceased": true,
    "deathDate": "2016",
    "events": [],
-   "fatherId": "pmw2sktrgub42i2"
+   "fatherId": "pmw2sktrgub42i2",
+   "motherId": "pmw2sl2i5j1q7f8"
   },
   {
    "id": "pmvy7m7mycfafuu",
@@ -4065,6 +4066,14 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2sl2i5j1q7f8",
+   "firstName": "Maria",
+   "lastName": "Armata",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -4846,6 +4855,12 @@
    "id": "umw2ryflryzeo4r",
    "a": "pmw2ry0j83wa482",
    "b": "pmw2ry5wcsbcalv",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2sl8zxsgaq19",
+   "a": "pmw2sktrgub42i2",
+   "b": "pmw2sl2i5j1q7f8",
    "status": "malzenstwo"
   }
  ]
