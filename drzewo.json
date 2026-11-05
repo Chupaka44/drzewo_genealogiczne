@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:39:03.172Z",
+ "exported": "2026-11-05T00:39:26.388Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4242,6 +4242,17 @@
    "burialPlace": "Kraków",
    "notes": "Ślub 26 11 1867",
    "events": []
+  },
+  {
+   "id": "pmw2tieqlm03euz",
+   "firstName": "Weronika",
+   "lastName": "Augustowska",
+   "maidenName": "Litwińska",
+   "gender": "K",
+   "birthDate": "1844",
+   "birthPlace": "Strzeszyn",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -5059,6 +5070,12 @@
    "id": "umw2taawvp9qmg8",
    "a": "pmw2t924l6mp05h",
    "b": "pmw2t9n5yl4tyf3",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2titb9cbyn9k",
+   "a": "pmw2th9f1kq53fx",
+   "b": "pmw2tieqlm03euz",
    "status": "malzenstwo"
   }
  ]
