@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:40:25.393Z",
+ "exported": "2026-11-05T00:40:56.013Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4259,8 +4259,10 @@
   {
    "id": "pmw2tjzt1yaigow",
    "firstName": "Kunegunda",
+   "lastName": "Augustowski",
+   "maidenName": "Podgórska",
    "gender": "K",
-   "deceased": false,
+   "deceased": true,
    "events": []
   }
  ],
