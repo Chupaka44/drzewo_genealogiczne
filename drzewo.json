@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:22:14.830Z",
+ "exported": "2026-11-05T00:23:25.948Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2512,8 +2512,11 @@
    "firstName": "Zdzisław",
    "lastName": "Szczurowski",
    "gender": "M",
-   "birthPlace": "Rzeszów",
-   "deceased": false,
+   "birthDate": "6 12 1939",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "2 12 2013",
+   "burialPlace": "Rzeszów",
    "events": [],
    "fatherId": "pmvy6iu5yzmo7ph",
    "motherId": "pmvy73fdauc50c3"
