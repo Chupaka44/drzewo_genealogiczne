@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:14:50.117Z",
+ "exported": "2026-11-05T00:14:55.212Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4100,14 +4100,6 @@
    "deathCause": "na wojnie",
    "notes": "1919 ślub",
    "events": []
-  },
-  {
-   "id": "pmw2sn15pnizcat",
-   "firstName": "Bronisława",
-   "lastName": "Janaś",
-   "gender": "K",
-   "deceased": false,
-   "events": []
   }
  ],
  "unions": [
@@ -4895,12 +4887,6 @@
    "id": "umw2sl8zxsgaq19",
    "a": "pmw2sktrgub42i2",
    "b": "pmw2sl2i5j1q7f8",
-   "status": "malzenstwo"
-  },
-  {
-   "id": "umw2sn67rdv90m9",
-   "a": "pmw2sm1ctftipjb",
-   "b": "pmw2sn15pnizcat",
    "status": "malzenstwo"
   }
  ]
