@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:20:28.394Z",
+ "exported": "2026-11-05T00:22:14.830Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2504,7 +2504,8 @@
    "deceased": true,
    "deathDate": "30 07 2016",
    "events": [],
-   "fatherId": "pmw2stkvhgw7z74"
+   "fatherId": "pmw2stkvhgw7z74",
+   "motherId": "pmw2suhj9xcpt6x"
   },
   {
    "id": "pmvy73uosl087be",
@@ -4131,6 +4132,19 @@
    "deathDate": "7 07 1961",
    "notes": "Ślub 5 07 1913",
    "events": []
+  },
+  {
+   "id": "pmw2suhj9xcpt6x",
+   "firstName": "Maryjanna",
+   "lastName": "Sowa",
+   "maidenName": "Bogdan",
+   "gender": "K",
+   "birthDate": "3 01 1892",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "23 12 1983",
+   "notes": "Po sprawdzeniu ksiąg metrykalnych w urzędzie okazało się, że babcia Marysia otrzymała na chrzcie imię Maryjanna po swojej babci. Urodziła się 3 stycznia, natomiast 6 stycznia była w kościele, aby przyjąć chrzest – i tak już zostało. Urodziła się w Libuszy pod numerem 97, a funkcję akuszerki pełniła pani Anna Dyląg. Rodzicami chrzestnymi (kumami) byli Stanisław Mendus oraz Franciszka Bogdan",
+   "events": []
   }
  ],
  "unions": [
@@ -4924,6 +4938,12 @@
    "id": "umw2snkt3vfnu4m",
    "a": "pmw2sm1ctftipjb",
    "b": "pmw2snargi9j2cy",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2swpcoluxtb6",
+   "a": "pmw2stkvhgw7z74",
+   "b": "pmw2suhj9xcpt6x",
    "status": "malzenstwo"
   }
  ]
