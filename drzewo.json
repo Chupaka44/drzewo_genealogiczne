@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:12:43.781Z",
+ "exported": "2026-11-05T00:13:11.268Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2834,7 +2834,8 @@
    "birthDate": "1936",
    "deceased": true,
    "deathDate": "2016",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2sktrgub42i2"
   },
   {
    "id": "pmvy7m7mycfafuu",
@@ -4054,6 +4055,14 @@
    "lastName": "Rządca",
    "maidenName": "Przybyłowicz",
    "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw2sktrgub42i2",
+   "firstName": "Franciszek",
+   "lastName": "Armata",
+   "gender": "M",
    "deceased": false,
    "events": []
   }
