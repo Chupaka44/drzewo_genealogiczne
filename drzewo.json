@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:32:17.592Z",
+ "exported": "2026-11-05T00:32:49.300Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4181,7 +4181,8 @@
    "deceased": true,
    "deathDate": "3 02 1970",
    "events": [],
-   "fatherId": "pmw2t924l6mp05h"
+   "fatherId": "pmw2t924l6mp05h",
+   "motherId": "pmw2t9n5yl4tyf3"
   },
   {
    "id": "pmw2t4obh34nu8q",
@@ -4214,6 +4215,17 @@
    "birthPlace": "Biecz",
    "deceased": true,
    "deathDate": "27 09 1921",
+   "burialPlace": "Biecz",
+   "events": []
+  },
+  {
+   "id": "pmw2t9n5yl4tyf3",
+   "firstName": "Zofia",
+   "lastName": "Augustowska",
+   "gender": "K",
+   "birthDate": "4 05 1880",
+   "deceased": true,
+   "deathDate": "1950",
    "burialPlace": "Biecz",
    "events": []
   }
@@ -5027,6 +5039,12 @@
    "id": "umw2t6twox5mj1o",
    "a": "pmw2t4obh34nu8q",
    "b": "pmw2t660t6yhvo7",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2taawvp9qmg8",
+   "a": "pmw2t924l6mp05h",
+   "b": "pmw2t9n5yl4tyf3",
    "status": "malzenstwo"
   }
  ]
