@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:44:36.820Z",
+ "exported": "2026-11-05T00:44:52.746Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4305,6 +4305,18 @@
    "gender": "M",
    "birthDate": "1900",
    "deceased": true,
+   "events": [],
+   "fatherId": "pmw2t924l6mp05h",
+   "motherId": "pmw2t9n5yl4tyf3"
+  },
+  {
+   "id": "pmw2tpjt9qpa91m",
+   "firstName": "Mania",
+   "lastName": "Augustowska",
+   "gender": "K",
+   "birthDate": "1902",
+   "deceased": true,
+   "deathDate": "1922",
    "events": [],
    "fatherId": "pmw2t924l6mp05h",
    "motherId": "pmw2t9n5yl4tyf3"
