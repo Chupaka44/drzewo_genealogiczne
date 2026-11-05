@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:27:15.908Z",
+ "exported": "2026-11-05T00:28:18.402Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2544,7 +2544,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw2t1yt21ummah"
+   "fatherId": "pmw2t1yt21ummah",
+   "motherId": "pmw2t3olw2kw098"
   },
   {
    "id": "pmvy74wr254posp",
@@ -4167,6 +4168,17 @@
    "deathDate": "20 08 1971",
    "residence": "Biecz",
    "events": []
+  },
+  {
+   "id": "pmw2t3olw2kw098",
+   "firstName": "Irena",
+   "lastName": "Bulińska",
+   "maidenName": "Augustowska",
+   "gender": "K",
+   "birthDate": "00 04 1920",
+   "deceased": true,
+   "deathDate": "3 02 1970",
+   "events": []
   }
  ],
  "unions": [
@@ -4966,6 +4978,12 @@
    "id": "umw2swpcoluxtb6",
    "a": "pmw2stkvhgw7z74",
    "b": "pmw2suhj9xcpt6x",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2t4hw7ikjlus",
+   "a": "pmw2t1yt21ummah",
+   "b": "pmw2t3olw2kw098",
    "status": "malzenstwo"
   }
  ]
