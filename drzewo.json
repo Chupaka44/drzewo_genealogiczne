@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:38:18.978Z",
+ "exported": "2026-11-05T00:39:03.172Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4235,7 +4235,12 @@
    "firstName": "Franciszek",
    "lastName": "Augustowski",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "13 01 1828",
+   "birthPlace": "Biecz",
+   "deceased": true,
+   "deathDate": "1871",
+   "burialPlace": "Kraków",
+   "notes": "Ślub 26 11 1867",
    "events": []
   }
  ],
