@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:17:13.268Z",
+ "exported": "2026-11-05T00:17:34.662Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2254,9 +2254,9 @@
    "lastName": "Zięcina Mazurkiewicz",
    "maidenName": "Szczurowska",
    "gender": "K",
-   "birthDate": "1914",
+   "birthDate": "8 4 1914",
    "deceased": true,
-   "deathDate": "1999",
+   "deathDate": "31 08 1999",
    "events": [],
    "fatherId": "pmvy6facl6cfubb",
    "motherId": "pmvy6fei3stwy4a"
