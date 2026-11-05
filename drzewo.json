@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:55:43.292Z",
+ "exported": "2026-11-05T00:56:01.013Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2210,7 +2210,8 @@
    "birthDate": "14 02 1889",
    "deceased": true,
    "deathDate": "00 07 1975",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2u3wm5nyfmqx"
   },
   {
    "id": "pmvy6grs0ngd75r",
@@ -4468,6 +4469,14 @@
    "lastName": "Szczurowska",
    "maidenName": "Kołodziej",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw2u3wm5nyfmqx",
+   "firstName": "Ignacy",
+   "lastName": "Haluch",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
