@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:32:49.300Z",
+ "exported": "2026-11-05T00:37:17.294Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2244,7 +2244,7 @@
    "birthDate": "22 10 1911",
    "deceased": true,
    "deathDate": "3 06 1963",
-   "notes": "Zawodowe studia zaoczne dla przodujących robotników, praca napisana - nie pojechał na egzamin.\n\nRafineria nafty Jedlicze, Rafineria Nafty Glinik Gorlice",
+   "notes": "Zawodowe studia zaoczne dla przodujących robotników, praca napisana - nie pojechał na egzamin.\n\nRafineria nafty Jedlicze, Rafineria Nafty Glinik Gorlice\n\nWykaz żołnierzy zarejestrowanych w punktach poborowych, Silece, Sumy, Żytomierz",
    "events": [],
    "fatherId": "pmvy6facl6cfubb",
    "motherId": "pmvy6fei3stwy4a"
