@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:13:32.923Z",
+ "exported": "2026-11-05T00:14:37.389Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2813,7 +2813,8 @@
    "birthDate": "17 8 1920",
    "deceased": true,
    "deathDate": "22 11 1987",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2sm1ctftipjb"
   },
   {
    "id": "pmvy7lge0fzxmbp",
@@ -4085,6 +4086,20 @@
    "events": [],
    "motherId": "pmw2sl2i5j1q7f8",
    "fatherId": "pmw2sktrgub42i2"
+  },
+  {
+   "id": "pmw2sm1ctftipjb",
+   "firstName": "Stanisław",
+   "lastName": "Janaś",
+   "gender": "M",
+   "birthDate": "1880",
+   "birthPlace": "Strzyżów",
+   "deceased": true,
+   "deathDate": "1921",
+   "burialPlace": "Libusza",
+   "deathCause": "na wojnie",
+   "notes": "1919 ślub",
+   "events": []
   }
  ],
  "unions": [
