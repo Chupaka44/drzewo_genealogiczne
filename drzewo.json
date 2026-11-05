@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:15:58.605Z",
+ "exported": "2026-11-05T00:17:13.268Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2269,6 +2269,8 @@
    "birthDate": "1917",
    "deceased": true,
    "deathDate": "1986",
+   "burialPlace": "Mielec",
+   "deathCause": "choroba",
    "events": [],
    "fatherId": "pmvy6facl6cfubb",
    "motherId": "pmvy6fei3stwy4a"
