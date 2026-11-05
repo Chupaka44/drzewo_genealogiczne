@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:55:17.387Z",
+ "exported": "2026-11-05T00:55:43.292Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2207,9 +2207,9 @@
    "lastName": "Szczurowska",
    "maidenName": "Haluch",
    "gender": "K",
-   "birthDate": "1889",
+   "birthDate": "14 02 1889",
    "deceased": true,
-   "deathDate": "1975",
+   "deathDate": "00 07 1975",
    "events": []
   },
   {
