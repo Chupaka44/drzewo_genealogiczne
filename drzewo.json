@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:51:06.857Z",
+ "exported": "2026-11-05T00:51:46.902Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4428,6 +4428,17 @@
    "events": [],
    "motherId": "pmw2twwhq4ebn27",
    "fatherId": "pmw2txb7hhv7nmj"
+  },
+  {
+   "id": "pmw2tygri1t32kt",
+   "firstName": "Janina",
+   "lastName": "Wróżek",
+   "maidenName": "Augustowska",
+   "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw2t924l6mp05h",
+   "motherId": "pmw2t9n5yl4tyf3"
   }
  ],
  "unions": [
