@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:26:18.369Z",
+ "exported": "2026-11-05T00:27:04.546Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2543,7 +2543,8 @@
    "maidenName": "Bulńska?",
    "gender": "K",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmw2t1yt21ummah"
   },
   {
    "id": "pmvy74wr254posp",
@@ -4153,6 +4154,17 @@
    "deceased": true,
    "deathDate": "23 12 1983",
    "notes": "Po sprawdzeniu ksiąg metrykalnych w urzędzie okazało się, że babcia Marysia otrzymała na chrzcie imię Maryjanna po swojej babci. Urodziła się 3 stycznia, natomiast 6 stycznia była w kościele, aby przyjąć chrzest – i tak już zostało. Urodziła się w Libuszy pod numerem 97, a funkcję akuszerki pełniła pani Anna Dyląg. Rodzicami chrzestnymi (kumami) byli Stanisław Mendus oraz Franciszka Bogdan",
+   "events": []
+  },
+  {
+   "id": "pmw2t1yt21ummah",
+   "firstName": "Władysław",
+   "lastName": "Buliński",
+   "gender": "M",
+   "birthDate": "28 10 1914",
+   "birthPlace": "Zagórzany",
+   "deceased": true,
+   "deathDate": "20 08 1971",
    "events": []
   }
  ],
