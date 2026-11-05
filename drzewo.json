@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:23:25.948Z",
+ "exported": "2026-11-05T00:25:03.403Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2526,7 +2526,12 @@
    "firstName": "Marek",
    "lastName": "Szczurowski",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "15 09 1946",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "8 06 2019",
+   "residence": "Biecz, ul. Piekarska",
+   "notes": "średnie techniczne, no i szkoła podstawowa w Libuszy też zaliczona, a jeszcze muszę dodać skończyłem WUML, jak kto nie wie to jest Wieczorowy Uniwersytet Marksizmu Leninizmu przy Komitecie Wojewódzkim PZPR w Rzeszowie\n\nWstanę rano ogolę się zjem śniadanie i mam wolne\n\nZainteresowania to - zbieractwo, starych dobrych rzeczy - WIEKOWYCH / wapno w dołku, skrzypce i wino /- użytkowych żelazka, zegary, stare aparaty foto, meble, patefony. Jak patefony to i stare płyty szelakowe na 78 obr. Jest to duże przeżycie kiedy z odrestaurowanego patefony zabrzmi głos artysty o którym mało kto pamięta. Mirska, Faliszewski wiecznie śpiewający FOGG i inni, lub gdy w odrestaurowanej kanapie, sofie znów jekną sprężyny z rozkoszy... Kapcie spadają a piwo wychlapuje się samo z KUFLA --- HA HA HA",
    "events": [],
    "fatherId": "pmvy6iu5yzmo7ph",
    "motherId": "pmvy73fdauc50c3"
