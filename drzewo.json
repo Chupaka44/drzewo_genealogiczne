@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:12:10.163Z",
+ "exported": "2026-11-05T00:12:38.636Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4056,6 +4056,18 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2sjvvw7m5d1u",
+   "firstName": "Helena",
+   "lastName": "Armata",
+   "gender": "K",
+   "birthDate": "1939",
+   "deceased": true,
+   "burialPlace": "Niewodna",
+   "events": [],
+   "fatherId": "pmvy7lwjwxfhza2",
+   "motherId": "pmvy7lge0fzxmbp"
   }
  ],
  "unions": [
