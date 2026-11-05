@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:42:35.833Z",
+ "exported": "2026-11-05T00:44:36.820Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4297,6 +4297,17 @@
    "birthDate": "1810",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw2tp5al3b77i2",
+   "firstName": "Władysław",
+   "lastName": "Augustowski",
+   "gender": "M",
+   "birthDate": "1900",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw2t924l6mp05h",
+   "motherId": "pmw2t9n5yl4tyf3"
   }
  ],
  "unions": [
