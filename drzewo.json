@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:15:09.029Z",
+ "exported": "2026-11-05T00:15:58.605Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2276,11 +2276,14 @@
   {
    "id": "pmvy6kal68w2ouy",
    "firstName": "Józef",
+   "middleName": "Ludwik",
    "lastName": "Szczurowski",
    "gender": "M",
-   "birthDate": "1921",
+   "birthDate": "24 01 1921",
+   "birthPlace": "Libusza",
    "deceased": true,
-   "deathDate": "2019",
+   "deathDate": "16 02 2019",
+   "burialPlace": "Poznań",
    "events": [],
    "fatherId": "pmvy6facl6cfubb",
    "motherId": "pmvy6fei3stwy4a"
