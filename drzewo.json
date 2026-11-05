@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:39:55.576Z",
+ "exported": "2026-11-05T00:40:25.393Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4242,7 +4242,8 @@
    "deathDate": "1871",
    "burialPlace": "Kraków",
    "notes": "Ślub 26 11 1867",
-   "events": []
+   "events": [],
+   "motherId": "pmw2tjzt1yaigow"
   },
   {
    "id": "pmw2tixzp10oo88",
@@ -4252,6 +4253,13 @@
    "gender": "K",
    "birthDate": "1844",
    "birthPlace": "Strzeszyn",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw2tjzt1yaigow",
+   "firstName": "Kunegunda",
+   "gender": "K",
    "deceased": false,
    "events": []
   }
