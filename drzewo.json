@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:51:02.002Z",
+ "exported": "2026-11-05T00:51:06.857Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4416,7 +4416,7 @@
    "firstName": "Józef",
    "lastName": "Staszewski",
    "gender": "M",
-   "deceased": false,
+   "deceased": true,
    "events": []
   },
   {
