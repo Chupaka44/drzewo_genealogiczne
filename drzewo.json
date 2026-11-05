@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:17:34.662Z",
+ "exported": "2026-11-05T00:18:52.177Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2241,9 +2241,10 @@
    "firstName": "Adam",
    "lastName": "Szczurowski",
    "gender": "M",
-   "birthDate": "1911",
+   "birthDate": "22 10 1911",
    "deceased": true,
-   "deathDate": "1963",
+   "deathDate": "3 06 1963",
+   "notes": "Zawodowe studia zaoczne dla przodujących robotników, praca napisana - nie pojechał na egzamin.\n\nRafineria nafty Jedlicze, Rafineria Nafty Glinik Gorlice",
    "events": [],
    "fatherId": "pmvy6facl6cfubb",
    "motherId": "pmvy6fei3stwy4a"
