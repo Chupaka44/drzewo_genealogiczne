@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:37:17.294Z",
+ "exported": "2026-11-05T00:38:18.978Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4216,7 +4216,8 @@
    "deceased": true,
    "deathDate": "27 09 1921",
    "burialPlace": "Biecz",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2th9f1kq53fx"
   },
   {
    "id": "pmw2t9n5yl4tyf3",
@@ -4227,6 +4228,14 @@
    "deceased": true,
    "deathDate": "1950",
    "burialPlace": "Biecz",
+   "events": []
+  },
+  {
+   "id": "pmw2th9f1kq53fx",
+   "firstName": "Franciszek",
+   "lastName": "Augustowski",
+   "gender": "M",
+   "deceased": false,
    "events": []
   }
  ],
