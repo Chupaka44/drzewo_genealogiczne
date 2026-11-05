@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:28:18.402Z",
+ "exported": "2026-11-05T00:29:15.631Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4167,7 +4167,8 @@
    "deceased": true,
    "deathDate": "20 08 1971",
    "residence": "Biecz",
-   "events": []
+   "events": [],
+   "fatherId": "pmw2t4obh34nu8q"
   },
   {
    "id": "pmw2t3olw2kw098",
@@ -4178,6 +4179,17 @@
    "birthDate": "00 04 1920",
    "deceased": true,
    "deathDate": "3 02 1970",
+   "events": []
+  },
+  {
+   "id": "pmw2t4obh34nu8q",
+   "firstName": "Wincenty",
+   "lastName": "Buliński",
+   "gender": "M",
+   "birthDate": "01 04 1897",
+   "deceased": true,
+   "deathDate": "19 03 1943",
+   "burialPlace": "Kobylanka",
    "events": []
   }
  ],
