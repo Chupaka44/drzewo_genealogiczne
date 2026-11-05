@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:49:31.957Z",
+ "exported": "2026-11-05T00:49:50.830Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4386,6 +4386,17 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2tvvx1rtbpmx",
+   "firstName": "Maria",
+   "lastName": "Friedrich",
+   "maidenName": "Sopala",
+   "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw2tvkidzgp7i6",
+   "motherId": "pmw2tulondcbwjp"
   }
  ],
  "unions": [
