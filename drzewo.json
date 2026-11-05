@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:56:01.013Z",
+ "exported": "2026-11-05T00:56:12.823Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2211,7 +2211,8 @@
    "deceased": true,
    "deathDate": "00 07 1975",
    "events": [],
-   "fatherId": "pmw2u3wm5nyfmqx"
+   "fatherId": "pmw2u3wm5nyfmqx",
+   "motherId": "pmw2u45cf7kae0c"
   },
   {
    "id": "pmvy6grs0ngd75r",
@@ -4479,6 +4480,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw2u45cf7kae0c",
+   "firstName": "Marianna",
+   "lastName": "Haluch",
+   "maidenName": "Przybyłowicz",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -5332,6 +5342,12 @@
    "id": "umw2u373ndzoxnc",
    "a": "pmw2u2pn2lc4soo",
    "b": "pmw2u2z3hmroawr",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2u4dvm26cb83",
+   "a": "pmw2u3wm5nyfmqx",
+   "b": "pmw2u45cf7kae0c",
    "status": "malzenstwo"
   }
  ]
