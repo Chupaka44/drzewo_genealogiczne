@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:03:17.707Z",
+ "exported": "2026-11-05T00:03:39.242Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -757,10 +757,11 @@
    "lastName": "Setlak",
    "maidenName": "Wachowiak",
    "gender": "K",
+   "birthDate": "21 5 1931",
    "deceased": true,
-   "deathDate": "13 12 1959",
+   "deathDate": "15 09 1959",
    "burialPlace": "Poznań",
-   "notes": "Pochówek\nCmentarz komunalny nr 2 Junikowo w Poznaniu\nPoznań, Miasto Poznań, Wielkopolskie, Polska\nKwatera\nPole 14, Kwatera 3, Rząd 2, Miejsce 14",
+   "notes": "Pochówek\nCmentarz komunalny nr 2 Junikowo w Poznaniu\nPoznań, Miasto Poznań, Wielkopolskie, Polska\nKwatera\nPole 14, Kwatera 3, Rząd 2, Miejsce 14\n\n13 12 1959",
    "events": []
   },
   {
