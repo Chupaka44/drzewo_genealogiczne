@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:50:51.958Z",
+ "exported": "2026-11-05T00:51:02.002Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4418,6 +4418,16 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw2txljh2bbphj",
+   "firstName": "Jolanta",
+   "lastName": "Staszewska",
+   "gender": "K",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmw2twwhq4ebn27",
+   "fatherId": "pmw2txb7hhv7nmj"
   }
  ],
  "unions": [
