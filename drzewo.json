@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:50:38.901Z",
+ "exported": "2026-11-05T00:50:51.958Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4410,6 +4410,14 @@
    "events": [],
    "fatherId": "pmw2t924l6mp05h",
    "motherId": "pmw2t9n5yl4tyf3"
+  },
+  {
+   "id": "pmw2txb7hhv7nmj",
+   "firstName": "Józef",
+   "lastName": "Staszewski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -5251,6 +5259,12 @@
    "id": "umw2tvskperag5j",
    "a": "pmw2tulondcbwjp",
    "b": "pmw2tvkidzgp7i6",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2txiay6t46u2",
+   "a": "pmw2twwhq4ebn27",
+   "b": "pmw2txb7hhv7nmj",
    "status": "malzenstwo"
   }
  ]
