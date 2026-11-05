@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:47:41.932Z",
+ "exported": "2026-11-05T00:49:11.789Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4359,6 +4359,21 @@
    "deceased": true,
    "deathDate": "15 08 1976",
    "deathPlace": "Jasło",
+   "burialPlace": "Biecz",
+   "events": [],
+   "fatherId": "pmw2t924l6mp05h",
+   "motherId": "pmw2t9n5yl4tyf3"
+  },
+  {
+   "id": "pmw2tulondcbwjp",
+   "firstName": "Bronisława",
+   "lastName": "Sopala",
+   "maidenName": "Augustowska",
+   "gender": "K",
+   "birthDate": "1 09 1918",
+   "birthPlace": "Biecz",
+   "deceased": true,
+   "deathDate": "19 07 1971",
    "burialPlace": "Biecz",
    "events": [],
    "fatherId": "pmw2t924l6mp05h",
