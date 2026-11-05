@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T00:25:54.932Z",
+ "exported": "2026-11-05T00:26:18.369Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2540,7 +2540,7 @@
    "id": "pmvy74ho42dl1y0",
    "firstName": "Marta",
    "lastName": "Szczurowska",
-   "maidenName": "Bulińska?",
+   "maidenName": "Bulńska?",
    "gender": "K",
    "deceased": false,
    "events": []
