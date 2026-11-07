@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-05T01:26:07.560Z",
+ "exported": "2026-11-07T22:40:26.840Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -199,8 +199,16 @@
    "firstName": "Adam",
    "lastName": "Szary",
    "gender": "M",
-   "deceased": false,
-   "events": [],
+   "birthDate": "17 11 1921",
+   "deceased": true,
+   "deathDate": "12 02 2009",
+   "events": [
+    {
+     "date": "00 02 1947",
+     "title": "Ślub",
+     "place": ""
+    }
+   ],
    "fatherId": "pmvy2tc8vyn73nb",
    "motherId": "pmvy2w8j4rzt9yu"
   },
@@ -210,8 +218,16 @@
    "lastName": "Szara",
    "maidenName": "Czech",
    "gender": "K",
-   "deceased": false,
-   "events": [],
+   "birthDate": "8 10 1923",
+   "deceased": true,
+   "deathDate": "15 01 1994",
+   "events": [
+    {
+     "date": "00 02 1947",
+     "title": "Ślub",
+     "place": ""
+    }
+   ],
    "fatherId": "pmvy2xfac8000j4",
    "motherId": "pmvy2xrb5j78j6n"
   },
@@ -220,8 +236,18 @@
    "firstName": "Michał",
    "lastName": "Szary",
    "gender": "M",
-   "deceased": false,
-   "events": []
+   "birthDate": "18 09 1885",
+   "deceased": true,
+   "sources": "Ślub w wieku 25 lat, zakladam że urodził sie w 1885r.",
+   "events": [
+    {
+     "date": "16 11 1910",
+     "title": "Ślub",
+     "place": ""
+    }
+   ],
+   "fatherId": "pmw6tbppyvd43vu",
+   "motherId": "pmw6tlmod1iixhs"
   },
   {
    "id": "pmvy2twarxuekl5",
@@ -258,11 +284,18 @@
   },
   {
    "id": "pmvy2w8j4rzt9yu",
-   "firstName": "Maria",
+   "firstName": "Marianna",
    "lastName": "Szara",
+   "maidenName": "Czech",
    "gender": "K",
-   "deceased": false,
-   "events": []
+   "birthDate": "24 07 1890",
+   "deceased": true,
+   "occupation": "16 11 1910",
+   "residence": "Biecz",
+   "notes": "Ślub w wieku 20 lat, zakładam ze urodziła się w 1890r.",
+   "events": [],
+   "fatherId": "pmw6tdn4fbi6v1w",
+   "motherId": "pmw6te0007t3w1q"
   },
   {
    "id": "pmvy2xfac8000j4",
@@ -1309,8 +1342,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4l0ws0wu2js",
-   "fatherId": "pmvy322u53bpbvq"
+   "fatherId": "pmvy322u53bpbvq",
+   "motherId": "pmvy4l0ws0wu2js"
   },
   {
    "id": "pmvy4nh5umz04md",
@@ -1394,8 +1427,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4pd2al13gto",
-   "fatherId": "pmvy4p5sicewfar"
+   "fatherId": "pmvy4p5sicewfar",
+   "motherId": "pmvy4pd2al13gto"
   },
   {
    "id": "pmvy4r478o1xtcv",
@@ -1404,8 +1437,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4pd2al13gto",
-   "fatherId": "pmvy4p5sicewfar"
+   "fatherId": "pmvy4p5sicewfar",
+   "motherId": "pmvy4pd2al13gto"
   },
   {
    "id": "pmvy4rq5awqgsm7",
@@ -1618,8 +1651,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4pyvwy7wstb",
-   "fatherId": "pmvy4pph6mzqirk"
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
   },
   {
    "id": "pmvy53bh3r5zqlv",
@@ -2497,8 +2530,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy6qh98uzy6ps",
-   "fatherId": "pmvy6vwtgqgojrz"
+   "fatherId": "pmvy6vwtgqgojrz",
+   "motherId": "pmvy6qh98uzy6ps"
   },
   {
    "id": "pmvy73fdauc50c3",
@@ -3095,8 +3128,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy8a6xl7d042p",
-   "fatherId": "pmvy8co0bzuv39e"
+   "fatherId": "pmvy8co0bzuv39e",
+   "motherId": "pmvy8a6xl7d042p"
   },
   {
    "id": "pmvy8d0itdahive",
@@ -3105,8 +3138,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy8a6xl7d042p",
-   "fatherId": "pmvy8co0bzuv39e"
+   "fatherId": "pmvy8co0bzuv39e",
+   "motherId": "pmvy8a6xl7d042p"
   },
   {
    "id": "pmvy8d7sjhcuhz7",
@@ -3160,8 +3193,8 @@
    "deceased": true,
    "notes": "10 msc jak zmarł",
    "events": [],
-   "motherId": "pmvy3153n6jn6vx",
-   "fatherId": "pmvy8dtrvhf54y2"
+   "fatherId": "pmvy8dtrvhf54y2",
+   "motherId": "pmvy3153n6jn6vx"
   },
   {
    "id": "pmvy8egnhjdzyjt",
@@ -3189,8 +3222,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy3153n6jn6vx",
-   "fatherId": "pmvy8dtrvhf54y2"
+   "fatherId": "pmvy8dtrvhf54y2",
+   "motherId": "pmvy3153n6jn6vx"
   },
   {
    "id": "pmvy8fkv11piau0",
@@ -3209,8 +3242,8 @@
    "deceased": false,
    "notes": "kawaler",
    "events": [],
-   "motherId": "pmvy8fkv11piau0",
-   "fatherId": "pmvy8fb832s5aq2"
+   "fatherId": "pmvy8fb832s5aq2",
+   "motherId": "pmvy8fkv11piau0"
   },
   {
    "id": "pmvy8gk6p632iic",
@@ -3562,8 +3595,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2r2dzgx5zsy4",
-   "fatherId": "pmw2r3i9ob56xec"
+   "fatherId": "pmw2r3i9ob56xec",
+   "motherId": "pmw2r2dzgx5zsy4"
   },
   {
    "id": "pmw2r4pubeibn29",
@@ -3666,8 +3699,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2qlx23egd7rs",
-   "fatherId": "pmw2r9u2r47xkq2"
+   "fatherId": "pmw2r9u2r47xkq2",
+   "motherId": "pmw2qlx23egd7rs"
   },
   {
    "id": "pmw2ra1zfx8693y",
@@ -3675,8 +3708,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2qlx23egd7rs",
-   "fatherId": "pmw2r9u2r47xkq2"
+   "fatherId": "pmw2r9u2r47xkq2",
+   "motherId": "pmw2qlx23egd7rs"
   },
   {
    "id": "pmw2ra3okyew4jc",
@@ -3684,8 +3717,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2qlx23egd7rs",
-   "fatherId": "pmw2r9u2r47xkq2"
+   "fatherId": "pmw2r9u2r47xkq2",
+   "motherId": "pmw2qlx23egd7rs"
   },
   {
    "id": "pmw2rakwbwwkknj",
@@ -3697,8 +3730,8 @@
    "deceased": true,
    "deathDate": "2018",
    "events": [],
-   "motherId": "pmw2q29cq0ompps",
-   "fatherId": "pmw2ql3d7008gs4"
+   "fatherId": "pmw2ql3d7008gs4",
+   "motherId": "pmw2q29cq0ompps"
   },
   {
    "id": "pmw2rb72k153zf4",
@@ -3742,8 +3775,8 @@
    "deceased": true,
    "deathDate": "2011",
    "events": [],
-   "motherId": "pmw2q2ot6suzk24",
-   "fatherId": "pmw2rcr90a2fdhl"
+   "fatherId": "pmw2rcr90a2fdhl",
+   "motherId": "pmw2q2ot6suzk24"
   },
   {
    "id": "pmw2re4vmfkb1c8",
@@ -3755,8 +3788,8 @@
    "deceased": true,
    "deathDate": "2011",
    "events": [],
-   "motherId": "pmw2q2ot6suzk24",
-   "fatherId": "pmw2rcr90a2fdhl"
+   "fatherId": "pmw2rcr90a2fdhl",
+   "motherId": "pmw2q2ot6suzk24"
   },
   {
    "id": "pmw2renfvmok3bz",
@@ -3831,8 +3864,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2rio2si6fzux",
@@ -3840,8 +3873,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2riq37hv2b7v",
@@ -3849,8 +3882,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2ris5vsakhzz",
@@ -3858,8 +3891,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2rj1q4gn0cid",
@@ -3913,8 +3946,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2rk7k4waxfcu",
-   "fatherId": "pmw2rli5wf46iph"
+   "fatherId": "pmw2rli5wf46iph",
+   "motherId": "pmw2rk7k4waxfcu"
   },
   {
    "id": "pmw2rmnhgpd7g71",
@@ -3923,8 +3956,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2rk7k4waxfcu",
-   "fatherId": "pmw2rli5wf46iph"
+   "fatherId": "pmw2rli5wf46iph",
+   "motherId": "pmw2rk7k4waxfcu"
   },
   {
    "id": "pmw2rnyp9y0mius",
@@ -3935,8 +3968,8 @@
    "deceased": true,
    "deathDate": "1997",
    "events": [],
-   "motherId": "pmw2rj1q4gn0cid",
-   "fatherId": "pmw2qf81nihqrxv"
+   "fatherId": "pmw2qf81nihqrxv",
+   "motherId": "pmw2rj1q4gn0cid"
   },
   {
    "id": "pmw2rp390j7mr7h",
@@ -4055,8 +4088,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2ru8czimxenu",
-   "fatherId": "pmw2rto3vh29nr2"
+   "fatherId": "pmw2rto3vh29nr2",
+   "motherId": "pmw2ru8czimxenu"
   },
   {
    "id": "pmw2rx7a4yckp91",
@@ -4114,8 +4147,8 @@
    "birthDate": "1932",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2sl2i5j1q7f8",
-   "fatherId": "pmw2sktrgub42i2"
+   "fatherId": "pmw2sktrgub42i2",
+   "motherId": "pmw2sl2i5j1q7f8"
   },
   {
    "id": "pmw2sm1ctftipjb",
@@ -4250,8 +4283,8 @@
    "burialPlace": "Kraków",
    "notes": "Ślub 26 11 1867",
    "events": [],
-   "motherId": "pmw2tjzt1yaigow",
-   "fatherId": "pmw2tksnipnltux"
+   "fatherId": "pmw2tksnipnltux",
+   "motherId": "pmw2tjzt1yaigow"
   },
   {
    "id": "pmw2tixzp10oo88",
@@ -4433,8 +4466,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "motherId": "pmw2twwhq4ebn27",
-   "fatherId": "pmw2txb7hhv7nmj"
+   "fatherId": "pmw2txb7hhv7nmj",
+   "motherId": "pmw2twwhq4ebn27"
   },
   {
    "id": "pmw2tygri1t32kt",
@@ -4492,6 +4525,154 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw6tbppyvd43vu",
+   "firstName": "Edward",
+   "lastName": "Szary",
+   "gender": "M",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw6uc445214fen",
+   "motherId": "pmw6uciwc53fnia"
+  },
+  {
+   "id": "pmw6tdn4fbi6v1w",
+   "firstName": "Gabriel",
+   "lastName": "Czech",
+   "gender": "M",
+   "deceased": true,
+   "notes": "To ślub rodziców Marii, czyli Gabriela Czecha i Apolonii z domu Mlecz. Daty urodzenia samej Marii tu nie ma, ale akt bardzo przydaje się w drzewie.\n\nKsięga ślubów, rok 1889, wpis nr 2, strona 49:\n\nKolumna\tOdczyt\nData ślubu\t21 sierpnia 1889\nDom nr\t17\nPan młody\tGabriel Czech, rolnik (agr.), syn Wojciecha (Adalberti) i Marianny z domu Czapka (?), urodzony i zamieszkały w Korczynie\nWiek pana młodego\t36 lat, kawaler, czyli ur. około 1853\nPanna młoda\tApolonia, córka Macieja Mleczko (zapis „Mlecrak/Mleczak”, w Genetece „Mlecz”) i Jadwigi (?) z domu Lewcz… (?), rolników, z Korczyny\nWiek panny młodej\tokoło 30 lat (zapis niewyraźny, „30¾” albo „32”), panna, czyli ur. około 1857–1859\nŚwiadkowie\tWalenty Pawlik i drugi, nieczytelny (Czech?), rolnicy\nZapowiedzi\ttrzy w lipcu i sierpniu 1889",
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=030.JPG&zoom=3.31",
+   "events": [
+    {
+     "date": "21 sierpnia 1889",
+     "title": "Ślub",
+     "place": ""
+    }
+   ],
+   "fatherId": "pmw6uk03e5n3hwb",
+   "motherId": "pmw6ulu2bt1a84s"
+  },
+  {
+   "id": "pmw6te0007t3w1q",
+   "firstName": "Apolonia",
+   "lastName": "Czech",
+   "maidenName": "Mlecz",
+   "gender": "K",
+   "deceased": true,
+   "events": [
+    {
+     "date": "21 sierpnia 1889",
+     "title": "Ślub",
+     "place": ""
+    }
+   ],
+   "fatherId": "pmw6unsyscgfdwy",
+   "motherId": "pmw6uoc885oiigx"
+  },
+  {
+   "id": "pmw6tfgj6e6nnb8",
+   "firstName": "Jan",
+   "lastName": "Czech",
+   "gender": "M",
+   "birthDate": "23 05 1897",
+   "deceased": true,
+   "deathDate": "17 2 1910",
+   "events": [],
+   "fatherId": "pmw6tdn4fbi6v1w",
+   "motherId": "pmw6te0007t3w1q"
+  },
+  {
+   "id": "pmw6tlmod1iixhs",
+   "firstName": "Urszula",
+   "lastName": "Szary",
+   "maidenName": "Majowska",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw6ud03w5my89d",
+   "motherId": "pmw6ud4w5b1oghu"
+  },
+  {
+   "id": "pmw6uc445214fen",
+   "firstName": "Maciej",
+   "lastName": "Szary",
+   "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw6uciwc53fnia",
+   "firstName": "Anna",
+   "lastName": "Czech",
+   "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw6ud03w5my89d",
+   "firstName": "Maciej",
+   "lastName": "Majowski",
+   "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw6ud4w5b1oghu",
+   "firstName": "Teresa",
+   "lastName": "Majowska",
+   "maidenName": "Bajorek",
+   "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw6uk03e5n3hwb",
+   "firstName": "Wojciech",
+   "lastName": "Czech",
+   "gender": "M",
+   "deceased": true,
+   "deathDate": "przed 1889",
+   "events": []
+  },
+  {
+   "id": "pmw6ulu2bt1a84s",
+   "firstName": "Marianna",
+   "lastName": "Czech",
+   "maidenName": "Czapka",
+   "gender": "K",
+   "deceased": true,
+   "notes": "nazwisko do zweryfikowania",
+   "events": []
+  },
+  {
+   "id": "pmw6unsyscgfdwy",
+   "firstName": "Maciej",
+   "lastName": "Mlecz",
+   "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw6uoc885oiigx",
+   "firstName": "Jadwiga",
+   "lastName": "Mlecz",
+   "maidenName": "Lewek",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw6wc0po0sejey",
+   "firstName": "Anna",
+   "lastName": "Czech",
+   "gender": "K",
+   "birthDate": "8 10 1892",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw6tdn4fbi6v1w",
+   "motherId": "pmw6te0007t3w1q"
   }
  ],
  "unions": [
@@ -5351,6 +5532,36 @@
    "id": "umw2u4dvm26cb83",
    "a": "pmw2u3wm5nyfmqx",
    "b": "pmw2u45cf7kae0c",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw6te9z3dcu71f",
+   "a": "pmw6tdn4fbi6v1w",
+   "b": "pmw6te0007t3w1q",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw6tm6ed6mr04u",
+   "a": "pmw6tbppyvd43vu",
+   "b": "pmw6tlmod1iixhs",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw6ucsfj77k20p",
+   "a": "pmw6uc445214fen",
+   "b": "pmw6uciwc53fnia",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw6umsno1emi8a",
+   "a": "pmw6uk03e5n3hwb",
+   "b": "pmw6ulu2bt1a84s",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw6upz7ry43dc4",
+   "a": "pmw6unsyscgfdwy",
+   "b": "pmw6uoc885oiigx",
    "status": "malzenstwo"
   }
  ]
