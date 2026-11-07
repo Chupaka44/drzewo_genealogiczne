@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-07T23:06:45.708Z",
+ "exported": "2026-11-07T23:13:52.483Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -238,6 +238,7 @@
    "gender": "M",
    "birthDate": "18 09 1885",
    "deceased": true,
+   "notes": "Ze strzeszyna",
    "sources": "Ślub w wieku 25 lat, zakladam że urodził sie w 1885r.",
    "events": [
     {
