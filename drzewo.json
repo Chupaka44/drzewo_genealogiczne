@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-07T23:27:03.376Z",
+ "exported": "2026-11-07T23:28:56.448Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1218,7 +1218,7 @@
    "deathDate": "11 12 1938",
    "burialPlace": "Wójtowa",
    "occupation": "kowal",
-   "notes": "https://www.statueofliberty.org/arrival-result/?first_name=Jozef&last_name=Setlak&arrival_year_from=1790&arrival_year_to=1974\n\n\nBył w stanach",
+   "notes": "https://www.statueofliberty.org/arrival-result/?first_name=Jozef&last_name=Setlak&arrival_year_from=1790&arrival_year_to=1974\n\n\nBył w stanach\n\nAkt zgony (Wójtowa)\n\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5802&se=&sy=5515&kt=1&plik=072.jpg&x=1942&y=266&zoom=1.4700000000000002",
    "events": [],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
