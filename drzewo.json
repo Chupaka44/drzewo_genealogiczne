@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T22:39:54.265Z",
+ "exported": "2026-11-08T22:40:03.171Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1315,8 +1315,7 @@
    "maidenName": "Rzońca",
    "gender": "K",
    "deceased": false,
-   "events": [],
-   "fatherId": "pmw8ezwlh6v39vc"
+   "events": []
   },
   {
    "id": "pmvy4lprkirdqan",
@@ -5532,17 +5531,6 @@
    "events": [],
    "fatherId": "pmw2rnyp9y0mius",
    "motherId": "pmw2rp390j7mr7h"
-  },
-  {
-   "id": "pmw8ezwlh6v39vc",
-   "firstName": "Jan",
-   "lastName": "Rządca",
-   "gender": "M",
-   "birthDate": "1955",
-   "deceased": true,
-   "deathDate": "1983",
-   "burialPlace": "Biecz",
-   "events": []
   }
  ],
  "unions": [
