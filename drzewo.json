@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:21:55.132Z",
+ "exported": "2026-11-08T15:29:55.606Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5380,12 +5380,9 @@
   },
   {
    "id": "pmw7yuie1q9obqi",
-   "firstName": "Edward",
    "lastName": "Ćwiklik",
    "gender": "M",
-   "birthDate": "1924",
    "deceased": true,
-   "deathDate": "1945",
    "events": []
   },
   {
@@ -5514,6 +5511,19 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw7zgnernwxiq6",
+   "firstName": "Edward",
+   "lastName": "Ćwiklik",
+   "gender": "M",
+   "birthDate": "1924",
+   "deceased": true,
+   "deathDate": "1945",
+   "notes": "kawaler",
+   "events": [],
+   "fatherId": "pmw7yuie1q9obqi",
+   "motherId": "pmw7yuzs3s76fd1"
   }
  ],
  "unions": [
