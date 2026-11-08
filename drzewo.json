@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:25:30.742Z",
+ "exported": "2026-11-08T13:25:40.984Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5066,6 +5066,14 @@
    "deceased": false,
    "events": [],
    "motherId": "pmvy87ivb6d2pai"
+  },
+  {
+   "id": "pmw7v7ld7u4sacm",
+   "firstName": "Marcin",
+   "lastName": "Budziszak",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -6039,6 +6047,12 @@
    "id": "umw7u0o86e250fj",
    "a": "pmvy2os3jryq9lm",
    "b": "pmw7u0giudci6i9",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7v7rj5plfqh3",
+   "a": "pmvy87ivb6d2pai",
+   "b": "pmw7v7ld7u4sacm",
    "status": "malzenstwo"
   }
  ]
