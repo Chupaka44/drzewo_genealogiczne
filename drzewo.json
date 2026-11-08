@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:45:36.532Z",
+ "exported": "2026-11-08T11:45:46.502Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4992,6 +4992,16 @@
    "firstName": "Patrycja",
    "lastName": "Patrzyk",
    "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw7rm7nnys160x",
+   "motherId": "pmw7rms21337kwi"
+  },
+  {
+   "id": "pmw7rn45lehthu7",
+   "firstName": "Zbigniew",
+   "lastName": "Patrzyk",
+   "gender": "M",
    "deceased": false,
    "events": [],
    "fatherId": "pmw7rm7nnys160x",
