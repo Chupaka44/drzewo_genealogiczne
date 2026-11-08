@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:22:26.127Z",
+ "exported": "2026-11-08T12:25:03.443Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3989,6 +3989,7 @@
   },
   {
    "id": "pmw2rp390j7mr7h",
+   "firstName": "Władysława",
    "lastName": "Setlak",
    "maidenName": "Skórska",
    "gender": "K",
