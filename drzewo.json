@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:23:23.969Z",
+ "exported": "2026-11-08T11:23:27.303Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4809,8 +4809,7 @@
    "lastName": "Wąsacz",
    "gender": "K",
    "deceased": true,
-   "events": [],
-   "motherId": "pmw7qtcen9snhpn"
+   "events": []
   },
   {
    "id": "pmw7qsr108pg4tc",
