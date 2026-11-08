@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:44:18.934Z",
+ "exported": "2026-11-08T13:44:23.809Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5119,6 +5119,16 @@
   {
    "id": "pmw7vvmtamx70g4",
    "firstName": "Władysława",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw7vq12rg6a0d7",
+   "motherId": "pmw7vqc6zow827l"
+  },
+  {
+   "id": "pmw7vvrim47g9y2",
+   "firstName": "Janina",
    "lastName": "Mazurek",
    "gender": "K",
    "deceased": false,
