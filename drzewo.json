@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:09:18.188Z",
+ "exported": "2026-11-08T14:10:05.077Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1389,7 +1389,8 @@
    "gender": "M",
    "birthDate": "15 06 1898",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmw7wslc00onwft"
   },
   {
    "id": "pmvy4pd2al13gto",
@@ -5288,6 +5289,14 @@
    "lastName": "Dyląg",
    "maidenName": "Kusiak",
    "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw7wslc00onwft",
+   "firstName": "Jakub",
+   "lastName": "Pabis",
+   "gender": "M",
    "deceased": false,
    "events": []
   }
