@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T01:30:50.143Z",
+ "exported": "2026-11-08T01:31:14.103Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3397,7 +3397,8 @@
    "deceased": false,
    "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002",
    "events": [],
-   "fatherId": "pmw75ob3ehd43gn"
+   "fatherId": "pmw75ob3ehd43gn",
+   "motherId": "pmw75ok7tznzsyj"
   },
   {
    "id": "pmw2q16o2globvi",
@@ -4710,6 +4711,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw75ok7tznzsyj",
+   "firstName": "Katarzyna",
+   "lastName": "Setlak",
+   "maidenName": "Rydarowicz",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -5599,6 +5609,12 @@
    "id": "umw6upz7ry43dc4",
    "a": "pmw6unsyscgfdwy",
    "b": "pmw6uoc885oiigx",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw75oz8syoscz5",
+   "a": "pmw75ob3ehd43gn",
+   "b": "pmw75ok7tznzsyj",
    "status": "malzenstwo"
   }
  ]
