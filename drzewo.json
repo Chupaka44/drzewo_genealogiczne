@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:09:07.359Z",
+ "exported": "2026-11-08T14:09:18.188Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1397,6 +1397,7 @@
    "lastName": "Pabis",
    "maidenName": "Mazur",
    "gender": "K",
+   "birthDate": "8 5 1907",
    "deceased": false,
    "events": [],
    "fatherId": "pmvy5xtm74v969c",
