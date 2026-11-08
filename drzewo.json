@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T01:28:26.860Z",
+ "exported": "2026-11-08T01:30:50.143Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3396,7 +3396,8 @@
    "gender": "M",
    "deceased": false,
    "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002",
-   "events": []
+   "events": [],
+   "fatherId": "pmw75ob3ehd43gn"
   },
   {
    "id": "pmw2q16o2globvi",
@@ -4701,6 +4702,14 @@
    "events": [],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
+  },
+  {
+   "id": "pmw75ob3ehd43gn",
+   "firstName": "Maciej",
+   "lastName": "Setlak",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
