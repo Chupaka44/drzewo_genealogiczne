@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:35:27.670Z",
+ "exported": "2026-11-08T11:35:57.781Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4766,7 +4766,8 @@
    "gender": "M",
    "deceased": true,
    "deathDate": "16 10 2016",
-   "events": []
+   "events": [],
+   "motherId": "pmw7raiica7dx16"
   },
   {
    "id": "pmw7qqny94hdjd0",
@@ -4930,6 +4931,14 @@
    "firstName": "Eugenia",
    "lastName": "Cieśla",
    "maidenName": "Markowicz",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw7raiica7dx16",
+   "firstName": "Maria",
+   "lastName": "Cieśla",
    "gender": "K",
    "deceased": false,
    "events": []
