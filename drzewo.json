@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T22:44:34.133Z",
+ "exported": "2026-11-08T22:45:00.919Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -601,7 +601,9 @@
    "firstName": "Tadeusz",
    "lastName": "Szary",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "16 04 1927",
+   "deceased": true,
+   "deathDate": "21 07 1992",
    "events": [],
    "fatherId": "pmvy2tc8vyn73nb",
    "motherId": "pmvy2w8j4rzt9yu"
