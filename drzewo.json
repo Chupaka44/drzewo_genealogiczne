@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:16:56.140Z",
+ "exported": "2026-11-08T15:17:20.424Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1513,7 +1513,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw7z5cz3viedf7"
+   "fatherId": "pmw7z5cz3viedf7",
+   "motherId": "pmw7z6w8kj1u99t"
   },
   {
    "id": "pmvy4uk5gtwfs0m",
@@ -5480,6 +5481,17 @@
    "burialPlace": "Libusza",
    "notes": "Jak wiało, na furmance wieźli tą trumnę, to nie było karwanów jeszcze takich ~ Babcia Marysia",
    "events": []
+  },
+  {
+   "id": "pmw7z6w8kj1u99t",
+   "firstName": "Zofia",
+   "lastName": "Przybyłowicz",
+   "gender": "K",
+   "birthDate": "20 01 1912",
+   "deceased": true,
+   "deathDate": "28 05 1995",
+   "burialPlace": "Libusza",
+   "events": []
   }
  ],
  "unions": [
@@ -6555,6 +6567,12 @@
    "id": "umw7z00trf31p1o",
    "a": "pmw7yzkb7idazo5",
    "b": "pmw7yzvlkskimzj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7z7cv0cjbewu",
+   "a": "pmw7z5cz3viedf7",
+   "b": "pmw7z6w8kj1u99t",
    "status": "malzenstwo"
   }
  ]
