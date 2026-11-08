@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:41:08.265Z",
+ "exported": "2026-11-08T13:42:03.168Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5120,6 +5120,7 @@
   {
    "id": "pmw7vqhp5pwunon",
    "firstName": "Maria",
+   "lastName": "Szeląg",
    "maidenName": "Mazurek",
    "gender": "K",
    "deceased": false,
