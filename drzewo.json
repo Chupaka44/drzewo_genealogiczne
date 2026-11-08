@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:20:22.339Z",
+ "exported": "2026-11-08T11:20:34.414Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4744,7 +4744,8 @@
    "birthDate": "12 01 1968",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw7qpewzf2yc5g"
+   "fatherId": "pmw7qpewzf2yc5g",
+   "motherId": "pmw7qqny94hdjd0"
   },
   {
    "id": "pmw7qkmjuv4h6tf",
@@ -4763,6 +4764,14 @@
    "gender": "M",
    "deceased": true,
    "deathDate": "16 10 2016",
+   "events": []
+  },
+  {
+   "id": "pmw7qqny94hdjd0",
+   "firstName": "Łucja",
+   "lastName": "Cieśla",
+   "gender": "K",
+   "deceased": false,
    "events": []
   }
  ],
@@ -5665,6 +5674,12 @@
    "id": "umw7qkvdr9hh1eo",
    "a": "pmw7qilwhwcycxd",
    "b": "pmw7qkmjuv4h6tf",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7qqvfjb2kyhc",
+   "a": "pmw7qpewzf2yc5g",
+   "b": "pmw7qqny94hdjd0",
    "status": "malzenstwo"
   }
  ]
