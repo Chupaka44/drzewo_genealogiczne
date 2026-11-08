@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:29:55.606Z",
+ "exported": "2026-11-08T18:27:53.377Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4008,12 +4008,12 @@
    "firstName": "Józef",
    "lastName": "Setlak",
    "gender": "M",
-   "birthDate": "1948",
+   "birthDate": "28 01 1948",
    "deceased": true,
-   "deathDate": "1997",
+   "deathDate": "26 07 1997",
    "events": [],
-   "motherId": "pmw2rj1q4gn0cid",
-   "fatherId": "pmw2qf81nihqrxv"
+   "fatherId": "pmw2qf81nihqrxv",
+   "motherId": "pmw2rj1q4gn0cid"
   },
   {
    "id": "pmw2rp390j7mr7h",
