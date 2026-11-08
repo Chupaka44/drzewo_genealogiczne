@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T00:39:00.946Z",
+ "exported": "2026-11-08T00:41:35.930Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4683,6 +4683,19 @@
    "birthPlace": "Pagórek",
    "deceased": true,
    "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=006.jpg&zoom=3.0300000000000002",
+   "events": [],
+   "fatherId": "pmw2q0zn8z158f3",
+   "motherId": "pmw2q16o2globvi"
+  },
+  {
+   "id": "pmw73w9vcurbfbi",
+   "firstName": "Piotr",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "29 06 1878",
+   "birthPlace": "Pagórek",
+   "deceased": false,
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=882&y=1312&zoom=2.5300000000000002",
    "events": [],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
