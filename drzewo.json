@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:16:15.923Z",
+ "exported": "2026-11-08T12:17:40.741Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3602,13 +3602,13 @@
   },
   {
    "id": "pmw2r4gqccwuq6p",
-   "firstName": "Wojciech??",
+   "firstName": "Wojciech",
    "lastName": "Zabawa",
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2r2dzgx5zsy4",
-   "fatherId": "pmw2r3i9ob56xec"
+   "fatherId": "pmw2r3i9ob56xec",
+   "motherId": "pmw2r2dzgx5zsy4"
   },
   {
    "id": "pmw2r4pubeibn29",
