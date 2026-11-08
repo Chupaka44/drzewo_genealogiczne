@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:11:55.542Z",
+ "exported": "2026-11-08T15:12:01.146Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5440,6 +5440,16 @@
    "lastName": "Koryga",
    "maidenName": "Włodek",
    "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw7yzkb7idazo5",
+   "fatherId": "pmw7yzvlkskimzj"
+  },
+  {
+   "id": "pmw7z0fqpj9wl8x",
+   "firstName": "Tadeusz",
+   "lastName": "Włodek",
+   "gender": "M",
    "deceased": false,
    "events": [],
    "motherId": "pmw7yzkb7idazo5",
