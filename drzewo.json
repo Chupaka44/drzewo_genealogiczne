@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:26:02.294Z",
+ "exported": "2026-11-08T12:26:09.094Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3662,6 +3662,7 @@
   },
   {
    "id": "pmw2r7gx0uq57h5",
+   "firstName": "Tadeusz",
    "lastName": "Aftyka",
    "gender": "M",
    "deceased": false,
