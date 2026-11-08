@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T01:20:41.187Z",
+ "exported": "2026-11-08T01:28:26.860Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3395,6 +3395,7 @@
    "lastName": "Setlak",
    "gender": "M",
    "deceased": false,
+   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002",
    "events": []
   },
   {
