@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T01:34:04.514Z",
+ "exported": "2026-11-08T01:35:40.222Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3410,8 +3410,7 @@
    "birthDate": "1855",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q1hkjkils0m",
-   "fatherId": "pmw75s4gyfe7w23"
+   "motherId": "pmw2q1hkjkils0m"
   },
   {
    "id": "pmw2q1hkjkils0m",
@@ -4732,14 +4731,6 @@
    "gender": "M",
    "deceased": true,
    "events": []
-  },
-  {
-   "id": "pmw75s4gyfe7w23",
-   "firstName": "Paweł",
-   "lastName": "Ryznar/Pyznar",
-   "gender": "M",
-   "deceased": false,
-   "events": []
   }
  ],
  "unions": [
@@ -5635,12 +5626,6 @@
    "id": "umw75oz8syoscz5",
    "a": "pmw75ob3ehd43gn",
    "b": "pmw75ok7tznzsyj",
-   "status": "malzenstwo"
-  },
-  {
-   "id": "umw75smqi3c08np",
-   "a": "pmw75s4gyfe7w23",
-   "b": "pmw2q1hkjkils0m",
    "status": "malzenstwo"
   }
  ]
