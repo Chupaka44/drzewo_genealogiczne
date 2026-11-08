@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:57:29.328Z",
+ "exported": "2026-11-08T13:57:44.819Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5257,7 +5257,7 @@
   },
   {
    "id": "pmw7wc9nba8fp90",
-   "firstName": "Jozef",
+   "firstName": "Józef",
    "lastName": "Nalepa",
    "gender": "M",
    "deceased": false,
