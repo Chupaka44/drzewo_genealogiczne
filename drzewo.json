@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:24:28.782Z",
+ "exported": "2026-11-08T11:24:36.969Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4791,6 +4791,7 @@
    "id": "pmw7qr489bjtd81",
    "firstName": "Natalia",
    "lastName": "Wąsacz",
+   "maidenName": "Gąsior",
    "gender": "K",
    "deceased": false,
    "events": [],
