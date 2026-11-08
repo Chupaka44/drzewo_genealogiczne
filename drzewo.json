@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:05:17.880Z",
+ "exported": "2026-11-08T14:05:35.650Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1416,7 +1416,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw7wmmfplxmi5l"
+   "fatherId": "pmw7wmmfplxmi5l",
+   "motherId": "pmw7wmt8tfn83mq"
   },
   {
    "id": "pmvy4qeqkkztcyx",
@@ -5277,6 +5278,15 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7wmt8tfn83mq",
+   "firstName": "Wiktoria",
+   "lastName": "Dyląg",
+   "maidenName": "Kusiak",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -6298,6 +6308,12 @@
    "id": "umw7wb478772yvc",
    "a": "pmw7wafhw4barb8",
    "b": "pmw7wayhkvdk5c7",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7wn3dephef87",
+   "a": "pmw7wmmfplxmi5l",
+   "b": "pmw7wmt8tfn83mq",
    "status": "malzenstwo"
   }
  ]
