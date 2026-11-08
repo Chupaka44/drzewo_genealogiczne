@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:44:23.809Z",
+ "exported": "2026-11-08T13:44:58.330Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5135,6 +5135,14 @@
    "events": [],
    "fatherId": "pmw7vq12rg6a0d7",
    "motherId": "pmw7vqc6zow827l"
+  },
+  {
+   "id": "pmw7vwe93bl0s1j",
+   "firstName": "Piotr",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw7vvrim47g9y2"
   }
  ],
  "unions": [
