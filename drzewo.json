@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T01:31:14.103Z",
+ "exported": "2026-11-08T01:31:24.092Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4718,6 +4718,15 @@
    "lastName": "Setlak",
    "maidenName": "Rydarowicz",
    "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw75p2htg6iv3h"
+  },
+  {
+   "id": "pmw75p2htg6iv3h",
+   "firstName": "Kazimierz",
+   "lastName": "Rydarowicz",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
