@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T23:31:14.606Z",
+ "exported": "2026-11-08T23:31:19.416Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -101,7 +101,7 @@
    "firstName": "Maria",
    "lastName": "Mazurek",
    "maidenName": "Przybyłowicz",
-   "gender": "M",
+   "gender": "K",
    "birthDate": "11 01 1951",
    "deceased": false,
    "events": [],
