@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:40:57.148Z",
+ "exported": "2026-11-08T13:41:08.265Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5133,6 +5133,16 @@
    "lastName": "Bielamowicz",
    "maidenName": "Mazurek",
    "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw7vq12rg6a0d7",
+   "motherId": "pmw7vqc6zow827l"
+  },
+  {
+   "id": "pmw7vrkew3ah94i",
+   "firstName": "Piotr",
+   "lastName": "Mazurek",
+   "gender": "M",
    "deceased": false,
    "events": [],
    "fatherId": "pmw7vq12rg6a0d7",
