@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:20:42.962Z",
+ "exported": "2026-11-08T11:21:06.679Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4756,7 +4756,8 @@
    "birthDate": "09 01 1971",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw7qqx0hbkzt86"
+   "fatherId": "pmw7qqx0hbkzt86",
+   "motherId": "pmw7qr489bjtd81"
   },
   {
    "id": "pmw7qpewzf2yc5g",
@@ -4780,6 +4781,14 @@
    "firstName": "Władysław",
    "lastName": "Wąsacz",
    "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw7qr489bjtd81",
+   "firstName": "Natalia",
+   "lastName": "Wąsacz",
+   "gender": "K",
    "deceased": false,
    "events": []
   }
@@ -5689,6 +5698,12 @@
    "id": "umw7qqvfjb2kyhc",
    "a": "pmw7qpewzf2yc5g",
    "b": "pmw7qqny94hdjd0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7qrkbrngcbsv",
+   "a": "pmw7qqx0hbkzt86",
+   "b": "pmw7qr489bjtd81",
    "status": "malzenstwo"
   }
  ]
