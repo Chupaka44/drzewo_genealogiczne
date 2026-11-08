@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:48:39.723Z",
+ "exported": "2026-11-08T13:48:55.625Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5199,6 +5199,13 @@
    "deceased": false,
    "events": [],
    "motherId": "pmw7vvmtamx70g4"
+  },
+  {
+   "id": "pmw7w1i2qooc1ds",
+   "lastName": "Kamiński",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -6202,6 +6209,12 @@
    "id": "umw7vyq4lcqc4aj",
    "a": "pmw7vy2rhhtnt1e",
    "b": "pmw7vymuem2nn7g",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7w1nnkeq4olu",
+   "a": "pmw7w0xtqw9sjef",
+   "b": "pmw7w1i2qooc1ds",
    "status": "malzenstwo"
   }
  ]
