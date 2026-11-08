@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:14:02.143Z",
+ "exported": "2026-11-08T15:15:09.848Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1441,10 +1441,13 @@
    "firstName": "Edward",
    "lastName": "Pabis",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "30 07 1930",
+   "deceased": true,
+   "deathDate": "23 03 2012",
+   "burialPlace": "Libusza",
    "events": [],
-   "motherId": "pmvy4pd2al13gto",
-   "fatherId": "pmvy4p5sicewfar"
+   "fatherId": "pmvy4p5sicewfar",
+   "motherId": "pmvy4pd2al13gto"
   },
   {
    "id": "pmvy4r478o1xtcv",
