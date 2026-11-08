@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T18:28:52.416Z",
+ "exported": "2026-11-08T18:30:25.729Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5525,6 +5525,18 @@
    "events": [],
    "fatherId": "pmw7yuie1q9obqi",
    "motherId": "pmw7yuzs3s76fd1"
+  },
+  {
+   "id": "pmw862i7cjtpgcc",
+   "firstName": "Rafał",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "23 11 1978",
+   "deceased": true,
+   "deathDate": "20 02 1983",
+   "events": [],
+   "fatherId": "pmw2rnyp9y0mius",
+   "motherId": "pmw2rp390j7mr7h"
   }
  ],
  "unions": [
