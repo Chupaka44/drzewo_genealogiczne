@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:20:03.632Z",
+ "exported": "2026-11-08T15:20:29.759Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5492,7 +5492,8 @@
    "deathDate": "28 05 1995",
    "burialPlace": "Libusza",
    "events": [],
-   "fatherId": "pmw7zaeyoi1r9t8"
+   "fatherId": "pmw7zaeyoi1r9t8",
+   "motherId": "pmw7zb3hgnxsnra"
   },
   {
    "id": "pmw7zaeyoi1r9t8",
@@ -5502,6 +5503,14 @@
    "birthDate": "1865",
    "deceased": true,
    "deathDate": "1954",
+   "events": []
+  },
+  {
+   "id": "pmw7zb3hgnxsnra",
+   "lastName": "Król",
+   "maidenName": "Haluch",
+   "gender": "K",
+   "deceased": true,
    "events": []
   }
  ],
@@ -6584,6 +6593,12 @@
    "id": "umw7z7cv0cjbewu",
    "a": "pmw7z5cz3viedf7",
    "b": "pmw7z6w8kj1u99t",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7zbeyddbu2h5",
+   "a": "pmw7zaeyoi1r9t8",
+   "b": "pmw7zb3hgnxsnra",
    "status": "malzenstwo"
   }
  ]
