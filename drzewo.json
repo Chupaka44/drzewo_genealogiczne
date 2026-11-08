@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:21:18.853Z",
+ "exported": "2026-11-08T13:21:27.862Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3176,6 +3176,7 @@
   },
   {
    "id": "pmvy8dmm13v1o29",
+   "firstName": "Aleksander",
    "lastName": "Mazurek",
    "gender": "M",
    "deceased": false,
