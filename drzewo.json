@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:24:36.969Z",
+ "exported": "2026-11-08T11:26:05.388Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4868,6 +4868,16 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw7qxc495fdd3g",
+   "firstName": "Stanisława",
+   "lastName": "Firszt",
+   "maidenName": "Gąsior",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw7qvp8jdus25c"
   }
  ],
  "unions": [
