@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:23:54.950Z",
+ "exported": "2026-11-08T11:24:13.237Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4848,6 +4848,16 @@
    "events": [],
    "fatherId": "pmw7qsr108pg4tc",
    "motherId": "pmw7qsk5co7777n"
+  },
+  {
+   "id": "pmw7qvgwwljp44u",
+   "firstName": "Jan",
+   "lastName": "Wąsacz",
+   "gender": "M",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmw7qsk5co7777n",
+   "fatherId": "pmw7qsr108pg4tc"
   }
  ],
  "unions": [
