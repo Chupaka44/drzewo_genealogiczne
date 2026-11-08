@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:35:22.318Z",
+ "exported": "2026-11-08T14:38:02.501Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5358,6 +5358,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7xs2s1lqu4yr",
+   "firstName": "Czesława",
+   "lastName": "Szary",
+   "gender": "K",
+   "birthDate": "10 11 1931",
+   "deceased": true,
+   "deathDate": "25 03 2019",
+   "events": []
   }
  ],
  "unions": [
@@ -6409,6 +6419,12 @@
    "id": "umw7xfg0jbjmvqm",
    "a": "pmw7xeqt4a20gzw",
    "b": "pmw7xf3apbr8fkp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7xsth1k95owp",
+   "a": "pmvy3gp5urrlmy7",
+   "b": "pmw7xs2s1lqu4yr",
    "status": "malzenstwo"
   }
  ]
