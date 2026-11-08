@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:58:16.289Z",
+ "exported": "2026-11-08T14:02:02.905Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2333,6 +2333,7 @@
    "deceased": true,
    "deathDate": "16 02 2019",
    "burialPlace": "Poznań",
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=109.jpg&x=1545&y=424&zoom=2.16",
    "events": [],
    "fatherId": "pmvy6facl6cfubb",
    "motherId": "pmvy6fei3stwy4a"
