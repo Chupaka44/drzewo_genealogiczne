@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:14:50.764Z",
+ "exported": "2026-11-08T11:15:05.905Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4752,7 +4752,8 @@
    "gender": "K",
    "birthDate": "09 01 1971",
    "deceased": false,
-   "events": []
+   "events": [],
+   "motherId": "pmvy2u8hrbfwj9w"
   }
  ],
  "unions": [
