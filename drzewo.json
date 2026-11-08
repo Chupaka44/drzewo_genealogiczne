@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:46:13.199Z",
+ "exported": "2026-11-08T13:46:38.869Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5170,6 +5170,14 @@
    "deceased": false,
    "events": [],
    "motherId": "pmw7vx36qa6rzyp"
+  },
+  {
+   "id": "pmw7vymuem2nn7g",
+   "firstName": "Urszula",
+   "lastName": "Bielamowicz",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -6167,6 +6175,12 @@
    "id": "umw7vqegmjbosvy",
    "a": "pmw7vq12rg6a0d7",
    "b": "pmw7vqc6zow827l",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7vyq4lcqc4aj",
+   "a": "pmw7vy2rhhtnt1e",
+   "b": "pmw7vymuem2nn7g",
    "status": "malzenstwo"
   }
  ]
