@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:03:23.462Z",
+ "exported": "2026-11-08T14:05:17.880Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1415,7 +1415,8 @@
    "maidenName": "Dyląg",
    "gender": "K",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmw7wmmfplxmi5l"
   },
   {
    "id": "pmvy4qeqkkztcyx",
@@ -5268,6 +5269,14 @@
    "events": [],
    "motherId": "pmw7wafhw4barb8",
    "fatherId": "pmw7wayhkvdk5c7"
+  },
+  {
+   "id": "pmw7wmmfplxmi5l",
+   "firstName": "Jakuba",
+   "lastName": "Dyląg",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
