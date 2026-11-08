@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:25:03.443Z",
+ "exported": "2026-11-08T12:26:02.294Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3651,6 +3651,7 @@
   },
   {
    "id": "pmw2r6mjgkbqrpg",
+   "firstName": "Urszula",
    "lastName": "Aftyka",
    "maidenName": "Zabawa",
    "gender": "K",
