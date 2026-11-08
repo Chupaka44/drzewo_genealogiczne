@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:05:35.650Z",
+ "exported": "2026-11-08T14:07:55.931Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -165,6 +165,7 @@
    "birthDate": "17 11 1925",
    "deceased": true,
    "deathDate": "2015",
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3530&kt=1&plik=015.jpg&x=1549&y=1797&zoom=2.16",
    "events": [],
    "fatherId": "pmvy4p5sicewfar",
    "motherId": "pmvy4pd2al13gto"
