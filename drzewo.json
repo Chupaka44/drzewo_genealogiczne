@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:56:41.892Z",
+ "exported": "2026-11-08T13:56:46.721Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5210,13 +5210,13 @@
   {
    "id": "pmw7w9ypadft0q4",
    "firstName": "Ludwika",
-   "lastName": "Ludwik",
+   "lastName": "Ludwin",
    "maidenName": "Mazurek",
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7vjpahf78aau",
-   "fatherId": "pmw7vjup0e6y0hk"
+   "fatherId": "pmw7vjup0e6y0hk",
+   "motherId": "pmw7vjpahf78aau"
   },
   {
    "id": "pmw7wabkqglg2ql",
