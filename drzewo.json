@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:26:28.850Z",
+ "exported": "2026-11-08T11:27:02.131Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4897,6 +4897,14 @@
    "deceased": false,
    "events": [],
    "fatherId": "pmw7qvp8jdus25c"
+  },
+  {
+   "id": "pmw7qz27w67zedx",
+   "firstName": "Stanisław",
+   "lastName": "Michalec",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -5816,6 +5824,12 @@
    "id": "umw7qsvfdb9v3w9",
    "a": "pmw7qsr108pg4tc",
    "b": "pmw7qsk5co7777n",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7qz6ljlvnnjl",
+   "a": "pmw7qyargejylqs",
+   "b": "pmw7qz27w67zedx",
    "status": "malzenstwo"
   }
  ]
