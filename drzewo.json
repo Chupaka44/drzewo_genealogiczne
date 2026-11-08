@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:12:01.146Z",
+ "exported": "2026-11-08T15:12:50.498Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5454,6 +5454,16 @@
    "events": [],
    "motherId": "pmw7yzkb7idazo5",
    "fatherId": "pmw7yzvlkskimzj"
+  },
+  {
+   "id": "pmw7z19fi8xflim",
+   "firstName": "Agnieszka",
+   "maidenName": "Koryga",
+   "gender": "K",
+   "deceased": false,
+   "notes": "irlandia/szwajcaria/islandia",
+   "events": [],
+   "motherId": "pmw7z079ir2ven8"
   }
  ],
  "unions": [
