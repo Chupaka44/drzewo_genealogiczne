@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T01:32:33.071Z",
+ "exported": "2026-11-08T01:32:43.263Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3394,8 +3394,7 @@
    "firstName": "Marcin",
    "lastName": "Setlak",
    "gender": "M",
-   "birthDate": "1845",
-   "deceased": true,
+   "deceased": false,
    "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002",
    "events": [],
    "fatherId": "pmw75ob3ehd43gn",
@@ -3407,8 +3406,7 @@
    "lastName": "Setlak",
    "maidenName": "Knapik",
    "gender": "K",
-   "birthDate": "1855",
-   "deceased": true,
+   "deceased": false,
    "events": [],
    "motherId": "pmw2q1hkjkils0m"
   },
