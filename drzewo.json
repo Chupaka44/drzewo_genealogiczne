@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:09:57.181Z",
+ "exported": "2026-11-08T15:10:36.052Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5404,6 +5404,16 @@
    "events": [],
    "fatherId": "pmw7yuie1q9obqi",
    "motherId": "pmw7yuzs3s76fd1"
+  },
+  {
+   "id": "pmw7yy0u6ikz6og",
+   "firstName": "Edward",
+   "lastName": "Średzki",
+   "gender": "M",
+   "birthDate": "01 11 1917",
+   "deceased": true,
+   "deathDate": "24 12 1987",
+   "events": []
   }
  ],
  "unions": [
@@ -6467,6 +6477,12 @@
    "id": "umw7yvbkzdqj4h3",
    "a": "pmw7yuie1q9obqi",
    "b": "pmw7yuzs3s76fd1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7yyouix642tn",
+   "a": "pmw7yvw4dw88lwf",
+   "b": "pmw7yy0u6ikz6og",
    "status": "malzenstwo"
   }
  ]
