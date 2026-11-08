@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:26:09.094Z",
+ "exported": "2026-11-08T12:52:10.478Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5024,6 +5024,15 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7u0giudci6i9",
+   "firstName": "Zbigniew",
+   "lastName": "Sowiński",
+   "gender": "M",
+   "deceased": false,
+   "notes": "USA",
+   "events": []
   }
  ],
  "unions": [
@@ -5991,6 +6000,12 @@
    "id": "umw7sth3tf9rhlk",
    "a": "pmw2r660zgx4a0i",
    "b": "pmw7st55hf3uj0f",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7u0o86e250fj",
+   "a": "pmvy2os3jryq9lm",
+   "b": "pmw7u0giudci6i9",
    "status": "malzenstwo"
   }
  ]
