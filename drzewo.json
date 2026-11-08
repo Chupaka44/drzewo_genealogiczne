@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:02:22.374Z",
+ "exported": "2026-11-08T13:15:23.881Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5033,6 +5033,17 @@
    "deceased": false,
    "notes": "USA",
    "events": []
+  },
+  {
+   "id": "pmw7uuc0x3pmsb2",
+   "firstName": "Maria",
+   "lastName": "Setlak",
+   "gender": "K",
+   "deceased": false,
+   "notes": "Sanok",
+   "events": [],
+   "motherId": "pmvy37igob3hqb4",
+   "fatherId": "pmvy2s9z9cozikh"
   }
  ],
  "unions": [
