@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:18:35.043Z",
+ "exported": "2026-11-08T12:21:02.121Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3598,6 +3598,7 @@
    "deceased": true,
    "deathDate": "1991",
    "burialPlace": "Wójtowa",
+   "deathCause": "Zawał",
    "events": []
   },
   {
