@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:11:28.402Z",
+ "exported": "2026-11-08T15:11:38.237Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5425,6 +5425,14 @@
    "events": [],
    "motherId": "pmw7yuzs3s76fd1",
    "fatherId": "pmw7yuie1q9obqi"
+  },
+  {
+   "id": "pmw7yzvlkskimzj",
+   "firstName": "Jan",
+   "lastName": "Włodek",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -6494,6 +6502,12 @@
    "id": "umw7yyouix642tn",
    "a": "pmw7yvw4dw88lwf",
    "b": "pmw7yy0u6ikz6og",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7z00trf31p1o",
+   "a": "pmw7yzkb7idazo5",
+   "b": "pmw7yzvlkskimzj",
    "status": "malzenstwo"
   }
  ]
