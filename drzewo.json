@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:15:54.420Z",
+ "exported": "2026-11-08T11:19:34.817Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4743,7 +4743,8 @@
    "gender": "M",
    "birthDate": "12 01 1968",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmw7qpewzf2yc5g"
   },
   {
    "id": "pmw7qkmjuv4h6tf",
@@ -4752,6 +4753,14 @@
    "maidenName": "Wąsacz",
    "gender": "K",
    "birthDate": "09 01 1971",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmw7qpewzf2yc5g",
+   "firstName": "Józef",
+   "lastName": "Cieśla",
+   "gender": "M",
    "deceased": false,
    "events": []
   }
