@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T18:30:25.729Z",
+ "exported": "2026-11-08T18:44:31.360Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5316,15 +5316,6 @@
    "motherId": "pmw7xcwf3togh46"
   },
   {
-   "id": "pmw7wswo14fmiht",
-   "firstName": "Marianna",
-   "lastName": "Pabis",
-   "maidenName": "Wantuch",
-   "gender": "K",
-   "deceased": false,
-   "events": []
-  },
-  {
    "id": "pmw7xag8z4f4u7g",
    "firstName": "Marianna",
    "lastName": "Pabis",
@@ -6564,12 +6555,6 @@
    "id": "umw7wn3dephef87",
    "a": "pmw7wmmfplxmi5l",
    "b": "pmw7wmt8tfn83mq",
-   "status": "malzenstwo"
-  },
-  {
-   "id": "umw7wt8tewz0eey",
-   "a": "pmvy4p5sicewfar",
-   "b": "pmw7wswo14fmiht",
    "status": "malzenstwo"
   },
   {
