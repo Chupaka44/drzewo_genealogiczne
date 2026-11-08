@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:27:02.131Z",
+ "exported": "2026-11-08T11:27:10.386Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4905,6 +4905,14 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7qz8h8jlryci",
+   "firstName": "Janusz",
+   "lastName": "Firszt",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -5830,6 +5838,12 @@
    "id": "umw7qz6ljlvnnjl",
    "a": "pmw7qyargejylqs",
    "b": "pmw7qz27w67zedx",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7qzcytx3hbso",
+   "a": "pmw7qxc495fdd3g",
+   "b": "pmw7qz8h8jlryci",
    "status": "malzenstwo"
   }
  ]
