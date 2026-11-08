@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:07:58.905Z",
+ "exported": "2026-11-08T15:08:10.021Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5386,7 +5386,9 @@
    "firstName": "Kunegunda",
    "lastName": "Ćwiklik",
    "gender": "K",
-   "deceased": false,
+   "birthDate": "1902",
+   "deceased": true,
+   "deathDate": "1967",
    "events": []
   }
  ],
