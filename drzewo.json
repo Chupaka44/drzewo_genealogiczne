@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:46:43.157Z",
+ "exported": "2026-11-08T13:46:55.007Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5184,6 +5184,7 @@
    "firstName": "Jakub",
    "lastName": "Bielamowicz",
    "gender": "M",
+   "birthDate": "22 11 2002",
    "deceased": false,
    "events": [],
    "fatherId": "pmw7vy2rhhtnt1e",
