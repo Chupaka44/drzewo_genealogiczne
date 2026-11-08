@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:43:58.193Z",
+ "exported": "2026-11-08T13:44:18.934Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5115,6 +5115,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7vvmtamx70g4",
+   "firstName": "Władysława",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmw7vq12rg6a0d7",
+   "motherId": "pmw7vqc6zow827l"
   }
  ],
  "unions": [
