@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T22:35:49.497Z",
+ "exported": "2026-11-08T22:36:24.752Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -346,10 +346,12 @@
    "firstName": "Adam",
    "lastName": "Szary",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "13 03 1970",
+   "deceased": true,
+   "deathDate": "13 02 2015",
    "events": [],
-   "motherId": "pmvy2os3jryq9lm",
-   "fatherId": "pmw7u0giudci6i9"
+   "fatherId": "pmw7u0giudci6i9",
+   "motherId": "pmvy2os3jryq9lm"
   },
   {
    "id": "pmvy30a18cq6bdl",
