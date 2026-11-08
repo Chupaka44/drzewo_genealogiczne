@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T15:15:09.848Z",
+ "exported": "2026-11-08T15:16:56.140Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1512,7 +1512,8 @@
    "maidenName": "Przybyłowicz",
    "gender": "K",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmw7z5cz3viedf7"
   },
   {
    "id": "pmvy4uk5gtwfs0m",
@@ -5467,6 +5468,18 @@
    "notes": "irlandia/szwajcaria/islandia",
    "events": [],
    "motherId": "pmw7z079ir2ven8"
+  },
+  {
+   "id": "pmw7z5cz3viedf7",
+   "firstName": "Karol",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "birthDate": "09 01 1904",
+   "deceased": true,
+   "deathDate": "09 12 1989",
+   "burialPlace": "Libusza",
+   "notes": "Jak wiało, na furmance wieźli tą trumnę, to nie było karwanów jeszcze takich ~ Babcia Marysia",
+   "events": []
   }
  ],
  "unions": [
