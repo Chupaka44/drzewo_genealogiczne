@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T18:28:09.142Z",
+ "exported": "2026-11-08T18:28:46.743Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3944,10 +3944,10 @@
    "lastName": "Setlak",
    "maidenName": "Pawluś",
    "gender": "K",
-   "birthDate": "1914",
+   "birthDate": "23 03 1914",
    "birthPlace": "Sławęcin",
    "deceased": true,
-   "deathDate": "2000",
+   "deathDate": "20 01 2000",
    "deathPlace": "Korczyna",
    "burialPlace": "Wójtowa",
    "notes": "27 01 1940 ślub w Sławęcinie",
