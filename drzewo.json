@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:21:27.862Z",
+ "exported": "2026-11-08T13:25:19.144Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3076,6 +3076,7 @@
   {
    "id": "pmvy87ivb6d2pai",
    "firstName": "Monika",
+   "lastName": "Budziszak",
    "maidenName": "Tylutki",
    "gender": "K",
    "deceased": false,
