@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:57:14.114Z",
+ "exported": "2026-11-08T13:57:29.328Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5261,9 +5261,10 @@
    "lastName": "Nalepa",
    "gender": "M",
    "deceased": false,
+   "notes": "przybrany (Matylda jest macochą)",
    "events": [],
-   "motherId": "pmw7wafhw4barb8",
-   "fatherId": "pmw7wayhkvdk5c7"
+   "fatherId": "pmw7wayhkvdk5c7",
+   "motherId": "pmw7wafhw4barb8"
   }
  ],
  "unions": [
