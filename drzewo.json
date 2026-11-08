@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:15:37.013Z",
+ "exported": "2026-11-08T11:15:54.420Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -269,7 +269,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmw7qilwhwcycxd"
+   "fatherId": "pmw7qilwhwcycxd",
+   "motherId": "pmw7qkmjuv4h6tf"
   },
   {
    "id": "pmvy2uzn16ho0rt",
@@ -4743,6 +4744,16 @@
    "birthDate": "12 01 1968",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7qkmjuv4h6tf",
+   "firstName": "Jadwiga",
+   "lastName": "Cieśla",
+   "maidenName": "Wąsacz",
+   "gender": "K",
+   "birthDate": "09 01 1971",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -5638,6 +5649,12 @@
    "id": "umw75oz8syoscz5",
    "a": "pmw75ob3ehd43gn",
    "b": "pmw75ok7tznzsyj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7qkvdr9hh1eo",
+   "a": "pmw7qilwhwcycxd",
+   "b": "pmw7qkmjuv4h6tf",
    "status": "malzenstwo"
   }
  ]
