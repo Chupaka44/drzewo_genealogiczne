@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:18:17.732Z",
+ "exported": "2026-11-08T12:18:35.043Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5012,6 +5012,13 @@
    "events": [],
    "fatherId": "pmw7rm7nnys160x",
    "motherId": "pmw7rms21337kwi"
+  },
+  {
+   "id": "pmw7st55hf3uj0f",
+   "lastName": "Ślawski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -5973,6 +5980,12 @@
    "id": "umw7rmuc94jxk89",
    "a": "pmw7rm7nnys160x",
    "b": "pmw7rms21337kwi",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7sth3tf9rhlk",
+   "a": "pmw2r660zgx4a0i",
+   "b": "pmw7st55hf3uj0f",
    "status": "malzenstwo"
   }
  ]
