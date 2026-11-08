@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:25:25.970Z",
+ "exported": "2026-11-08T13:25:30.742Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5052,6 +5052,15 @@
   {
    "id": "pmw7v7c5b8b47ck",
    "firstName": "Oliwia",
+   "lastName": "Budziszak",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy87ivb6d2pai"
+  },
+  {
+   "id": "pmw7v7h6rsx9krb",
+   "firstName": "Nikola",
    "lastName": "Budziszak",
    "gender": "K",
    "deceased": false,
