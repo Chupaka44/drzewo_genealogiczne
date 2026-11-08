@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T11:22:12.241Z",
+ "exported": "2026-11-08T11:22:21.923Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4818,6 +4818,16 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmw7qt1wo90g17z",
+   "firstName": "Zofia",
+   "lastName": "Wąsacz",
+   "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmw7qsr108pg4tc",
+   "motherId": "pmw7qsk5co7777n"
   }
  ],
  "unions": [
