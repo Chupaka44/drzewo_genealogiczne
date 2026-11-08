@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T14:24:03.565Z",
+ "exported": "2026-11-08T14:25:37.807Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5300,7 +5300,8 @@
    "lastName": "Pabis",
    "gender": "M",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmw7xcp513u9z9x"
   },
   {
    "id": "pmw7wswo14fmiht",
@@ -5317,6 +5318,14 @@
    "lastName": "Pabis",
    "maidenName": "Wantuch",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw7xcp513u9z9x",
+   "firstName": "Józef",
+   "lastName": "Pabis",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
