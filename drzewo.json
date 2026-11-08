@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:55:52.014Z",
+ "exported": "2026-11-08T13:56:16.979Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5236,6 +5236,14 @@
    "events": [],
    "motherId": "pmw7w9ypadft0q4",
    "fatherId": "pmw7wabkqglg2ql"
+  },
+  {
+   "id": "pmw7wayhkvdk5c7",
+   "lastName": "Nalepa",
+   "gender": "N",
+   "deceased": false,
+   "notes": "z Krygu",
+   "events": []
   }
  ],
  "unions": [
@@ -6251,6 +6259,12 @@
    "id": "umw7wae5h93t8z0",
    "a": "pmw7w9ypadft0q4",
    "b": "pmw7wabkqglg2ql",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7wb478772yvc",
+   "a": "pmw7wafhw4barb8",
+   "b": "pmw7wayhkvdk5c7",
    "status": "malzenstwo"
   }
  ]
