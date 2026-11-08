@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T22:40:03.171Z",
+ "exported": "2026-11-08T22:41:52.906Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -977,7 +977,9 @@
    "firstName": "Franciszek",
    "lastName": "Pater",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "26 09 1934",
+   "deceased": true,
+   "deathDate": "13 11 2020",
    "events": [],
    "fatherId": "pmvy448ggl4ju71",
    "motherId": "pmvy44cie6wssu3"
