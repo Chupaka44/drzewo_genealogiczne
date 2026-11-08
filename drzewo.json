@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T13:35:03.216Z",
+ "exported": "2026-11-08T13:35:06.960Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -127,7 +127,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7vjpahf78aau"
+   "motherId": "pmw7vjpahf78aau",
+   "fatherId": "pmw7vjup0e6y0hk"
   },
   {
    "id": "pmvy2qkmd0ddkik",
@@ -5090,6 +5091,13 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmw7vjup0e6y0hk",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -6075,6 +6083,12 @@
    "id": "umw7v8a63fr4ygo",
    "a": "pmvy8aimtupm850",
    "b": "pmw7v88y1cpgmed",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw7vjx7qyu5a60",
+   "a": "pmw7vjup0e6y0hk",
+   "b": "pmw7vjpahf78aau",
    "status": "malzenstwo"
   }
  ]
