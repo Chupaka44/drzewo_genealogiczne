@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T12:52:58.334Z",
+ "exported": "2026-11-08T12:53:13.823Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5031,8 +5031,7 @@
    "gender": "M",
    "deceased": false,
    "notes": "USA",
-   "events": [],
-   "fatherId": "pmvy300jl0imktn"
+   "events": []
   }
  ],
  "unions": [
