@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-09T12:20:23.631Z",
+ "exported": "2026-11-09T15:06:31.828Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3401,14 +3401,6 @@
    "events": []
   },
   {
-   "id": "pmw2q057fmuniw0",
-   "firstName": "Anna",
-   "lastName": "Świątkowska",
-   "gender": "K",
-   "deceased": false,
-   "events": []
-  },
-  {
    "id": "pmw2q0fyat58ndy",
    "firstName": "Anna",
    "lastName": "Świątkowska",
@@ -6568,12 +6560,6 @@
    "id": "umvyal8opftvnhz",
    "a": "pmvy3bs2mb1w04m",
    "b": "pmvyal0s1q5wicj",
-   "status": "malzenstwo"
-  },
-  {
-   "id": "umw2q0d98lv8b82",
-   "a": "pmvy4g1jmh3rc4k",
-   "b": "pmw2q057fmuniw0",
    "status": "malzenstwo"
   },
   {
