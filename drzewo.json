@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-08T23:33:18.061Z",
+ "exported": "2026-11-09T11:35:19.502Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -87,7 +87,7 @@
    "lastName": "Setlak",
    "maidenName": "Szara",
    "gender": "K",
-   "birthDate": "16 04 1951",
+   "birthDate": "1952",
    "deceased": true,
    "deathDate": "13 03 2016",
    "deathPlace": "Gorlice",
@@ -101,7 +101,7 @@
    "firstName": "Maria",
    "lastName": "Mazurek",
    "maidenName": "Przybyłowicz",
-   "gender": "K",
+   "gender": "M",
    "birthDate": "11 01 1951",
    "deceased": false,
    "events": [],
@@ -112,7 +112,7 @@
    "id": "pmvy2pqpq1mh3bm",
    "firstName": "Jan",
    "lastName": "Mazurek",
-   "gender": "M",
+   "gender": "K",
    "birthDate": "14 08 1945",
    "deceased": true,
    "deathDate": "5 12 2023",
@@ -127,8 +127,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7vjpahf78aau",
-   "fatherId": "pmw7vjup0e6y0hk"
+   "fatherId": "pmw7vjup0e6y0hk",
+   "motherId": "pmw7vjpahf78aau"
   },
   {
    "id": "pmvy2qkmd0ddkik",
@@ -346,9 +346,7 @@
    "firstName": "Adam",
    "lastName": "Szary",
    "gender": "M",
-   "birthDate": "13 03 1970",
-   "deceased": true,
-   "deathDate": "13 02 2015",
+   "deceased": false,
    "events": [],
    "fatherId": "pmw7u0giudci6i9",
    "motherId": "pmvy2os3jryq9lm"
@@ -401,9 +399,8 @@
    "firstName": "Kazimierz",
    "lastName": "Przybyłowicz",
    "gender": "M",
-   "birthDate": "11 01 1950",
+   "birthDate": "12 01 1950",
    "deceased": true,
-   "deathDate": "27 02 1991",
    "events": [],
    "fatherId": "pmvy2rlim4florh",
    "motherId": "pmvy2ru5xzqdxb6"
@@ -601,9 +598,7 @@
    "firstName": "Tadeusz",
    "lastName": "Szary",
    "gender": "M",
-   "birthDate": "16 04 1927",
-   "deceased": true,
-   "deathDate": "21 07 1992",
+   "deceased": false,
    "events": [],
    "fatherId": "pmvy2tc8vyn73nb",
    "motherId": "pmvy2w8j4rzt9yu"
@@ -979,9 +974,7 @@
    "firstName": "Franciszek",
    "lastName": "Pater",
    "gender": "M",
-   "birthDate": "26 09 1934",
-   "deceased": true,
-   "deathDate": "13 11 2020",
+   "deceased": false,
    "events": [],
    "fatherId": "pmvy448ggl4ju71",
    "motherId": "pmvy44cie6wssu3"
@@ -992,9 +985,7 @@
    "lastName": "Pater",
    "maidenName": "Synowiec",
    "gender": "K",
-   "birthDate": "29 04 1944",
-   "deceased": true,
-   "deathDate": "06 07 2023",
+   "deceased": false,
    "events": [],
    "fatherId": "pmvy44zwsqnzrbp",
    "motherId": "pmvy457x86n06sy"
@@ -1004,9 +995,7 @@
    "firstName": "Jan",
    "lastName": "Pater",
    "gender": "M",
-   "birthDate": "1903",
-   "deceased": true,
-   "deathDate": "26 12 1945",
+   "deceased": false,
    "events": []
   },
   {
@@ -1023,9 +1012,7 @@
    "firstName": "Władysław",
    "lastName": "Synowiec",
    "gender": "M",
-   "birthDate": "00 9 1907",
-   "deceased": true,
-   "deathDate": "00 5 1961",
+   "deceased": false,
    "events": []
   },
   {
@@ -1034,9 +1021,7 @@
    "lastName": "Synowiec",
    "maidenName": "Ligęza",
    "gender": "K",
-   "birthDate": "6 4 1911",
-   "deceased": true,
-   "deathDate": "28 3 1996",
+   "deceased": false,
    "events": []
   },
   {
@@ -1239,7 +1224,7 @@
    "deathDate": "11 12 1938",
    "burialPlace": "Wójtowa",
    "occupation": "kowal",
-   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=0&y=303&zoom=3.0300000000000002\n\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5802&se=&sy=5515&kt=1&plik=072.jpg&x=2246&y=423&zoom=1.4100000000000001\n\nhttps://www.statueofliberty.org/arrival-details/?id=JFYN-QM6",
+   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=0&y=303&zoom=3.0300000000000002\n\nhttps://www.statueofliberty.org/arrival-details/?id=JFYN-QM6",
    "events": [],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
@@ -1365,8 +1350,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4l0ws0wu2js",
-   "fatherId": "pmvy322u53bpbvq"
+   "fatherId": "pmvy322u53bpbvq",
+   "motherId": "pmvy4l0ws0wu2js"
   },
   {
    "id": "pmvy4nh5umz04md",
@@ -1473,8 +1458,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4pd2al13gto",
-   "fatherId": "pmvy4p5sicewfar"
+   "fatherId": "pmvy4p5sicewfar",
+   "motherId": "pmvy4pd2al13gto"
   },
   {
    "id": "pmvy4rq5awqgsm7",
@@ -1691,8 +1676,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4pyvwy7wstb",
-   "fatherId": "pmvy4pph6mzqirk"
+   "fatherId": "pmvy4pph6mzqirk",
+   "motherId": "pmvy4pyvwy7wstb"
   },
   {
    "id": "pmvy53bh3r5zqlv",
@@ -2571,8 +2556,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy6qh98uzy6ps",
-   "fatherId": "pmvy6vwtgqgojrz"
+   "fatherId": "pmvy6vwtgqgojrz",
+   "motherId": "pmvy6qh98uzy6ps"
   },
   {
    "id": "pmvy73fdauc50c3",
@@ -3170,8 +3155,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy8a6xl7d042p",
-   "fatherId": "pmvy8co0bzuv39e"
+   "fatherId": "pmvy8co0bzuv39e",
+   "motherId": "pmvy8a6xl7d042p"
   },
   {
    "id": "pmvy8d0itdahive",
@@ -3180,8 +3165,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy8a6xl7d042p",
-   "fatherId": "pmvy8co0bzuv39e"
+   "fatherId": "pmvy8co0bzuv39e",
+   "motherId": "pmvy8a6xl7d042p"
   },
   {
    "id": "pmvy8d7sjhcuhz7",
@@ -3238,8 +3223,8 @@
    "deceased": true,
    "notes": "10 msc jak zmarł",
    "events": [],
-   "motherId": "pmvy3153n6jn6vx",
-   "fatherId": "pmvy8dtrvhf54y2"
+   "fatherId": "pmvy8dtrvhf54y2",
+   "motherId": "pmvy3153n6jn6vx"
   },
   {
    "id": "pmvy8egnhjdzyjt",
@@ -3267,8 +3252,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy3153n6jn6vx",
-   "fatherId": "pmvy8dtrvhf54y2"
+   "fatherId": "pmvy8dtrvhf54y2",
+   "motherId": "pmvy3153n6jn6vx"
   },
   {
    "id": "pmvy8fkv11piau0",
@@ -3287,8 +3272,8 @@
    "deceased": false,
    "notes": "kawaler",
    "events": [],
-   "motherId": "pmvy8fkv11piau0",
-   "fatherId": "pmvy8fb832s5aq2"
+   "fatherId": "pmvy8fb832s5aq2",
+   "motherId": "pmvy8fkv11piau0"
   },
   {
    "id": "pmvy8gk6p632iic",
@@ -3416,6 +3401,14 @@
    "events": []
   },
   {
+   "id": "pmw2q057fmuniw0",
+   "firstName": "Anna",
+   "lastName": "Świątkowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
    "id": "pmw2q0fyat58ndy",
    "firstName": "Anna",
    "lastName": "Świątkowska",
@@ -3430,9 +3423,11 @@
    "firstName": "Marcin",
    "lastName": "Setlak",
    "gender": "M",
-   "birthDate": "1845",
+   "birthDate": "02 11 1845",
+   "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002",
+   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002\n\nChrzest: Dzielec nr 21 (dom dziadka Kazimierza Rydarowicza), 2.11.1845. Chrzestna m.in. Katarzyna, żona Pawła Setlaka.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1845",
    "events": [],
    "fatherId": "pmw75ob3ehd43gn",
    "motherId": "pmw75ok7tznzsyj"
@@ -3629,7 +3624,7 @@
    "gender": "M",
    "birthDate": "9 11 1936",
    "deceased": true,
-   "deathDate": "21 11 1992",
+   "deathDate": "1991",
    "burialPlace": "Wójtowa",
    "deathCause": "Zawał",
    "events": []
@@ -3750,8 +3745,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2qlx23egd7rs",
-   "fatherId": "pmw2r9u2r47xkq2"
+   "fatherId": "pmw2r9u2r47xkq2",
+   "motherId": "pmw2qlx23egd7rs"
   },
   {
    "id": "pmw2ra1zfx8693y",
@@ -3759,8 +3754,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2qlx23egd7rs",
-   "fatherId": "pmw2r9u2r47xkq2"
+   "fatherId": "pmw2r9u2r47xkq2",
+   "motherId": "pmw2qlx23egd7rs"
   },
   {
    "id": "pmw2ra3okyew4jc",
@@ -3768,8 +3763,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2qlx23egd7rs",
-   "fatherId": "pmw2r9u2r47xkq2"
+   "fatherId": "pmw2r9u2r47xkq2",
+   "motherId": "pmw2qlx23egd7rs"
   },
   {
    "id": "pmw2rakwbwwkknj",
@@ -3781,8 +3776,8 @@
    "deceased": true,
    "deathDate": "2018",
    "events": [],
-   "motherId": "pmw2q29cq0ompps",
-   "fatherId": "pmw2ql3d7008gs4"
+   "fatherId": "pmw2ql3d7008gs4",
+   "motherId": "pmw2q29cq0ompps"
   },
   {
    "id": "pmw2rb72k153zf4",
@@ -3826,8 +3821,8 @@
    "deceased": true,
    "deathDate": "2011",
    "events": [],
-   "motherId": "pmw2q2ot6suzk24",
-   "fatherId": "pmw2rcr90a2fdhl"
+   "fatherId": "pmw2rcr90a2fdhl",
+   "motherId": "pmw2q2ot6suzk24"
   },
   {
    "id": "pmw2re4vmfkb1c8",
@@ -3839,8 +3834,8 @@
    "deceased": true,
    "deathDate": "2011",
    "events": [],
-   "motherId": "pmw2q2ot6suzk24",
-   "fatherId": "pmw2rcr90a2fdhl"
+   "fatherId": "pmw2rcr90a2fdhl",
+   "motherId": "pmw2q2ot6suzk24"
   },
   {
    "id": "pmw2renfvmok3bz",
@@ -3915,8 +3910,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2rio2si6fzux",
@@ -3924,8 +3919,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2riq37hv2b7v",
@@ -3933,8 +3928,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2ris5vsakhzz",
@@ -3942,8 +3937,8 @@
    "gender": "N",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2q4x8a9uxpcs",
-   "fatherId": "pmw2ri8r8cxmtzm"
+   "fatherId": "pmw2ri8r8cxmtzm",
+   "motherId": "pmw2q4x8a9uxpcs"
   },
   {
    "id": "pmw2rj1q4gn0cid",
@@ -3997,8 +3992,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2rk7k4waxfcu",
-   "fatherId": "pmw2rli5wf46iph"
+   "fatherId": "pmw2rli5wf46iph",
+   "motherId": "pmw2rk7k4waxfcu"
   },
   {
    "id": "pmw2rmnhgpd7g71",
@@ -4007,8 +4002,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2rk7k4waxfcu",
-   "fatherId": "pmw2rli5wf46iph"
+   "fatherId": "pmw2rli5wf46iph",
+   "motherId": "pmw2rk7k4waxfcu"
   },
   {
    "id": "pmw2rnyp9y0mius",
@@ -4142,8 +4137,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2ru8czimxenu",
-   "fatherId": "pmw2rto3vh29nr2"
+   "fatherId": "pmw2rto3vh29nr2",
+   "motherId": "pmw2ru8czimxenu"
   },
   {
    "id": "pmw2rx7a4yckp91",
@@ -4201,8 +4196,8 @@
    "birthDate": "1932",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2sl2i5j1q7f8",
-   "fatherId": "pmw2sktrgub42i2"
+   "fatherId": "pmw2sktrgub42i2",
+   "motherId": "pmw2sl2i5j1q7f8"
   },
   {
    "id": "pmw2sm1ctftipjb",
@@ -4337,8 +4332,8 @@
    "burialPlace": "Kraków",
    "notes": "Ślub 26 11 1867",
    "events": [],
-   "motherId": "pmw2tjzt1yaigow",
-   "fatherId": "pmw2tksnipnltux"
+   "fatherId": "pmw2tksnipnltux",
+   "motherId": "pmw2tjzt1yaigow"
   },
   {
    "id": "pmw2tixzp10oo88",
@@ -4520,8 +4515,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "motherId": "pmw2twwhq4ebn27",
-   "fatherId": "pmw2txb7hhv7nmj"
+   "fatherId": "pmw2txb7hhv7nmj",
+   "motherId": "pmw2twwhq4ebn27"
   },
   {
    "id": "pmw2tygri1t32kt",
@@ -4759,8 +4754,22 @@
    "firstName": "Maciej",
    "lastName": "Setlak",
    "gender": "M",
+   "birthDate": "1821",
+   "birthPlace": "Dzielec",
    "deceased": true,
-   "events": []
+   "occupation": "rolnik (agricola), chłop pańszczyźniany",
+   "residence": "Dzielec nr 21 (gospodarstwo teścia)",
+   "notes": "Ur. 8/9 stycznia 1821, Dzielec nr 18. W akcie ślubu 1844: lat 23, kawaler, rodzice Szczepan i Petronela z Byrków już nie żyli. Świadek na ślubie: brat Grzegorz Setlak.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1821, 1845, 1851, 1856\nCieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "events": [
+    {
+     "date": "11 1844",
+     "title": "Ślub z Katarzyną Rydarowicz (zgoda dworu Cieklin 9.11.1844, nr 207)",
+     "place": "Dzielec, par. Cieklin"
+    }
+   ],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
   },
   {
    "id": "pmw75ok7tznzsyj",
@@ -4768,9 +4777,15 @@
    "lastName": "Setlak",
    "maidenName": "Rydarowicz",
    "gender": "K",
+   "birthDate": "1824",
+   "birthPlace": "Dzielec",
    "deceased": true,
+   "residence": "Dzielec nr 21",
+   "notes": "Rok urodzenia przybliżony: w akcie ślubu XI 1844 ma 20 lat. Rodzice wyrazili pisemną zgodę na ślub (podpisani krzyżykami).",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
    "events": [],
-   "fatherId": "pmw75p2htg6iv3h"
+   "fatherId": "pmw75p2htg6iv3h",
+   "motherId": "psu6kyc8megamoe"
   },
   {
    "id": "pmw75p2htg6iv3h",
@@ -4778,6 +4793,10 @@
    "lastName": "Rydarowicz",
    "gender": "M",
    "deceased": true,
+   "occupation": "rolnik (agricola)",
+   "residence": "Dzielec nr 21",
+   "notes": "Żył w XI 1844 (zgoda na ślub córki). Żonaty z Gertrudą Wyżkiewicz już w 1819.",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
    "events": []
   },
   {
@@ -4811,8 +4830,8 @@
    "deceased": true,
    "deathDate": "16 10 2016",
    "events": [],
-   "motherId": "pmw7raiica7dx16",
-   "fatherId": "pmw7rapfjj2z4hm"
+   "fatherId": "pmw7rapfjj2z4hm",
+   "motherId": "pmw7raiica7dx16"
   },
   {
    "id": "pmw7qqny94hdjd0",
@@ -4831,8 +4850,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7qsk5co7777n",
-   "fatherId": "pmw7qsr108pg4tc"
+   "fatherId": "pmw7qsr108pg4tc",
+   "motherId": "pmw7qsk5co7777n"
   },
   {
    "id": "pmw7qr489bjtd81",
@@ -4906,8 +4925,8 @@
    "gender": "M",
    "deceased": true,
    "events": [],
-   "motherId": "pmw7qsk5co7777n",
-   "fatherId": "pmw7qsr108pg4tc"
+   "fatherId": "pmw7qsr108pg4tc",
+   "motherId": "pmw7qsk5co7777n"
   },
   {
    "id": "pmw7qvp8jdus25c",
@@ -5011,8 +5030,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2plun1rfc9uv",
-   "fatherId": "pmw7rl8il09m6ka"
+   "fatherId": "pmw7rl8il09m6ka",
+   "motherId": "pmw2plun1rfc9uv"
   },
   {
    "id": "pmw7rm7nnys160x",
@@ -5021,8 +5040,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw2plun1rfc9uv",
-   "fatherId": "pmw7rl8il09m6ka"
+   "fatherId": "pmw7rl8il09m6ka",
+   "motherId": "pmw2plun1rfc9uv"
   },
   {
    "id": "pmw7rms21337kwi",
@@ -5076,8 +5095,8 @@
    "deceased": false,
    "notes": "Sanok",
    "events": [],
-   "motherId": "pmvy37igob3hqb4",
-   "fatherId": "pmvy2s9z9cozikh"
+   "fatherId": "pmvy2s9z9cozikh",
+   "motherId": "pmvy37igob3hqb4"
   },
   {
    "id": "pmw7v7c5b8b47ck",
@@ -5134,8 +5153,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7vjpahf78aau",
-   "fatherId": "pmw7vjup0e6y0hk"
+   "fatherId": "pmw7vjup0e6y0hk",
+   "motherId": "pmw7vjpahf78aau"
   },
   {
    "id": "pmw7vqc6zow827l",
@@ -5292,12 +5311,12 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7wafhw4barb8",
-   "fatherId": "pmw7wayhkvdk5c7"
+   "fatherId": "pmw7wayhkvdk5c7",
+   "motherId": "pmw7wafhw4barb8"
   },
   {
    "id": "pmw7wmmfplxmi5l",
-   "firstName": "Jakub",
+   "firstName": "Jakuba",
    "lastName": "Dyląg",
    "gender": "M",
    "deceased": false,
@@ -5426,8 +5445,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7yuzs3s76fd1",
-   "fatherId": "pmw7yuie1q9obqi"
+   "fatherId": "pmw7yuie1q9obqi",
+   "motherId": "pmw7yuzs3s76fd1"
   },
   {
    "id": "pmw7yzvlkskimzj",
@@ -5445,8 +5464,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7yzkb7idazo5",
-   "fatherId": "pmw7yzvlkskimzj"
+   "fatherId": "pmw7yzvlkskimzj",
+   "motherId": "pmw7yzkb7idazo5"
   },
   {
    "id": "pmw7z0fqpj9wl8x",
@@ -5455,8 +5474,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7yzkb7idazo5",
-   "fatherId": "pmw7yzvlkskimzj"
+   "fatherId": "pmw7yzvlkskimzj",
+   "motherId": "pmw7yzkb7idazo5"
   },
   {
    "id": "pmw7z19fi8xflim",
@@ -5535,6 +5554,149 @@
    "events": [],
    "fatherId": "pmw2rnyp9y0mius",
    "motherId": "pmw2rp390j7mr7h"
+  },
+  {
+   "id": "p2aevzu2ip3hf27",
+   "firstName": "Maciej",
+   "lastName": "Wyżkiewicz",
+   "gender": "M",
+   "birthPlace": "Dzielec (?)",
+   "deceased": true,
+   "notes": "Ojciec Gertrudy Rydarowiczowej (akty chrztu 1851 i 1856).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1851, 1856",
+   "events": []
+  },
+  {
+   "id": "psu6kyc8megamoe",
+   "firstName": "Gertruda",
+   "lastName": "Rydarowicz",
+   "maidenName": "Wyżkiewicz",
+   "gender": "K",
+   "deceased": true,
+   "residence": "Dzielec nr 21",
+   "notes": "Matka Katarzyny. Żyła w XI 1844 (zgoda na ślub córki). Nazwisko panieńskie z aktów chrztu wnuków 1851 i 1856 oraz aktu ślubu 1844.",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "events": [],
+   "fatherId": "p2aevzu2ip3hf27"
+  },
+  {
+   "id": "pymkdm359sd86l3",
+   "firstName": "Maciej",
+   "lastName": "Byrek",
+   "gender": "M",
+   "deceased": true,
+   "notes": "Ojciec Petroneli Setlakowej (akt chrztu Macieja Setlaka 1821).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1821",
+   "events": []
+  },
+  {
+   "id": "pbxr1kj6c5mxu2w",
+   "firstName": "Szczepan",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "1775",
+   "deceased": true,
+   "occupation": "rolnik (agricola)",
+   "residence": "Dzielec nr 16–18",
+   "notes": "Rok urodzenia szacunkowy (pierwsze dziecko ok. 1800). Zmarł przed XI 1844. Imię łac. Stephanus.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "events": []
+  },
+  {
+   "id": "pql3ip6508tgtis",
+   "firstName": "Petronela",
+   "lastName": "Setlak",
+   "maidenName": "Byrek",
+   "gender": "K",
+   "deceased": true,
+   "notes": "Zapis także Byrzek / Byrzkówna. Zmarła przed XI 1844.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "events": [],
+   "fatherId": "pymkdm359sd86l3"
+  },
+  {
+   "id": "pe5ucfvn2bfl21u",
+   "firstName": "Agnieszka",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "1800",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Chrzest ok. maja 1800 (lub 1799), Dzielec nr 16.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
+  },
+  {
+   "id": "pku8nnb0jokmvdd",
+   "firstName": "Jan",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "06 10 1802",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Chrzest Dzielec nr 16.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
+  },
+  {
+   "id": "pw2olx4jkon4kd7",
+   "firstName": "Grzegorz",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "1810",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Chrzest 1810, Dzielec nr 17. Świadek na ślubie brata Macieja w 1844. Prawdopodobnie ten sam Grzegorz, mąż Łucji Szudy (dom nr 20, dzieci 1834–1858) – niepotwierdzone.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
+  },
+  {
+   "id": "prjjiw2dl66ul0b",
+   "firstName": "Stanisław",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "1829",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Chrzest 7/8 maja 1829, Dzielec nr 18.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
+  },
+  {
+   "id": "p2hzn996ts6h9dk",
+   "firstName": "Franciszka",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "07 04 1851",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Chrzest 7.04.1851, Dzielec nr 21. Chrzestni: Jakub Setlak, Katarzyna żona Macieja Byrka.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
+   "events": [],
+   "fatherId": "pmw75ob3ehd43gn",
+   "motherId": "pmw75ok7tznzsyj"
+  },
+  {
+   "id": "pjl3zlnic40nfbf",
+   "firstName": "Jan",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "13 06 1856",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. 13, chrzest 16.06.1856, Dzielec nr 21. Chrzestna: Katarzyna żona Pawła Setlaka.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
+   "events": [],
+   "fatherId": "pmw75ob3ehd43gn",
+   "motherId": "pmw75ok7tznzsyj"
   }
  ],
  "unions": [
@@ -6181,6 +6343,12 @@
    "status": "malzenstwo"
   },
   {
+   "id": "umw2q0d98lv8b82",
+   "a": "pmvy4g1jmh3rc4k",
+   "b": "pmw2q057fmuniw0",
+   "status": "malzenstwo"
+  },
+  {
    "id": "umw2q0lwt8l7umz",
    "a": "pmw2pzrn7dq7we3",
    "b": "pmw2q0fyat58ndy",
@@ -6610,6 +6778,18 @@
    "id": "umw7zbeyddbu2h5",
    "a": "pmw7zaeyoi1r9t8",
    "b": "pmw7zb3hgnxsnra",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "urcsxy2kwwf0qbh",
+   "a": "pmw75p2htg6iv3h",
+   "b": "psu6kyc8megamoe",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "uuq58x7ivre6ncz",
+   "a": "pbxr1kj6c5mxu2w",
+   "b": "pql3ip6508tgtis",
    "status": "malzenstwo"
   }
  ]
