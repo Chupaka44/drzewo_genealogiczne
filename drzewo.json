@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-09T15:06:31.828Z",
+ "exported": "2026-11-09T15:19:31.067Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1224,8 +1224,15 @@
    "deathDate": "11 12 1938",
    "burialPlace": "Wójtowa",
    "occupation": "kowal",
-   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=0&y=303&zoom=3.0300000000000002\n\nhttps://www.statueofliberty.org/arrival-details/?id=JFYN-QM6",
-   "events": [],
+   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=0&y=303&zoom=3.0300000000000002\n\nhttps://www.statueofliberty.org/arrival-details/?id=JFYN-QM6\n\nZapowiedzi 1902 nr 2: Józef Setlak, dom 19, syn ŚP. Marcina i Maryi Knapik, ur. 10.02.1877 Pagórek, młodzian. Narzeczona: Agnieszka Świątek, dom 27, c. Marcina i Anny Świątkowskiej, ur. 22.10.1876 Pagórek, panna. Ślub zawarty 22.01.1902. Świadkowie (odczyt niepewny): Jerzy Nero (?), Józef Jaryczka (?).",
+   "sources": "Cieklin, Księga zapowiedzi (skanoteka 7000), 1902 nr 2",
+   "events": [
+    {
+     "date": "22 01 1902",
+     "title": "Ślub z Agnieszką Świątek (Świątkowską)",
+     "place": "Cieklin"
+    }
+   ],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
   },
@@ -1240,6 +1247,8 @@
    "deceased": true,
    "deathDate": "3 05 1961",
    "burialPlace": "Korczyna",
+   "notes": "W zapowiedziach 1902 zapisana jako „Agnieszka Świątek”, córka Marcina i Anny Świątkowskiej, dom 27 w Pagórku.",
+   "sources": "Cieklin, Księga zapowiedzi (skanoteka 7000), 1902 nr 2",
    "events": [],
    "fatherId": "pmw2pzrn7dq7we3",
    "motherId": "pmw2q0fyat58ndy"
@@ -3397,6 +3406,14 @@
    "firstName": "Marcin",
    "lastName": "Świątkowski",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmw2q057fmuniw0",
+   "firstName": "Anna",
+   "lastName": "Świątkowska",
+   "gender": "K",
    "deceased": false,
    "events": []
   },
@@ -3405,7 +3422,7 @@
    "firstName": "Anna",
    "lastName": "Świątkowska",
    "gender": "K",
-   "deceased": false,
+   "deceased": true,
    "events": [],
    "fatherId": "pmw2qu9ak9exazp",
    "motherId": "pmw2quhma9ir0p4"
@@ -3418,8 +3435,8 @@
    "birthDate": "02 11 1845",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002\n\nChrzest: Dzielec nr 21 (dom dziadka Kazimierza Rydarowicza), 2.11.1845. Chrzestna m.in. Katarzyna, żona Pawła Setlaka.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1845",
+   "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002\n\nChrzest: Dzielec nr 21 (dom dziadka Kazimierza Rydarowicza), 2.11.1845. Chrzestna m.in. Katarzyna, żona Pawła Setlaka.\n\nChrzestny w Dzielcu: 1878 (Wiktoria Putlak, dom 13), 1.03.1882 (Grzegorz, syn Jana Setlaka i Zofii Pyznar), 12.02.1888 (Maciej, syn brata Jana). Żona Marianna chrzestną w 1878 (Zofia, dom 24) – zapis „Marianna Setlak – Martini”.\n\nZMARŁ PRAWDOPODOBNIE MIĘDZY STYCZNIEM 1901 A STYCZNIEM 1902: w zapowiedziach córki Maryi (I 1901) zapisany bez „śp.”, w zapowiedziach syna Józefa (I 1902) jako „śp. Marcin”. Wdowa Marya (Marianna) Knapik żyła w I 1902.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1845\nCieklin, księga 3570 U-1876-1925-Dzielec, 1878–1888",
    "events": [],
    "fatherId": "pmw75ob3ehd43gn",
    "motherId": "pmw75ok7tznzsyj"
@@ -4723,8 +4740,15 @@
    "birthDate": "27 04 1880",
    "birthPlace": "Pagórek",
    "deceased": true,
-   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=006.jpg&zoom=3.0300000000000002",
-   "events": [],
+   "notes": "Zapowiedzi 1901 nr 25: Marya Setlak, dom 10 w Pagórku, c. Marcina i Maryi Knapik, ur. 27.04.1880, panna. Ślub zawarty 12/13.01.1901 z Jakubem Mazurem.",
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=006.jpg&zoom=3.0300000000000002\nCieklin, Księga zapowiedzi (skanoteka 7000), 1901 nr 25",
+   "events": [
+    {
+     "date": "01 1901",
+     "title": "Ślub z Jakubem Mazurem (ur. 19.04.1874 Pagórek, s. Marcina i Maryi Rybak)",
+     "place": "Cieklin"
+    }
+   ],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
   },
@@ -4736,8 +4760,15 @@
    "birthDate": "29 06 1878",
    "birthPlace": "Pagórek",
    "deceased": true,
+   "notes": "Manifest 1902 (SS Pretoria, lista 126, poz. 20): Piotr Setlak, lat 23/24, kawaler, ostatnie miejsce zamieszkania: Pagórka, jedzie do wuja/stryja Stanisława Setlaka.",
    "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=882&y=1312&zoom=2.5300000000000002",
-   "events": [],
+   "events": [
+    {
+     "date": "04 1902",
+     "title": "Emigracja do USA: statek Pretoria, Hamburg 10.04.1902 → Nowy Jork; cel: DuBois, Pa. (odczyt prawdopodobny), do „uncle Stanisław Setlak”",
+     "place": "DuBois, Pensylwania (?)"
+    }
+   ],
    "fatherId": "pmw2q0zn8z158f3",
    "motherId": "pmw2q16o2globvi"
   },
@@ -4787,7 +4818,7 @@
    "deceased": true,
    "occupation": "rolnik (agricola)",
    "residence": "Dzielec nr 21",
-   "notes": "Żył w XI 1844 (zgoda na ślub córki). Żonaty z Gertrudą Wyżkiewicz już w 1819.",
+   "notes": "Żył w XI 1844 (zgoda na ślub córki). Żonaty z Gertrudą Wyżkiewicz już w 1819.\n\nW 1819 zapisany jako zagrodnik (hortulanus), a w styczniu 1821 jako „Advocatus” – czyli wójt Dzielca. W 1834 żona zapisana „Gertrudis Mathia Wyżkiewicz nata” (potwierdza ojca Gertrudy).",
    "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
    "events": []
   },
@@ -5593,7 +5624,7 @@
    "burialPlace": "Cieklin",
    "occupation": "zagrodnik (hortulanus)",
    "residence": "Dzielec nr 16–18",
-   "notes": "Imię łac. Stephanus. Zmarł 23.11.1831 w Dzielcu nr 18, w wieku 53 lat (ur. ok. 1778). Przyczyna: \"Epidemia\" (epidemia cholery 1831), opatrzony sakramentami. Pochowany w Cieklinie. Zmarł niecały miesiąc po żonie; osierocił m.in. 10-letniego Macieja i 2-letniego Stanisława.\n\nHIPOTEZA (niepotwierdzona): w akcie ślubu 1833 Paweł Setlak (ur. ok. 1788) podany jako syn Szczepana Setlaka i Reginy. Ten starszy Szczepan może być ojcem naszego Szczepana (Paweł = jego młodszy brat). Szczepan był świadkiem na ślubie Macieja Setlaka (ur. ok. 1797) z Marianną Dedo 20.11.1820.",
+   "notes": "Imię łac. Stephanus. Zmarł 23.11.1831 w Dzielcu nr 18, w wieku 53 lat (ur. ok. 1778). Przyczyna: \"Epidemia\" (epidemia cholery 1831), opatrzony sakramentami. Pochowany w Cieklinie. Zmarł niecały miesiąc po żonie; osierocił m.in. 10-letniego Macieja i 2-letniego Stanisława.\n\nHIPOTEZA (niepotwierdzona): w akcie ślubu 1833 Paweł Setlak (ur. ok. 1788) podany jako syn Szczepana Setlaka i Reginy. Ten starszy Szczepan może być ojcem naszego Szczepana (Paweł = jego młodszy brat). Szczepan był świadkiem na ślubie Macieja Setlaka (ur. ok. 1797) z Marianną Dedo 20.11.1820.\n\nChrzestny w Dzielcu: 12.12.1807 (Teresa Bania), 1817 (Małgorzata, córka Kaspra Rydarowicza).",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844\nCieklin, księga 5520 Z-1784-1886-Dzielec, 1831",
    "events": []
   },
@@ -5621,7 +5652,7 @@
    "birthDate": "1800",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Chrzest ok. maja 1800 (lub 1799), Dzielec nr 16.",
+   "notes": "Chrzest 24 maja (rok 1800 lub 1799 – nagłówek roku poza kadrem), Dzielec nr 16. Ojciec: Stephanus Setlak, matka: Petronella Byrzkówna. Chrzestni: Łukasz Bania i Salomea Biesiadka, rolnicy (rustici). Najstarsze znane dziecko Szczepana i Petroneli.",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
    "events": [],
    "fatherId": "pbxr1kj6c5mxu2w",
@@ -5717,11 +5748,11 @@
    "lastName": "Setlak",
    "maidenName": "Szudy",
    "gender": "K",
-   "birthDate": "1814",
+   "birthDate": "11 12 1816",
    "birthPlace": "Dzielec",
    "deceased": true,
    "residence": "Dzielec nr 20",
-   "notes": "Córka Macieja Szudego i Marii (nazwisko panieńskie matki niepewne: Łydek / Mleczkówna?). Wiek przy ślubie 1832 ok. 18 lat (odczyt niepewny).",
+   "notes": "Prawdopodobnie ur. 11.12.1816, chrzest 12.12.1816, Dzielec nr 20 (ten sam dom, w którym potem mieszkała z Grzegorzem); córka Macieja Szudego i Marii z d. Mleczko (Mleczkówna, odczyt prawdopodobny). Chrzestny: Paweł Setlak, komornik. Uwaga: w akcie ślubu 1832 wiek wpisany wyżej niż wynikałoby z tej daty.",
    "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1832; Cieklin, księga 3565 U-1784-1859-Dzielec",
    "events": []
   },
@@ -5747,7 +5778,7 @@
    "birthDate": "1841",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Wiek 32 przy ślubie 15.07.1873 (wdowiec) z Marią Wyżkiewicz, córką Jana i Małgorzaty Rydarowicz.",
+   "notes": "Wiek 32 przy ślubie 15.07.1873 (wdowiec) z Marią Wyżkiewicz, córką Jana i Małgorzaty Rydarowicz. Aktu chrztu jeszcze nie widziano – rok wyliczony z wieku przy ślubie.",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
@@ -5758,10 +5789,10 @@
    "firstName": "Marcin",
    "lastName": "Setlak",
    "gender": "M",
-   "birthDate": "18 10 1846",
+   "birthDate": "10 10 1846",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Ur. Dzielec nr 20; zmarł w dzieciństwie (krzyżyk w księdze). Nie mylić z Marcinem, synem Macieja.",
+   "notes": "Ur. 10.10.1846, chrzest 18.10.1846, Dzielec nr 20. Krzyżyk przy imieniu w księdze (prawdopodobnie zmarł w dzieciństwie – niepotwierdzone aktem zgonu). Nie mylić z Marcinem, synem Macieja.",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
@@ -5775,7 +5806,7 @@
    "birthDate": "12 10 1848",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Ur. Dzielec nr 20; zmarła w dzieciństwie (krzyżyk).",
+   "notes": "Ur. Dzielec nr 20; krzyżyk przy imieniu w księdze (prawdopodobnie zmarła w dzieciństwie – niepotwierdzone).",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
@@ -5817,7 +5848,7 @@
    "birthDate": "09 01 1856",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Ur. Dzielec nr 20; zmarł w dzieciństwie (krzyżyk).",
+   "notes": "Ur. Dzielec nr 20; krzyżyk przy imieniu w księdze (prawdopodobnie zmarł w dzieciństwie – niepotwierdzone).",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
@@ -5917,6 +5948,76 @@
    "events": [],
    "fatherId": "ptu5nd7no41i3ez",
    "motherId": "prswv3ky6bub5r8"
+  },
+  {
+   "id": "pgwp5iz0bn3n0wd",
+   "firstName": "Maciej",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "12 02 1888",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. 12.02.1888, chrzest 13.02.1888, Dzielec nr 15. Ojciec: Jan Setlak, syn Macieja; matka: Maria Adamik, córka Franciszka. Chrzestni: Marcin Setlak (stryj) i Zofia, żona Stanisława Setlaka.",
+   "sources": "Cieklin, księga 3570 U-1876-1925-Dzielec, s. 10, 1888 nr 3",
+   "events": [],
+   "fatherId": "pjl3zlnic40nfbf",
+   "motherId": "peamlymre1tpxnw"
+  },
+  {
+   "id": "pyio0yatm0nqtmd",
+   "firstName": "Maria",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "15 05 1859",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. i chrzest 15.05.1859, Dzielec nr 21. Chrzestni: Maciej Setlak, rolnik; Agata, żona Jana Wyżkiewicza. Akuszerka: Agata Rydarowicz.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec, s. 95 (ostatnia strona księgi)",
+   "events": [],
+   "fatherId": "pmw75ob3ehd43gn",
+   "motherId": "pmw75ok7tznzsyj"
+  },
+  {
+   "id": "ps0a57ckb646v41",
+   "firstName": "Maciej",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "16 02 1808",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Chrzest 16.02.1808, Dzielec nr 16. Chrzestni: Łukasz Bania, Urszula Rydarowiczowa. Krzyżyk przy imieniu – zmarł w dzieciństwie; dlatego brat ur. 1821 dostał to samo imię (po dziadku Macieju Byrku).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
+  },
+  {
+   "id": "pvjnqyry6tbpthx",
+   "firstName": "Kasper",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "31 12 1815",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Bliźniak (Gemelli) z Pawłem, ur. 31.12.1815, Dzielec nr 18. Chrzestni: Jan Więcek, Urszula Rydarowiczowa.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
+  },
+  {
+   "id": "pl8csjxpji03aie",
+   "firstName": "Paweł",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "31 12 1815",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Bliźniak (Gemelli) z Kasprem, ur. 31.12.1815, Dzielec nr 18. Chrzestni: Łukasz Bania, Justyna Stożkówna (?).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
   }
  ],
  "unions": [
@@ -6560,6 +6661,12 @@
    "id": "umvyal8opftvnhz",
    "a": "pmvy3bs2mb1w04m",
    "b": "pmvyal0s1q5wicj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umw2q0d98lv8b82",
+   "a": "pmvy4g1jmh3rc4k",
+   "b": "pmw2q057fmuniw0",
    "status": "malzenstwo"
   },
   {
