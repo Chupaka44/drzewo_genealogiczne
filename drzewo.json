@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-09T11:35:19.502Z",
+ "exported": "2026-11-09T12:20:23.631Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4759,8 +4759,8 @@
    "deceased": true,
    "occupation": "rolnik (agricola), chłop pańszczyźniany",
    "residence": "Dzielec nr 21 (gospodarstwo teścia)",
-   "notes": "Ur. 8/9 stycznia 1821, Dzielec nr 18. W akcie ślubu 1844: lat 23, kawaler, rodzice Szczepan i Petronela z Byrków już nie żyli. Świadek na ślubie: brat Grzegorz Setlak.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1821, 1845, 1851, 1856\nCieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "notes": "Ur. 8/9 stycznia 1821, Dzielec nr 18. W akcie ślubu 1844: lat 23, kawaler, rodzice Szczepan i Petronela z Byrków już nie żyli. Świadek na ślubie: brat Grzegorz Setlak.\n\nŻył jeszcze 26.01.1885 (świadek na ślubie Andrzeja Setlaka, lat ok. 64). Świadek także 1854, 1860, 1873, 1877, 1879.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1821, 1845, 1851, 1856\nCieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844\nCieklin, księga 4520 M-1785-1889-Dzielec, 1854–1885",
    "events": [
     {
      "date": "11 1844",
@@ -5594,12 +5594,15 @@
    "firstName": "Szczepan",
    "lastName": "Setlak",
    "gender": "M",
-   "birthDate": "1775",
+   "birthDate": "1778",
    "deceased": true,
-   "occupation": "rolnik (agricola)",
+   "deathDate": "23 11 1831",
+   "deathPlace": "Dzielec nr 18",
+   "burialPlace": "Cieklin",
+   "occupation": "zagrodnik (hortulanus)",
    "residence": "Dzielec nr 16–18",
-   "notes": "Rok urodzenia szacunkowy (pierwsze dziecko ok. 1800). Zmarł przed XI 1844. Imię łac. Stephanus.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "notes": "Imię łac. Stephanus. Zmarł 23.11.1831 w Dzielcu nr 18, w wieku 53 lat (ur. ok. 1778). Przyczyna: \"Epidemia\" (epidemia cholery 1831), opatrzony sakramentami. Pochowany w Cieklinie. Zmarł niecały miesiąc po żonie; osierocił m.in. 10-letniego Macieja i 2-letniego Stanisława.\n\nHIPOTEZA (niepotwierdzona): w akcie ślubu 1833 Paweł Setlak (ur. ok. 1788) podany jako syn Szczepana Setlaka i Reginy. Ten starszy Szczepan może być ojcem naszego Szczepana (Paweł = jego młodszy brat). Szczepan był świadkiem na ślubie Macieja Setlaka (ur. ok. 1797) z Marianną Dedo 20.11.1820.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844\nCieklin, księga 5520 Z-1784-1886-Dzielec, 1831",
    "events": []
   },
   {
@@ -5608,9 +5611,13 @@
    "lastName": "Setlak",
    "maidenName": "Byrek",
    "gender": "K",
+   "birthDate": "1781",
    "deceased": true,
-   "notes": "Zapis także Byrzek / Byrzkówna. Zmarła przed XI 1844.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "deathDate": "27 10 1831",
+   "deathPlace": "Dzielec nr 18",
+   "burialPlace": "Cieklin",
+   "notes": "Zapis także Byrzek / Byrzkówna. Zmarła 27.10.1831 w Dzielcu nr 18, w wieku 50 lat (ur. ok. 1781). Przyczyna: \"ordinaria\" (zwykła), opatrzona sakramentami. Pochowana w Cieklinie.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844\nCieklin, księga 5520 Z-1784-1886-Dzielec, 1831",
    "events": [],
    "fatherId": "pymkdm359sd86l3"
   },
@@ -5650,9 +5657,17 @@
    "birthDate": "1810",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Chrzest 1810, Dzielec nr 17. Świadek na ślubie brata Macieja w 1844. Prawdopodobnie ten sam Grzegorz, mąż Łucji Szudy (dom nr 20, dzieci 1834–1858) – niepotwierdzone.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
-   "events": [],
+   "occupation": "zagrodnik, rolnik",
+   "residence": "Dzielec nr 18, potem nr 20",
+   "notes": "Chrzest 1810, Dzielec nr 17. Ślub 2.02.1832 z Łucją Szudy – w akcie wprost syn Szczepana Setlaka i Petroneli Byrek (lat 24). Świadek na ślubie brata Macieja w 1844. Żył jeszcze 1873.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)\nCieklin, księga 4520 M-1785-1889-Dzielec, 1832",
+   "events": [
+    {
+     "date": "02 02 1832",
+     "title": "Ślub z Łucją Szudy",
+     "place": "Dzielec, par. Cieklin"
+    }
+   ],
    "fatherId": "pbxr1kj6c5mxu2w",
    "motherId": "pql3ip6508tgtis"
   },
@@ -5692,11 +5707,224 @@
    "birthDate": "13 06 1856",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Ur. 13, chrzest 16.06.1856, Dzielec nr 21. Chrzestna: Katarzyna żona Pawła Setlaka.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
-   "events": [],
+   "notes": "Ur. 13, chrzest 16.06.1856, Dzielec nr 21. Chrzestna: Katarzyna żona Pawła Setlaka.\n\nŚlub 21.02.1887 (lat 30, dom 21) z Marianną z domu Adamik (córką Franciszka Adamika i Barbary Byrek), wdową po Michale Jendryczce, lat 35. Świadkowie: Stanisław Setlak, Szczepan Konopka.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)\nCieklin, księga 4520 M-1785-1889-Dzielec, 1887",
+   "events": [
+    {
+     "date": "21 02 1887",
+     "title": "Ślub z Marianną Jendryczką z d. Adamik",
+     "place": "Dzielec, par. Cieklin"
+    }
+   ],
    "fatherId": "pmw75ob3ehd43gn",
    "motherId": "pmw75ok7tznzsyj"
+  },
+  {
+   "id": "pisgrn5ib818kk9",
+   "firstName": "Łucja",
+   "lastName": "Setlak",
+   "maidenName": "Szudy",
+   "gender": "K",
+   "birthDate": "1814",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "residence": "Dzielec nr 20",
+   "notes": "Córka Macieja Szudego i Marii (nazwisko panieńskie matki niepewne: Łydek / Mleczkówna?). Wiek przy ślubie 1832 ok. 18 lat (odczyt niepewny).",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1832; Cieklin, księga 3565 U-1784-1859-Dzielec",
+   "events": []
+  },
+  {
+   "id": "p2fhxw1ldr36e3g",
+   "firstName": "Stanisław",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "20 04 1834",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20. Ślub 12.11.1860 z Agnieszką Kmiecik; jako wdowiec 24.01.1887 ponownie ożeniony (Zofia). Świadek na ślubie Jana, brata Marcina, 1887.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "przkhx6bnsxapx1",
+   "firstName": "Józef",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "1841",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Wiek 32 przy ślubie 15.07.1873 (wdowiec) z Marią Wyżkiewicz, córką Jana i Małgorzaty Rydarowicz.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "po431ejxy63y49t",
+   "firstName": "Marcin",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "18 10 1846",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20; zmarł w dzieciństwie (krzyżyk w księdze). Nie mylić z Marcinem, synem Macieja.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "pm16fceyeewg6jc",
+   "firstName": "Jadwiga",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "12 10 1848",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20; zmarła w dzieciństwie (krzyżyk).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "poim389ub9ae43r",
+   "firstName": "Jan",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "25 05 1850",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20. Ślub 17.11.1879 z Zofią Pyznar (świadkowie: Maciej i Józef Setlakowie).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "prgl15oc9w86e11",
+   "firstName": "Maria",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "02 02 1853",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20. Ślub 15.07.1873 z Antonim Wyżkiewiczem (synem Jana i Małgorzaty Rydarowicz); zm. przed 1882.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "px6jfqpxfh03f4x",
+   "firstName": "Paweł",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "09 01 1856",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20; zmarł w dzieciństwie (krzyżyk).",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "p6txfzemgfx04fc",
+   "firstName": "Franciszka",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "26 03 1857",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "po3kqddihsxbu42",
+   "firstName": "Wojciech",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "27 02 1858",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ur. Dzielec nr 20. Ślub 19.06.1882 z Franciszką Bania.",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "peamlymre1tpxnw",
+   "firstName": "Marianna",
+   "lastName": "Setlak",
+   "maidenName": "Adamik",
+   "gender": "K",
+   "birthDate": "1852",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Córka Franciszka Adamika i Barbary Byrek. Wdowa po Michale Jendryczce. Lat 35 przy ślubie 1887.",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1887",
+   "events": []
+  },
+  {
+   "id": "prswv3ky6bub5r8",
+   "firstName": "Małgorzata",
+   "lastName": "Wyżkiewicz",
+   "maidenName": "Rydarowicz",
+   "gender": "K",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Siostra Katarzyny (matki Marcina). W akcie ślubu syna Antoniego (1882): „Margaretha Casimiro Rydarowicz nata”. Żona Jana Wyżkiewicza.",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1873, 1882",
+   "events": [],
+   "fatherId": "pmw75p2htg6iv3h",
+   "motherId": "psu6kyc8megamoe"
+  },
+  {
+   "id": "ptu5nd7no41i3ez",
+   "firstName": "Jan",
+   "lastName": "Wyżkiewicz",
+   "gender": "M",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "occupation": "rolnik",
+   "notes": "Mąż Małgorzaty Rydarowicz.",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1873, 1882",
+   "events": []
+  },
+  {
+   "id": "pz9guaqg81ga2p3",
+   "firstName": "Antoni",
+   "lastName": "Wyżkiewicz",
+   "gender": "M",
+   "birthDate": "1845",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ślub 15.07.1873 z Marią Setlak (córką Grzegorza); jako wdowiec ślub 22.05.1882 z Zofią Jendryczką.",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "ptu5nd7no41i3ez",
+   "motherId": "prswv3ky6bub5r8"
+  },
+  {
+   "id": "p6v2yxadbqrfolj",
+   "firstName": "Maria",
+   "lastName": "Wyżkiewicz",
+   "gender": "K",
+   "birthDate": "1848",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "notes": "Ślub 15.07.1873 z Józefem Setlakiem, synem Grzegorza (wdowcem).",
+   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "events": [],
+   "fatherId": "ptu5nd7no41i3ez",
+   "motherId": "prswv3ky6bub5r8"
   }
  ],
  "unions": [
@@ -6790,6 +7018,24 @@
    "id": "uuq58x7ivre6ncz",
    "a": "pbxr1kj6c5mxu2w",
    "b": "pql3ip6508tgtis",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "ubf1bjwd68jqwxp",
+   "a": "pw2olx4jkon4kd7",
+   "b": "pisgrn5ib818kk9",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "uej8rrq05s659ar",
+   "a": "pjl3zlnic40nfbf",
+   "b": "peamlymre1tpxnw",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "u4y16bwihoj1n18",
+   "a": "ptu5nd7no41i3ez",
+   "b": "prswv3ky6bub5r8",
    "status": "malzenstwo"
   }
  ]
