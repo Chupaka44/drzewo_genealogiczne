@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:43:02.505Z",
+ "exported": "2026-11-10T23:44:35.278Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6193,6 +6193,14 @@
    "events": [],
    "fatherId": "pmwb8n1l82kb4f0",
    "motherId": "pmwb8ofjpoviit8"
+  },
+  {
+   "id": "pmwbc745ak8424m",
+   "firstName": "Daniel",
+   "lastName": "Szary",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -7316,6 +7324,12 @@
    "id": "umwb8soi6o83dbe",
    "a": "pmwb8s04cfqtb0n",
    "b": "pmwb8sfm4otwbpk",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwbc7dvlyoidft",
+   "a": "pmwbc565zmvjrx8",
+   "b": "pmwbc745ak8424m",
    "status": "malzenstwo"
   }
  ]
