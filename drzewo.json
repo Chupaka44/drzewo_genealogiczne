@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T21:47:17.714Z",
+ "exported": "2026-11-10T21:48:33.827Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3221,7 +3221,10 @@
    "firstName": "Tadeusz",
    "lastName": "Pecka",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "26 06 1925",
+   "deceased": true,
+   "deathDate": "14 06 2006",
+   "burialPlace": "Libusza",
    "events": []
   },
   {
