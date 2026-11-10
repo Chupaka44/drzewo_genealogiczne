@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:50:34.955Z",
+ "exported": "2026-11-10T23:52:02.196Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6123,7 +6123,7 @@
    "firstName": "Barbara",
    "lastName": "Makowiec",
    "gender": "K",
-   "birthDate": "1865",
+   "birthDate": "1856",
    "deceased": true,
    "events": [],
    "fatherId": "pmwb8n1l82kb4f0",
