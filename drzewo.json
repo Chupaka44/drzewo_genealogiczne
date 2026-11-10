@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:45:11.891Z",
+ "exported": "2026-11-10T23:46:49.529Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6199,6 +6199,7 @@
    "firstName": "Daniel",
    "lastName": "Szary",
    "gender": "M",
+   "birthDate": "1853",
    "deceased": true,
    "events": [],
    "fatherId": "pmwbc7k8ujj8br9",
