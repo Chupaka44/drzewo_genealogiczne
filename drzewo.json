@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:46:49.529Z",
+ "exported": "2026-11-10T23:50:34.955Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -457,9 +457,10 @@
    "id": "pmvy349newb8p1u",
    "firstName": "Ewa",
    "lastName": "Makowiec",
+   "maidenName": "Jodłowska",
    "gender": "K",
    "birthDate": "29 04 1873",
-   "deceased": false,
+   "deceased": true,
    "events": [],
    "fatherId": "pmwb8s04cfqtb0n",
    "motherId": "pmwb8sfm4otwbpk"
