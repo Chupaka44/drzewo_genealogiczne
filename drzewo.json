@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:57:56.183Z",
+ "exported": "2026-11-10T23:58:07.259Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6083,7 +6083,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwbcofqf2d3ss7"
+   "fatherId": "pmwbcofqf2d3ss7",
+   "motherId": "pmwbcolc775m4dc"
   },
   {
    "id": "pmwb8zb9gm4caqx",
@@ -6250,6 +6251,15 @@
    "firstName": "Tomasz",
    "lastName": "Pilch",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwbcolc775m4dc",
+   "firstName": "Ludwina",
+   "lastName": "Pilch",
+   "maidenName": "Bugno",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -7393,6 +7403,12 @@
    "id": "umwbcod4ovi7c3g",
    "a": "pmwbcnztziob3uf",
    "b": "pmwbco6o71fguaa",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwbcoseo2u78b8",
+   "a": "pmwbcofqf2d3ss7",
+   "b": "pmwbcolc775m4dc",
    "status": "malzenstwo"
   }
  ]
