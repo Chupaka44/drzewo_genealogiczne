@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T22:08:13.286Z",
+ "exported": "2026-11-10T22:08:57.019Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -456,7 +456,8 @@
    "lastName": "Makowiec",
    "gender": "K",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmwb8s04cfqtb0n"
   },
   {
    "id": "pmvy36rx9n8ojtv",
@@ -6053,6 +6054,14 @@
    "maidenName": "Koźłanowski?",
    "gender": "K",
    "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmwb8s04cfqtb0n",
+   "firstName": "Franciszek",
+   "lastName": "Jadłowski?",
+   "gender": "M",
+   "deceased": true,
    "events": []
   }
  ],
