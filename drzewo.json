@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T22:05:49.908Z",
+ "exported": "2026-11-10T22:08:13.286Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -447,7 +447,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwb8n1l82kb4f0"
+   "fatherId": "pmwb8n1l82kb4f0",
+   "motherId": "pmwb8ofjpoviit8"
   },
   {
    "id": "pmvy349newb8p1u",
@@ -6044,6 +6045,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwb8ofjpoviit8",
+   "firstName": "Walburga",
+   "lastName": "Makowiec",
+   "maidenName": "Koźłanowski?",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -7155,6 +7165,12 @@
    "id": "u4y16bwihoj1n18",
    "a": "ptu5nd7no41i3ez",
    "b": "prswv3ky6bub5r8",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwb8rggf1ypsa4",
+   "a": "pmwb8n1l82kb4f0",
+   "b": "pmwb8ofjpoviit8",
    "status": "malzenstwo"
   }
  ]
