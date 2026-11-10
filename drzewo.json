@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T21:49:05.123Z",
+ "exported": "2026-11-10T21:49:25.755Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -125,7 +125,9 @@
    "firstName": "Franciszek",
    "lastName": "Mazurek",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "15 09 1903",
+   "deceased": true,
+   "deathDate": "14 08 1969",
    "events": [],
    "fatherId": "pmw7vjup0e6y0hk",
    "motherId": "pmw7vjpahf78aau"
