@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:52:02.196Z",
+ "exported": "2026-11-10T23:55:40.366Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -456,6 +456,7 @@
   {
    "id": "pmvy349newb8p1u",
    "firstName": "Ewa",
+   "middleName": "Aniela",
    "lastName": "Makowiec",
    "maidenName": "Jodłowska",
    "gender": "K",
