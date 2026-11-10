@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:56:51.728Z",
+ "exported": "2026-11-10T23:57:38.408Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6071,7 +6071,8 @@
    "gender": "M",
    "deceased": true,
    "notes": "Ślub w 1872",
-   "events": []
+   "events": [],
+   "fatherId": "pmwbcnztziob3uf"
   },
   {
    "id": "pmwb8sfm4otwbpk",
@@ -6223,6 +6224,14 @@
    "lastName": "Szary",
    "maidenName": "Lignarska",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwbcnztziob3uf",
+   "firstName": "Józef",
+   "lastName": "Jodłowski",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
