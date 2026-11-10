@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T22:19:58.747Z",
+ "exported": "2026-11-10T23:13:31.827Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6088,6 +6088,19 @@
    "deathDate": "18 11 1983",
    "deathPlace": "Jelenia Góra",
    "sources": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/22559328?_Jednostka_delta=20&_Jednostka_resetCur=false&_Jednostka_cur=4&_Jednostka_id_jednostki=22559328",
+   "events": [],
+   "motherId": "pmvy349newb8p1u",
+   "fatherId": "pmvy345i249oo9x"
+  },
+  {
+   "id": "pmwbb0pg779lysl",
+   "firstName": "Jan",
+   "middleName": "Antoni",
+   "lastName": "Makowiec",
+   "gender": "M",
+   "birthDate": "18 01 1902",
+   "deceased": true,
+   "sources": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/67543c9b3f1d3ed9aa30d78cceeceafd9325e2950674ec1ec0db1a814e46c568",
    "events": [],
    "motherId": "pmvy349newb8p1u",
    "fatherId": "pmvy345i249oo9x"
