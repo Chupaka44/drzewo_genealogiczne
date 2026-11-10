@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T22:18:28.552Z",
+ "exported": "2026-11-10T22:18:44.365Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6071,7 +6071,6 @@
    "lastName": "Jodłowska",
    "maidenName": "Pilch",
    "gender": "K",
-   "birthDate": "29 04 1873",
    "deceased": true,
    "events": []
   },
