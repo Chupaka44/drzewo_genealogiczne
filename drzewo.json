@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-10T23:41:51.687Z",
+ "exported": "2026-11-10T23:42:04.952Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6145,6 +6145,17 @@
    "lastName": "Makowiec",
    "gender": "K",
    "birthDate": "1872",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmwb8n1l82kb4f0",
+   "motherId": "pmwb8ofjpoviit8"
+  },
+  {
+   "id": "pmwbc3xhirxpetf",
+   "firstName": "Kunegunda",
+   "lastName": "Makowiec",
+   "gender": "K",
+   "birthDate": "1860",
    "deceased": true,
    "events": [],
    "fatherId": "pmwb8n1l82kb4f0",
