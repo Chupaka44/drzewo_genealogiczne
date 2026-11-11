@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:18:02.733Z",
+ "exported": "2026-11-11T00:24:03.142Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6282,7 +6282,10 @@
    "lastName": "Wojtanowska",
    "maidenName": "Janik",
    "gender": "K",
+   "birthDate": "1790",
    "deceased": true,
+   "deathDate": "16 02 1845",
+   "notes": "Wiek 55 lat",
    "events": []
   },
   {
