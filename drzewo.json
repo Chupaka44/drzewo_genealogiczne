@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T11:34:55.920Z",
+ "exported": "2026-11-11T11:42:15.112Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6045,7 +6045,7 @@
    "gender": "M",
    "birthDate": "1826",
    "deceased": true,
-   "sources": "Ślub Ignacego z Wargurgą, lewa strona 5 od góry:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4530&kt=1&plik=006.jpg&x=0&y=896&zoom=2.72",
+   "sources": "Ślub Ignacego z Wargurgą, lewa strona 5 od góry:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4530&kt=1&plik=006.jpg&x=0&y=896&zoom=2.72\n\nZapowiedzi:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1850&kt=2&plik=313.jpg&x=3596&y=1840&zoom=0.8799999999999999",
    "events": [
     {
      "date": "16 01 1850",
