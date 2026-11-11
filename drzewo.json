@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:34:20.077Z",
+ "exported": "2026-11-11T21:35:11.881Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1014,7 +1014,9 @@
    "firstName": "Jan",
    "lastName": "Pater",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "1903",
+   "deceased": true,
+   "deathDate": "26 12 1945",
    "events": []
   },
   {
