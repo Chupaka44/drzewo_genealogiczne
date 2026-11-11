@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:35:22.705Z",
+ "exported": "2026-11-11T20:35:50.017Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6754,14 +6754,14 @@
    "events": []
   },
   {
-   "id": "pmwckvu9x6owjwc",
-   "firstName": "Kazimierz",
+   "id": "pmwckwdmvzu76k4",
+   "firstName": "Franiszek",
    "lastName": "Pater",
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy44cie6wssu3",
-   "fatherId": "pmvy448ggl4ju71"
+   "fatherId": "pmvy43js4b0cqwn",
+   "motherId": "pmvy43o3aw7761s"
   }
  ],
  "unions": [
