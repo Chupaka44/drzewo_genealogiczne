@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:22:09.677Z",
+ "exported": "2026-11-11T20:23:13.882Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6672,6 +6672,22 @@
    "events": [],
    "motherId": "pmwck7z704tn6ev",
    "fatherId": "pmwck8ig2xpmqa2"
+  },
+  {
+   "id": "pmwckfts806b4qb",
+   "firstName": "Zuzanna",
+   "lastName": "Fedyń",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmwcketlig7ewfi"
+  },
+  {
+   "id": "pmwckg97qmhfsw5",
+   "lastName": "Fedyń",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -7891,6 +7907,12 @@
    "id": "umwcke0d3nmduy2",
    "a": "pmwck8b7c2z1gs8",
    "b": "pmwckdxaywkpt47",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwckgahb2pzj10",
+   "a": "pmwcketlig7ewfi",
+   "b": "pmwckg97qmhfsw5",
    "status": "malzenstwo"
   }
  ]
