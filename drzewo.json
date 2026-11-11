@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:33:23.138Z",
+ "exported": "2026-11-11T00:34:02.313Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6293,14 +6293,14 @@
   },
   {
    "id": "pmwbd7tqvv1m299",
-   "firstName": "Ludwina",
+   "firstName": "Ludwika",
    "lastName": "Makowiec",
    "gender": "K",
    "birthDate": "15 04 1851",
    "deceased": true,
    "events": [],
-   "motherId": "pmwb8ofjpoviit8",
-   "fatherId": "pmwb8n1l82kb4f0"
+   "fatherId": "pmwb8n1l82kb4f0",
+   "motherId": "pmwb8ofjpoviit8"
   },
   {
    "id": "pmwbdxmbcheh6u2",
