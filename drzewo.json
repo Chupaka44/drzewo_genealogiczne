@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:35:55.637Z",
+ "exported": "2026-11-11T20:36:22.078Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6768,6 +6768,17 @@
    "firstName": "Grzegorz",
    "lastName": "Pater",
    "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy43js4b0cqwn",
+   "motherId": "pmvy43o3aw7761s"
+  },
+  {
+   "id": "pmwckwzurt80tve",
+   "firstName": "Bernadetta",
+   "lastName": "Kalisz",
+   "maidenName": "Pater",
+   "gender": "K",
    "deceased": false,
    "events": [],
    "fatherId": "pmvy43js4b0cqwn",
