@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:23:24.398Z",
+ "exported": "2026-11-11T20:23:52.270Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -586,7 +586,7 @@
   },
   {
    "id": "pmvy3fhfay88zc0",
-   "firstName": "Mirosława",
+   "firstName": "Mira",
    "lastName": "Kazimierczak",
    "gender": "K",
    "deceased": false,
