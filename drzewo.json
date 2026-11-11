@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:46:48.404Z",
+ "exported": "2026-11-11T18:47:16.533Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1762,7 +1762,7 @@
   {
    "id": "pmvy5483netleul",
    "firstName": "Janusz",
-   "lastName": "Przybyłowicz",
+   "lastName": "Radwan",
    "gender": "M",
    "deceased": false,
    "events": [],
