@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:53:49.942Z",
+ "exported": "2026-11-11T20:54:02.793Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7085,6 +7085,14 @@
    "events": [],
    "fatherId": "pmwclg8xzs4lsxi",
    "motherId": "pmwclh7lp649znw"
+  },
+  {
+   "id": "pmwcljqty7iraa0",
+   "firstName": "Stanisław",
+   "lastName": "Bończak",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8400,6 +8408,12 @@
    "id": "umwclj3f9iahxu8",
    "a": "pmwclg8xzs4lsxi",
    "b": "pmwclh7lp649znw",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcljx3vkmrme0",
+   "a": "pmwclj7isuqmauz",
+   "b": "pmwcljqty7iraa0",
    "status": "malzenstwo"
   }
  ]
