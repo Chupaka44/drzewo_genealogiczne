@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:48:31.525Z",
+ "exported": "2026-11-11T18:48:37.860Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2070,7 +2070,7 @@
   {
    "id": "pmvy5tn25o7wdls",
    "firstName": "Zbigniew",
-   "lastName": "Siwek",
+   "lastName": "Siwik",
    "gender": "M",
    "deceased": false,
    "events": []
