@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:11:36.509Z",
+ "exported": "2026-11-11T22:12:05.558Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7515,7 +7515,8 @@
    "maidenName": "Ziemba",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "events": [],
+   "motherId": "pmwcobqryxsapm3"
   },
   {
    "id": "pmwco085yncx484",
@@ -7539,6 +7540,15 @@
    "firstName": "Marianna",
    "lastName": "Sarkowicz",
    "maidenName": "Abram",
+   "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwcobqryxsapm3",
+   "firstName": "Marianna",
+   "lastName": "Ziemba",
+   "maidenName": "Włódarz",
    "gender": "K",
    "deceased": true,
    "events": []
