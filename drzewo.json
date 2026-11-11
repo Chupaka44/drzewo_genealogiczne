@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:49:03.577Z",
+ "exported": "2026-11-11T18:49:14.783Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2095,7 +2095,9 @@
   },
   {
    "id": "pmvy5vd37yw9ujv",
-   "lastName": "Zajdel",
+   "firstName": "Andżelika",
+   "lastName": "Figura",
+   "maidenName": "Zajdel",
    "gender": "K",
    "deceased": false,
    "events": [],
