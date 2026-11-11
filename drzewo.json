@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:21:59.233Z",
+ "exported": "2026-11-11T20:22:09.677Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6662,6 +6662,16 @@
    "events": [],
    "fatherId": "pmwck8b7c2z1gs8",
    "motherId": "pmwckdxaywkpt47"
+  },
+  {
+   "id": "pmwcketlig7ewfi",
+   "firstName": "Łukasz",
+   "lastName": "Fedyń",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwck7z704tn6ev",
+   "fatherId": "pmwck8ig2xpmqa2"
   }
  ],
  "unions": [
