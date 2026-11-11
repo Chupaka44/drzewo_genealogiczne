@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:56:53.657Z",
+ "exported": "2026-11-11T20:57:07.582Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7190,6 +7190,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwclnt20gaj4gy",
+   "firstName": "Włodzimierz",
+   "lastName": "Czech",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmwclncf88vd8kk",
+   "motherId": "pmwclnjqe6y510l"
   }
  ],
  "unions": [
