@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:46:13.709Z",
+ "exported": "2026-11-11T00:48:08.591Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6101,6 +6101,7 @@
    "deceased": true,
    "deathDate": "18 11 1983",
    "deathPlace": "Jelenia Góra",
+   "notes": "Ślub 12 06 1899",
    "sources": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/44b1a9316e9d403c183730843895ad89a465c41b7837ca507c4a56a4eb62b801",
    "events": [],
    "fatherId": "pmvy345i249oo9x",
