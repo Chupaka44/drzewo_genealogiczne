@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T12:44:59.960Z",
+ "exported": "2026-11-11T12:51:22.612Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5910,6 +5910,8 @@
    "birthDate": "1852",
    "birthPlace": "Dzielec",
    "deceased": true,
+   "deathDate": "22 05 1888",
+   "burialPlace": "Cieklin",
    "notes": "Córka Franciszka Adamika i Barbary Byrek. Wdowa po Michale Jendryczce. Lat 35 przy ślubie 1887.",
    "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1887",
    "events": []
