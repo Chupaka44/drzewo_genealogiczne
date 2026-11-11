@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:55:07.619Z",
+ "exported": "2026-11-11T20:55:25.250Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7144,6 +7144,14 @@
    "events": [],
    "motherId": "pmwclko6spg8dmx",
    "fatherId": "pmwcljchyvd8v57"
+  },
+  {
+   "id": "pmwcllevffwnve8",
+   "firstName": "Grzegorz",
+   "lastName": "Zgrzebieniowski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8471,6 +8479,12 @@
    "id": "umwclkpt1cohk13",
    "a": "pmwcljchyvd8v57",
    "b": "pmwclko6spg8dmx",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwclloq6qlpz6u",
+   "a": "pmwclkzrufy2i5u",
+   "b": "pmwcllevffwnve8",
    "status": "malzenstwo"
   }
  ]
