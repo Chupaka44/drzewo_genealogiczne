@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:55:25.250Z",
+ "exported": "2026-11-11T20:55:30.251Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7152,6 +7152,16 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcllqdzwkmli6",
+   "firstName": "Oliwia",
+   "lastName": "Zgrzebieniowska",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwclkzrufy2i5u",
+   "fatherId": "pmwcllevffwnve8"
   }
  ],
  "unions": [
