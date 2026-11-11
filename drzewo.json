@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:45:57.256Z",
+ "exported": "2026-11-11T20:46:55.151Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6978,6 +6978,17 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwclaj6305tetm",
+   "firstName": "Barbara",
+   "lastName": "Bugno",
+   "maidenName": "Ludwin",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwcl4j76db1our",
+   "fatherId": "pmwcl4znhyv8bxf"
   }
  ],
  "unions": [
