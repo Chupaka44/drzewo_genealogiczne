@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:36:41.483Z",
+ "exported": "2026-11-11T20:37:16.539Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6802,6 +6802,25 @@
    "events": [],
    "motherId": "pmwckwzurt80tve",
    "fatherId": "pmwckx9dxlwmtfj"
+  },
+  {
+   "id": "pmwckxnyx86ffo5",
+   "firstName": "Katarzyna",
+   "lastName": "Augustowska",
+   "maidenName": "Kalisz",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwckwzurt80tve",
+   "fatherId": "pmwckx9dxlwmtfj"
+  },
+  {
+   "id": "pmwcky6k51ewnjj",
+   "firstName": "Wojciech",
+   "lastName": "Augustowski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8057,6 +8076,12 @@
    "id": "umwckxd9wajm2qk",
    "a": "pmwckwzurt80tve",
    "b": "pmwckx9dxlwmtfj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwckycoaby4vxc",
+   "a": "pmwckxnyx86ffo5",
+   "b": "pmwcky6k51ewnjj",
    "status": "malzenstwo"
   }
  ]
