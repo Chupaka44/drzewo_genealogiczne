@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:45:39.919Z",
+ "exported": "2026-11-11T18:45:53.895Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6515,6 +6515,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwcgyvezfnes5o",
+   "firstName": "Magdalena",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Cetnarowska",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -7704,6 +7713,12 @@
    "id": "umwc36ugukip6lf",
    "a": "pmw2q16o2globvi",
    "b": "pmwc36lwc5fj2eu",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcgz4bbood1ul",
+   "a": "pmvy5oao7hj49da",
+   "b": "pmwcgyvezfnes5o",
    "status": "malzenstwo"
   }
  ]
