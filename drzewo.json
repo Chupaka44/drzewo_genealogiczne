@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:57:53.523Z",
+ "exported": "2026-11-11T00:58:06.206Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6407,6 +6407,15 @@
    "maidenName": "Poliwka",
    "gender": "K",
    "deceased": false,
+   "events": [],
+   "fatherId": "pmwbets7ldi8gkn"
+  },
+  {
+   "id": "pmwbets7ldi8gkn",
+   "firstName": "Jakub",
+   "lastName": "Poliwka",
+   "gender": "M",
+   "deceased": true,
    "events": []
   }
  ],
