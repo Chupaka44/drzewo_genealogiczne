@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:57:15.376Z",
+ "exported": "2026-11-11T20:57:18.907Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7188,7 +7188,7 @@
    "firstName": "Paulina",
    "lastName": "Czech",
    "gender": "K",
-   "deceased": false,
+   "deceased": true,
    "events": []
   },
   {
