@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:06:06.148Z",
+ "exported": "2026-11-11T22:06:17.687Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7485,6 +7485,7 @@
    "lastName": "Sarkowicz",
    "maidenName": "Sroka",
    "gender": "K",
+   "birthDate": "1861",
    "deceased": true,
    "sources": "Akt Ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=012.jpg&x=250&y=359&zoom=1.7000000000000002",
    "events": [
