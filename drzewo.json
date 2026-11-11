@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:16:24.422Z",
+ "exported": "2026-11-11T22:17:32.897Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7569,6 +7569,17 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcoj31q64u98p",
+   "firstName": "Jan",
+   "lastName": "Ligęza",
+   "gender": "M",
+   "birthDate": "1902",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmwcksgu6jjt83v",
+   "fatherId": "pmwckscuhujkpw5"
   }
  ],
  "unions": [
