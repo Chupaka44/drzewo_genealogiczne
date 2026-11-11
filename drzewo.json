@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T01:14:23.392Z",
+ "exported": "2026-11-11T01:27:52.738Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6052,7 +6052,6 @@
    "lastName": "Makowiec",
    "gender": "M",
    "deceased": true,
-   "deathDate": "1899",
    "notes": "Ślub 1850",
    "events": []
   },
