@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:28:58.159Z",
+ "exported": "2026-11-11T20:32:40.503Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1042,7 +1042,8 @@
    "maidenName": "Ligęza",
    "gender": "K",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmwckscuhujkpw5"
   },
   {
    "id": "pmvy468e8j23xyc",
@@ -6720,6 +6721,14 @@
    "id": "pmwcknl5ib1pny5",
    "firstName": "Antonina",
    "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmwckscuhujkpw5",
+   "firstName": "Jakub",
+   "lastName": "Ligęza",
+   "gender": "M",
    "deceased": false,
    "events": []
   }
