@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:47:22.770Z",
+ "exported": "2026-11-11T20:50:23.325Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7007,6 +7007,16 @@
    "events": [],
    "motherId": "pmwclaj6305tetm",
    "fatherId": "pmwclatby3w2bsw"
+  },
+  {
+   "id": "pmwclexhq9eqtxu",
+   "firstName": "Bronisław",
+   "lastName": "Czech",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy2xrb5j78j6n",
+   "fatherId": "pmvy2xfac8000j4"
   }
  ],
  "unions": [
