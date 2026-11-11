@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:48:08.591Z",
+ "exported": "2026-11-11T00:48:48.931Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6365,6 +6365,17 @@
    "deathDate": "02 08 1892",
    "events": [],
    "motherId": "pmwbc3xhirxpetf"
+  },
+  {
+   "id": "pmwbehmjlnk57pl",
+   "firstName": "Marianna",
+   "lastName": "Makowiec",
+   "gender": "K",
+   "birthDate": "17 09 1908",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmvy349newb8p1u",
+   "fatherId": "pmvy345i249oo9x"
   }
  ],
  "unions": [
