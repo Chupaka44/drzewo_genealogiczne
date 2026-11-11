@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:38:43.183Z",
+ "exported": "2026-11-11T21:39:02.437Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7033,10 +7033,12 @@
    "firstName": "Tadeusz",
    "lastName": "Czech",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "25 01 1925",
+   "deceased": true,
+   "deathDate": "29 8 1992",
    "events": [],
-   "motherId": "pmvy2xrb5j78j6n",
-   "fatherId": "pmvy2xfac8000j4"
+   "fatherId": "pmvy2xfac8000j4",
+   "motherId": "pmvy2xrb5j78j6n"
   },
   {
    "id": "pmwclg8xzs4lsxi",
