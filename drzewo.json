@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:14:38.053Z",
+ "exported": "2026-11-11T00:14:51.376Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6143,7 +6143,7 @@
    "firstName": "Jan",
    "lastName": "Makowiec",
    "gender": "M",
-   "birthDate": "1859",
+   "birthDate": "30 01 1859",
    "deceased": true,
    "events": [],
    "fatherId": "pmwb8n1l82kb4f0",
