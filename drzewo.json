@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:16:59.123Z",
+ "exported": "2026-11-11T20:17:05.462Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6609,6 +6609,16 @@
    "lastName": "Fedyń",
    "maidenName": "Kozień",
    "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw7uuc0x3pmsb2",
+   "fatherId": "pmwck7p2k6s0vni"
+  },
+  {
+   "id": "pmwck8b7c2z1gs8",
+   "firstName": "Leszek",
+   "lastName": "Kozień",
+   "gender": "M",
    "deceased": false,
    "events": [],
    "motherId": "pmw7uuc0x3pmsb2",
