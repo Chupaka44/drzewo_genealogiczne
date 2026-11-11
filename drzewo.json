@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:49:37.083Z",
+ "exported": "2026-11-11T18:49:55.107Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1402,7 +1402,7 @@
   },
   {
    "id": "pmvy4o2wksdas3t",
-   "firstName": "Wiktor",
+   "firstName": "Szczepan",
    "lastName": "Przybyłowicz",
    "gender": "M",
    "deceased": false,
