@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T23:08:18.863Z",
+ "exported": "2026-11-11T23:11:34.408Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7588,7 +7588,8 @@
   {
    "id": "pmwcojljy2vjwlx",
    "firstName": "Stefania",
-   "lastName": "Ligęza",
+   "lastName": "Smoszna",
+   "maidenName": "Ligęza",
    "gender": "K",
    "birthDate": "3 02 1905",
    "deceased": true,
