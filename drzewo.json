@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:57:23.342Z",
+ "exported": "2026-11-11T20:59:01.283Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7200,6 +7200,44 @@
    "events": [],
    "fatherId": "pmwclncf88vd8kk",
    "motherId": "pmwclnjqe6y510l"
+  },
+  {
+   "id": "pmwclo9a5v67m3s",
+   "firstName": "Magda",
+   "lastName": "Ulanowska",
+   "maidenName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwclnjqe6y510l",
+   "fatherId": "pmwclncf88vd8kk"
+  },
+  {
+   "id": "pmwclohc2wbnqy1",
+   "lastName": "Ulanowski",
+   "gender": "M",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmwclpl4foozbue",
+   "firstName": "Jarosław",
+   "lastName": "Ulanowski",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwclo9a5v67m3s",
+   "fatherId": "pmwclohc2wbnqy1"
+  },
+  {
+   "id": "pmwclpt7lntrjpa",
+   "firstName": "Urszula",
+   "lastName": "Ulanowska",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwclo9a5v67m3s",
+   "fatherId": "pmwclohc2wbnqy1"
   }
  ],
  "unions": [
@@ -8539,6 +8577,12 @@
    "id": "umwclnma6qh97s0",
    "a": "pmwclncf88vd8kk",
    "b": "pmwclnjqe6y510l",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwclphblllor17",
+   "a": "pmwclo9a5v67m3s",
+   "b": "pmwclohc2wbnqy1",
    "status": "malzenstwo"
   }
  ]
