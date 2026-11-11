@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:58:35.806Z",
+ "exported": "2026-11-11T01:00:04.481Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6040,7 +6040,7 @@
    "birthDate": "31 12 1815",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Bliźniak (Gemelli) z Kasprem, ur. 31.12.1815, Dzielec nr 18. Chrzestni: Łukasz Bania, Justyna Stożkówna (?).",
+   "notes": "Bliźniak (Gemelli) z Kasprem, ur. 31.12.1815, Dzielec nr 18. Chrzestni: Łukasz Bania, Justyna Stożkówna (?).\n\nŚlub 05 02 1837",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec",
    "events": [],
    "fatherId": "pbxr1kj6c5mxu2w",
