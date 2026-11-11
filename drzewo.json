@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:51:16.092Z",
+ "exported": "2026-11-11T18:51:23.671Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2207,6 +2207,7 @@
   },
   {
    "id": "pmvy618y93oh9no",
+   "firstName": "Tymoteusz",
    "lastName": "Moździerz",
    "gender": "M",
    "deceased": false,
