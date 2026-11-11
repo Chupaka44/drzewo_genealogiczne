@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:54:50.865Z",
+ "exported": "2026-11-11T20:55:07.619Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7133,6 +7133,17 @@
    "events": [],
    "fatherId": "pmwcljchyvd8v57",
    "motherId": "pmwclko6spg8dmx"
+  },
+  {
+   "id": "pmwclkzrufy2i5u",
+   "firstName": "Karolina",
+   "lastName": "Zgrzebieniowska",
+   "maidenName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwclko6spg8dmx",
+   "fatherId": "pmwcljchyvd8v57"
   }
  ],
  "unions": [
