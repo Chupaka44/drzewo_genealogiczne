@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:41:51.571Z",
+ "exported": "2026-11-11T22:43:35.680Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7623,11 +7623,13 @@
    "firstName": "Ludwik",
    "lastName": "Ligęza",
    "gender": "M",
-   "birthDate": "1918",
+   "birthDate": "1 05 1918",
    "deceased": true,
+   "deathDate": "25 5 1957",
+   "sources": "Akt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4904&se=&sy=3500&kt=1&plik=186.jpg&x=1679&y=394&zoom=1.5700000000000003",
    "events": [],
-   "motherId": "pmwcksgu6jjt83v",
-   "fatherId": "pmwckscuhujkpw5"
+   "fatherId": "pmwckscuhujkpw5",
+   "motherId": "pmwcksgu6jjt83v"
   },
   {
    "id": "pmwcoksge9vrma3",
