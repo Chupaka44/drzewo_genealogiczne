@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:21:33.701Z",
+ "exported": "2026-11-11T21:21:37.777Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7304,6 +7304,16 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcmjbw3k1ot7j",
+   "firstName": "Maciej",
+   "lastName": "Nowak",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwcmio8fkoozz7",
+   "fatherId": "pmwcmj678mo47az"
   }
  ],
  "unions": [
