@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:37:16.539Z",
+ "exported": "2026-11-11T20:37:35.740Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6821,6 +6821,14 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwckye3tmsgzkz",
+   "firstName": "Łukasz",
+   "lastName": "Kosiba",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8082,6 +8090,12 @@
    "id": "umwckycoaby4vxc",
    "a": "pmwckxnyx86ffo5",
    "b": "pmwcky6k51ewnjj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwckyrhi65puhh",
+   "a": "pmwckxevh98sx1y",
+   "b": "pmwckye3tmsgzkz",
    "status": "malzenstwo"
   }
  ]
