@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:55:50.268Z",
+ "exported": "2026-11-11T21:56:06.533Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6755,7 +6755,7 @@
    "sources": "Akt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=028.jpg&x=0&y=809&zoom=2.23",
    "events": [
     {
-     "date": "1900",
+     "date": "10 10 1900",
      "title": "Ślub",
      "place": "Stróżna"
     }
