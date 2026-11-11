@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:48:07.923Z",
+ "exported": "2026-11-11T18:48:15.360Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1861,7 +1861,7 @@
   },
   {
    "id": "pmvy5k5xh545vix",
-   "firstName": "Władysław",
+   "firstName": "Władysław?",
    "lastName": "Dranka",
    "gender": "M",
    "deceased": false,
