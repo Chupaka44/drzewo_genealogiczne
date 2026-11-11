@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:44:29.571Z",
+ "exported": "2026-11-11T20:44:40.428Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6933,6 +6933,14 @@
    "events": [],
    "fatherId": "pmwcl4znhyv8bxf",
    "motherId": "pmwcl4j76db1our"
+  },
+  {
+   "id": "pmwcl7pole9rj2f",
+   "firstName": "Roman",
+   "lastName": "Pawluś",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8212,6 +8220,12 @@
    "id": "umwcl66yhbjqfpy",
    "a": "pmwcl56nxuq8dke",
    "b": "pmwcl5vw30j5ajx",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcl7v6lcz8onv",
+   "a": "pmwcl6nx8lmy7ml",
+   "b": "pmwcl7pole9rj2f",
    "status": "malzenstwo"
   }
  ]
