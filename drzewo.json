@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:47:06.608Z",
+ "exported": "2026-11-11T21:47:18.257Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6740,7 +6740,8 @@
    "birthDate": "00 06 1889",
    "deceased": true,
    "deathDate": "00 11 1951",
-   "events": []
+   "events": [],
+   "fatherId": "pmwcng95yimkq07"
   },
   {
    "id": "pmwckscuhujkpw5",
@@ -7394,6 +7395,14 @@
    "maidenName": "Gubała",
    "gender": "K",
    "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmwcng95yimkq07",
+   "firstName": "Tomasz",
+   "lastName": "Zacharjasz",
+   "gender": "M",
+   "deceased": true,
    "events": []
   }
  ],
