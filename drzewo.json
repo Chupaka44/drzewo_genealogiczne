@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:51:16.755Z",
+ "exported": "2026-11-11T21:51:31.882Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6762,7 +6762,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwcnle31ymdctj"
+   "fatherId": "pmwcnle31ymdctj",
+   "motherId": "pmwcnljzx1ym8ed"
   },
   {
    "id": "pmwcksxkz2pl9sw",
@@ -7447,6 +7448,15 @@
    "firstName": "Stanisław",
    "lastName": "Sarkowicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwcnljzx1ym8ed",
+   "firstName": "Zofia",
+   "lastName": "Sarkowicz",
+   "maidenName": "Sroka",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -8836,6 +8846,12 @@
    "id": "umwcnlbnjvcys17",
    "a": "pmwcnkcpjjancdg",
    "b": "pmwcnl1vxs6j0hk",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcnlufteuvbi1",
+   "a": "pmwcnle31ymdctj",
+   "b": "pmwcnljzx1ym8ed",
    "status": "malzenstwo"
   }
  ]
