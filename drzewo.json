@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:56:41.108Z",
+ "exported": "2026-11-11T00:57:53.523Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6399,6 +6399,15 @@
    "events": [],
    "motherId": "pmwbcolc775m4dc",
    "fatherId": "pmwbcofqf2d3ss7"
+  },
+  {
+   "id": "pmwbetdhtfxaav1",
+   "firstName": "Maria",
+   "lastName": "Setlak",
+   "maidenName": "Poliwka",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -7564,6 +7573,12 @@
    "id": "umwbdzpirt6n3ks",
    "a": "pmwbdzcg0kh1ggz",
    "b": "pmwbdzjr41bybba",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwbetnl66z1xfn",
+   "a": "pl8csjxpji03aie",
+   "b": "pmwbetdhtfxaav1",
    "status": "malzenstwo"
   }
  ]
