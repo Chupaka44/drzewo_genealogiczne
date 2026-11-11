@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:44:50.002Z",
+ "exported": "2026-11-11T20:44:58.301Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6945,12 +6945,13 @@
   {
    "id": "pmwcl7wi3d46ur3",
    "firstName": "Edyta",
-   "lastName": "Pawluś",
+   "lastName": "Bogdan",
+   "maidenName": "Pawluś",
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwcl6nx8lmy7ml",
-   "fatherId": "pmwcl7pole9rj2f"
+   "fatherId": "pmwcl7pole9rj2f",
+   "motherId": "pmwcl6nx8lmy7ml"
   },
   {
    "id": "pmwcl80mdcx81j0",
