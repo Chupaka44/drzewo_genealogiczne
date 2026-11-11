@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:46:25.848Z",
+ "exported": "2026-11-11T18:46:48.404Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1809,6 +1809,7 @@
   },
   {
    "id": "pmvy5ecgph57imd",
+   "firstName": "Stanisław",
    "lastName": "Karp",
    "gender": "M",
    "deceased": false,
