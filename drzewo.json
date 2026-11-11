@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:20:53.668Z",
+ "exported": "2026-11-11T21:21:02.556Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7267,6 +7267,14 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcmihsyo0h6b9",
+   "firstName": "Bronisław",
+   "lastName": "Zając",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8618,6 +8626,12 @@
    "id": "umwcmho2bo57r2o",
    "a": "pmwcmh7cippgrip",
    "b": "pmwcmhl48918nmr",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcmimxatx29qz",
+   "a": "pmwcmh0fev0gthj",
+   "b": "pmwcmihsyo0h6b9",
    "status": "malzenstwo"
   }
  ]
