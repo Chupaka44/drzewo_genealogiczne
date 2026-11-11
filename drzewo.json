@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:37:27.124Z",
+ "exported": "2026-11-11T21:37:45.397Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3678,7 +3678,7 @@
    "gender": "M",
    "birthDate": "9 11 1936",
    "deceased": true,
-   "deathDate": "1991",
+   "deathDate": "21 11 1992",
    "burialPlace": "Wójtowa",
    "deathCause": "Zawał",
    "events": []
