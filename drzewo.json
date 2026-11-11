@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T11:09:46.366Z",
+ "exported": "2026-11-11T11:11:03.732Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6045,9 +6045,15 @@
    "gender": "M",
    "birthDate": "1826",
    "deceased": true,
-   "notes": "Ślub 1850",
+   "notes": "Ślub  16 styczeń 1850",
    "sources": "Ślub Ignacego z Wargurgą, lewa strona 5 od góry:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4530&kt=1&plik=006.jpg&x=0&y=896&zoom=2.72",
-   "events": [],
+   "events": [
+    {
+     "date": "16 01 1850",
+     "title": "Ślub z Warburgą",
+     "place": "Biecz"
+    }
+   ],
    "fatherId": "pmwc0nhxh5jolnl",
    "motherId": "pmwc0nrggjk68eb"
   },
