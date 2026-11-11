@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:51:08.925Z",
+ "exported": "2026-11-11T20:51:29.175Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7027,6 +7027,25 @@
    "events": [],
    "motherId": "pmvy2xrb5j78j6n",
    "fatherId": "pmvy2xfac8000j4"
+  },
+  {
+   "id": "pmwclg8xzs4lsxi",
+   "firstName": "Aleksander",
+   "lastName": "Czech",
+   "gender": "M",
+   "deceased": false,
+   "notes": "wujek Olek",
+   "events": [],
+   "motherId": "pmvy2xrb5j78j6n",
+   "fatherId": "pmvy2xfac8000j4"
+  },
+  {
+   "id": "pmwclgk3j6csqk5",
+   "firstName": "Kazimiera",
+   "lastName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8330,6 +8349,12 @@
    "id": "umwclb0zma4xssf",
    "a": "pmwclaj6305tetm",
    "b": "pmwclatby3w2bsw",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwclgmkva7l8wu",
+   "a": "pmwclg4l3zsn8l1",
+   "b": "pmwclgk3j6csqk5",
    "status": "malzenstwo"
   }
  ]
