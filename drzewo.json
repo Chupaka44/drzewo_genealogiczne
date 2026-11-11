@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T11:55:44.975Z",
+ "exported": "2026-11-11T11:57:21.180Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6463,8 +6463,9 @@
    "firstName": "Wojciech",
    "lastName": "Makowiec",
    "gender": "M",
+   "birthDate": "01 02 1823",
    "deceased": true,
-   "sources": "z aktu ślubu Ignacego",
+   "sources": "z aktu ślubu Ignacego\n\nakt urodzenia:\nhttps://www.szukajwarchiwach.gov.pl/skan/-/skan/d895a1322253c3f2c0183a3f4efb85d40470be551783eac1b75f2f7fe77204c2",
    "events": []
   },
   {
