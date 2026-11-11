@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:02:59.793Z",
+ "exported": "2026-11-11T22:03:19.178Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7467,7 +7467,13 @@
    "lastName": "Sarkowicz",
    "gender": "M",
    "deceased": true,
-   "events": [],
+   "events": [
+    {
+     "date": "1880",
+     "title": "Ślub",
+     "place": "Stróżna"
+    }
+   ],
    "fatherId": "pmwcnzoj2qa51ji",
    "motherId": "pmwcnzvcuiul7a8"
   },
