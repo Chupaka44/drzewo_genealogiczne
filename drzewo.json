@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:14:12.031Z",
+ "exported": "2026-11-11T00:14:26.463Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6187,7 +6187,7 @@
    "firstName": "Romuald",
    "lastName": "Makowiec",
    "gender": "M",
-   "birthDate": "1855",
+   "birthDate": "06 02 1855",
    "deceased": true,
    "events": [],
    "fatherId": "pmwb8n1l82kb4f0",
