@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:16:43.910Z",
+ "exported": "2026-11-11T20:16:59.123Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6602,6 +6602,17 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwck7z704tn6ev",
+   "firstName": "Elżbieta",
+   "lastName": "Fedyń",
+   "maidenName": "Kozień",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmw7uuc0x3pmsb2",
+   "fatherId": "pmwck7p2k6s0vni"
   }
  ],
  "unions": [
