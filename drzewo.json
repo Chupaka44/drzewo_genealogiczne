@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:15:58.481Z",
+ "exported": "2026-11-11T20:16:43.910Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6594,6 +6594,14 @@
    "events": [],
    "fatherId": "pmvy4zmbf5eroc7",
    "motherId": "pmvy663abb78dd3"
+  },
+  {
+   "id": "pmwck7p2k6s0vni",
+   "firstName": "Zdzisław",
+   "lastName": "Kozień",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -7795,6 +7803,12 @@
    "id": "umwch3wit4e9hyf",
    "a": "pmvy5vd37yw9ujv",
    "b": "pmwch3sboj5q0yp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwck7xks1waj84",
+   "a": "pmw7uuc0x3pmsb2",
+   "b": "pmwck7p2k6s0vni",
    "status": "malzenstwo"
   }
  ]
