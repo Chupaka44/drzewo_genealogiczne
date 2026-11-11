@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:51:41.194Z",
+ "exported": "2026-11-11T18:51:47.226Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6565,6 +6565,16 @@
    "firstName": "Anna",
    "lastName": "Pabis",
    "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmvy4sd7m0ijl6m",
+   "fatherId": "pmvy4s6pyb5l4wl"
+  },
+  {
+   "id": "pmwch6lq46ltt30",
+   "firstName": "Łukasz",
+   "lastName": "Pabis",
+   "gender": "M",
    "deceased": false,
    "events": [],
    "motherId": "pmvy4sd7m0ijl6m",
