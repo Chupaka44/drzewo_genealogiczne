@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:49:09.227Z",
+ "exported": "2026-11-11T22:49:17.231Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7668,7 +7668,16 @@
      "title": "Ślub",
      "place": "Stróżna"
     }
-   ]
+   ],
+   "fatherId": "pmwcpo14n6lth30"
+  },
+  {
+   "id": "pmwcpo14n6lth30",
+   "firstName": "Jan",
+   "lastName": "Zięba",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
