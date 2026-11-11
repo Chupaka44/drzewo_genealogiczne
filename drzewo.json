@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:45:06.674Z",
+ "exported": "2026-11-11T20:45:57.256Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6970,6 +6970,14 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcl9aqtdqjqfn",
+   "firstName": "Tadeusz",
+   "lastName": "Patrzyk",
+   "gender": "M",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8261,6 +8269,12 @@
    "id": "umwcl8ffnfcm8ki",
    "a": "pmwcl7wi3d46ur3",
    "b": "pmwcl8ajlawvxzl",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcl9igu4i2z31",
+   "a": "pmwcl6nx8lmy7ml",
+   "b": "pmwcl9aqtdqjqfn",
    "status": "malzenstwo"
   }
  ]
