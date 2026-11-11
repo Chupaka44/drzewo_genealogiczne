@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T12:51:38.275Z",
+ "exported": "2026-11-11T12:56:42.753Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5992,8 +5992,10 @@
    "birthDate": "15 05 1859",
    "birthPlace": "Dzielec",
    "deceased": true,
+   "deathDate": "04 11 1868",
+   "burialPlace": "Cieklin Dzielec",
    "notes": "Ur. i chrzest 15.05.1859, Dzielec nr 21. Chrzestni: Maciej Setlak, rolnik; Agata, żona Jana Wyżkiewicza. Akuszerka: Agata Rydarowicz.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec, s. 95 (ostatnia strona księgi)",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec, s. 95 (ostatnia strona księgi)\n\nAkt zgonu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=5520&kt=1&plik=032.jpg&x=0&y=0&zoom=1.25",
    "events": [],
    "fatherId": "pmw75ob3ehd43gn",
    "motherId": "pmw75ok7tznzsyj"
