@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:45:58.492Z",
+ "exported": "2026-11-11T18:46:25.848Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2023,7 +2023,7 @@
   },
   {
    "id": "pmvy5qxw3eiyx97",
-   "firstName": "Joanna",
+   "firstName": "Janina",
    "lastName": "Przybyłowicz",
    "gender": "K",
    "deceased": false,
