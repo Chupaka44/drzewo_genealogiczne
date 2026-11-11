@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T01:12:35.161Z",
+ "exported": "2026-11-11T01:14:10.107Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5693,7 +5693,7 @@
    "birthDate": "06 10 1802",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Chrzest Dzielec nr 16.",
+   "notes": "Chrzest Dzielec nr 16.\n\nŚlub 1829",
    "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)",
    "events": [],
    "fatherId": "pbxr1kj6c5mxu2w",
