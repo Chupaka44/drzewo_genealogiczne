@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T11:47:19.825Z",
+ "exported": "2026-11-11T11:55:44.975Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6475,6 +6475,18 @@
    "deceased": true,
    "sources": "z aktu ślubu Ignacego",
    "events": []
+  },
+  {
+   "id": "pmwc2bcpotl8k7t",
+   "firstName": "Paulina",
+   "lastName": "Makowiec",
+   "gender": "K",
+   "birthDate": "30 05 1826",
+   "deceased": true,
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5886&se=&sy=3525&kt=1&plik=041.jpg&x=1890&y=821&zoom=1.9100000000000001",
+   "events": [],
+   "fatherId": "pmwc0nhxh5jolnl",
+   "motherId": "pmwc0nrggjk68eb"
   }
  ],
  "unions": [
