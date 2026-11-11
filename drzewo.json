@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:54:09.575Z",
+ "exported": "2026-11-11T20:54:20.807Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7094,6 +7094,16 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwclk6vhycfikp",
+   "firstName": "Michał",
+   "lastName": "Bończak",
+   "gender": "M",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmwcljqty7iraa0",
+   "motherId": "pmwclj7isuqmauz"
   }
  ],
  "unions": [
