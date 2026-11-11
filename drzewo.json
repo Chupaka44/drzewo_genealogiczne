@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:22:18.686Z",
+ "exported": "2026-11-11T21:22:47.587Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7334,6 +7334,24 @@
    "deceased": false,
    "events": [],
    "fatherId": "pmwcmit9055iyab"
+  },
+  {
+   "id": "pmwcmkjt3a3jko5",
+   "firstName": "Aleksandra",
+   "lastName": "Łukasiewicz",
+   "gender": "K",
+   "deceased": false,
+   "events": []
+  },
+  {
+   "id": "pmwcmkstrmrx3dx",
+   "firstName": "Joanna",
+   "lastName": "Łukasiewicz",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmwcmit9055iyab",
+   "motherId": "pmwcmkjt3a3jko5"
   }
  ],
  "unions": [
@@ -8697,6 +8715,12 @@
    "id": "umwcmjay4zmksms",
    "a": "pmwcmio8fkoozz7",
    "b": "pmwcmj678mo47az",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcmkn9sr9mlas",
+   "a": "pmwcmit9055iyab",
+   "b": "pmwcmkjt3a3jko5",
    "status": "malzenstwo"
   }
  ]
