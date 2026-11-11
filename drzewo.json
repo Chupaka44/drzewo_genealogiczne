@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:54:36.988Z",
+ "exported": "2026-11-11T20:54:39.982Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7114,6 +7114,14 @@
    "events": [],
    "fatherId": "pmwcljqty7iraa0",
    "motherId": "pmwclj7isuqmauz"
+  },
+  {
+   "id": "pmwclko6spg8dmx",
+   "firstName": "Ewa",
+   "lastName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8435,6 +8443,12 @@
    "id": "umwcljx3vkmrme0",
    "a": "pmwclj7isuqmauz",
    "b": "pmwcljqty7iraa0",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwclkpt1cohk13",
+   "a": "pmwcljchyvd8v57",
+   "b": "pmwclko6spg8dmx",
    "status": "malzenstwo"
   }
  ]
