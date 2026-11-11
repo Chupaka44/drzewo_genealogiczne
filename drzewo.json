@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:45:53.895Z",
+ "exported": "2026-11-11T18:45:58.492Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6524,6 +6524,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcgz5hgc8ovb0",
+   "firstName": "Nadia",
+   "lastName": "Przybyłowicz",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmvy5oao7hj49da",
+   "motherId": "pmwcgyvezfnes5o"
   }
  ],
  "unions": [
