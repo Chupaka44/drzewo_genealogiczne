@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:10:20.019Z",
+ "exported": "2026-11-11T22:11:13.138Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7501,6 +7501,7 @@
   {
    "id": "pmwcnzoj2qa51ji",
    "firstName": "Michał",
+   "middleName": "Adam",
    "lastName": "Sarkowicz",
    "gender": "M",
    "deceased": true,
