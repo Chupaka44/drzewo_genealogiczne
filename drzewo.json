@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:42:55.584Z",
+ "exported": "2026-11-11T00:43:59.800Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6342,6 +6342,16 @@
    "events": [],
    "motherId": "pmwb8ofjpoviit8",
    "fatherId": "pmwb8n1l82kb4f0"
+  },
+  {
+   "id": "pmwbeb8c9zgrhqx",
+   "firstName": "Aniela",
+   "lastName": "Makowiec",
+   "gender": "K",
+   "birthDate": "26 06 1884",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmwbc3xhirxpetf"
   }
  ],
  "unions": [
