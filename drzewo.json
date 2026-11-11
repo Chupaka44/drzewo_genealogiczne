@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:53:40.213Z",
+ "exported": "2026-11-11T18:53:48.031Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1659,7 +1659,7 @@
   },
   {
    "id": "pmvy4zmbf5eroc7",
-   "firstName": "Marcin",
+   "firstName": "Maciej",
    "lastName": "Magiera",
    "gender": "M",
    "deceased": false,
