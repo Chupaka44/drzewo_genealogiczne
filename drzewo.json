@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T12:19:59.764Z",
+ "exported": "2026-11-11T12:44:01.169Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5659,7 +5659,7 @@
    "deathPlace": "Dzielec nr 18",
    "burialPlace": "Cieklin",
    "notes": "Zapis także Byrzek / Byrzkówna. Zmarła 27.10.1831 w Dzielcu nr 18, w wieku 50 lat (ur. ok. 1781). Przyczyna: \"ordinaria\" (zwykła), opatrzona sakramentami. Pochowana w Cieklinie.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844\nCieklin, księga 5520 Z-1784-1886-Dzielec, 1831",
+   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl); Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844\nCieklin, księga 5520 Z-1784-1886-Dzielec, 1831\n\nAkt śmierci:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=5520&kt=1&plik=017.jpg&x=6&y=514&zoom=2.44",
    "events": [],
    "fatherId": "pymkdm359sd86l3"
   },
