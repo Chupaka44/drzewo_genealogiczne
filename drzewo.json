@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:33:55.402Z",
+ "exported": "2026-11-11T21:34:20.077Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1031,10 +1031,12 @@
    "firstName": "Władysław",
    "lastName": "Synowiec",
    "gender": "M",
-   "deceased": false,
+   "birthDate": "00 09 1907",
+   "deceased": true,
+   "deathDate": "00 05 1961",
    "events": [],
-   "motherId": "pmwcknl5ib1pny5",
-   "fatherId": "pmwcksxkz2pl9sw"
+   "fatherId": "pmwcksxkz2pl9sw",
+   "motherId": "pmwcknl5ib1pny5"
   },
   {
    "id": "pmvy457x86n06sy",
