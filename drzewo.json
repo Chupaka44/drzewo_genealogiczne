@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:49:33.738Z",
+ "exported": "2026-11-11T22:51:36.264Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7662,9 +7662,10 @@
    "maidenName": "Zięba",
    "gender": "K",
    "deceased": true,
+   "sources": "Akt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=066.jpg&zoom=2.26",
    "events": [
     {
-     "date": "1935",
+     "date": "27 11 1935",
      "title": "Ślub",
      "place": "Stróżna"
     }
