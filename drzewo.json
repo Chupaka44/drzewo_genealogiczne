@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:08:08.052Z",
+ "exported": "2026-11-11T22:10:20.019Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7466,9 +7466,9 @@
    "firstName": "Stanisław",
    "lastName": "Sarkowicz",
    "gender": "M",
-   "birthDate": "1853",
+   "birthDate": "11 04 1953",
    "deceased": true,
-   "sources": "Akt Ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=012.jpg&x=250&y=359&zoom=1.7000000000000002",
+   "sources": "Akt Ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=012.jpg&x=250&y=359&zoom=1.7000000000000002\n\nAkt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=3600&kt=1&plik=092.jpg&x=232&y=658&zoom=1.4900000000000002",
    "events": [
     {
      "date": "27 10 1880",
