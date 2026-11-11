@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:50:36.354Z",
+ "exported": "2026-11-11T18:50:42.900Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2243,8 +2243,9 @@
   },
   {
    "id": "pmvy61w1doswyd9",
+   "firstName": "Marcjanna",
    "lastName": "Moździerz",
-   "gender": "N",
+   "gender": "K",
    "deceased": false,
    "events": [],
    "fatherId": "pmvy4wtio8ct9dc",
