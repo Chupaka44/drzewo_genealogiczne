@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T00:58:06.206Z",
+ "exported": "2026-11-11T00:58:35.806Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6408,7 +6408,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwbets7ldi8gkn"
+   "fatherId": "pmwbets7ldi8gkn",
+   "motherId": "pmwbetyrs1eygkz"
   },
   {
    "id": "pmwbets7ldi8gkn",
@@ -6416,6 +6417,16 @@
    "lastName": "Poliwka",
    "gender": "M",
    "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwbetyrs1eygkz",
+   "firstName": "Melania",
+   "lastName": "Poliwka",
+   "maidenName": "Sowyrda",
+   "gender": "K",
+   "deceased": true,
+   "notes": "Ślub 05 02 1837",
    "events": []
   }
  ],
@@ -7588,6 +7599,12 @@
    "id": "umwbetnl66z1xfn",
    "a": "pl8csjxpji03aie",
    "b": "pmwbetdhtfxaav1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwbeuk7ng6zbkf",
+   "a": "pmwbets7ldi8gkn",
+   "b": "pmwbetyrs1eygkz",
    "status": "malzenstwo"
   }
  ]
