@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:21:27.465Z",
+ "exported": "2026-11-11T20:21:33.652Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6642,6 +6642,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcke1xsdwj8b2",
+   "firstName": "Katarzyna",
+   "lastName": "Kozień",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmwck8b7c2z1gs8",
+   "motherId": "pmwckdxaywkpt47"
   }
  ],
  "unions": [
