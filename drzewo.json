@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:21:40.137Z",
+ "exported": "2026-11-11T20:21:59.233Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6629,7 +6629,7 @@
   },
   {
    "id": "pmwck8ig2xpmqa2",
-   "firstName": "Leszek",
+   "firstName": "Lesław",
    "lastName": "Fedyń",
    "gender": "M",
    "deceased": false,
