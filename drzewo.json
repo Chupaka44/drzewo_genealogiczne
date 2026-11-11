@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:12:37.424Z",
+ "exported": "2026-11-11T22:12:42.490Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7505,7 +7505,8 @@
    "gender": "M",
    "deceased": true,
    "events": [],
-   "motherId": "pmwcobetruznv2l"
+   "motherId": "pmwcobetruznv2l",
+   "fatherId": "pmwcod02up51lc5"
   },
   {
    "id": "pmwcnzvcuiul7a8",
@@ -7550,6 +7551,14 @@
    "maidenName": "Włódarz",
    "gender": "K",
    "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwcod02up51lc5",
+   "firstName": "Adam",
+   "lastName": "Sarkowicz",
+   "gender": "M",
+   "deceased": false,
    "events": []
   }
  ],
@@ -8956,6 +8965,12 @@
    "id": "umwco0l8n1qpdvs",
    "a": "pmwco085yncx484",
    "b": "pmwco0efqd4rbs1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcod2uo16voo1",
+   "a": "pmwcod02up51lc5",
+   "b": "pmwcobetruznv2l",
    "status": "malzenstwo"
   }
  ]
