@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:52:01.537Z",
+ "exported": "2026-11-11T22:52:44.229Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7692,6 +7692,14 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwcpscye3dhakf",
+   "firstName": "Stanisław",
+   "lastName": "Smoszna",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -9121,6 +9129,12 @@
    "id": "umwcpoh22zwd80d",
    "a": "pmwcpo14n6lth30",
    "b": "pmwcpo5nje9zl7k",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcpsk1m6ip062",
+   "a": "pmwcojljy2vjwlx",
+   "b": "pmwcpscye3dhakf",
    "status": "malzenstwo"
   }
  ]
