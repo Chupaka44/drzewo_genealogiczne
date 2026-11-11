@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T01:27:52.738Z",
+ "exported": "2026-11-11T01:28:25.425Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6051,6 +6051,7 @@
    "firstName": "Ignacy",
    "lastName": "Makowiec",
    "gender": "M",
+   "birthDate": "1826",
    "deceased": true,
    "notes": "Ślub 1850",
    "events": []
