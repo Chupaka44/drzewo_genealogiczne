@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:43:01.780Z",
+ "exported": "2026-11-11T20:43:22.369Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6913,6 +6913,14 @@
    "events": [],
    "motherId": "pmwcl4j76db1our",
    "fatherId": "pmwcl4znhyv8bxf"
+  },
+  {
+   "id": "pmwcl5vw30j5ajx",
+   "firstName": "Jadwiga",
+   "lastName": "Ludwin",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8186,6 +8194,12 @@
    "id": "umwcl54z1g17p25",
    "a": "pmwcl4j76db1our",
    "b": "pmwcl4znhyv8bxf",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcl66yhbjqfpy",
+   "a": "pmwcl56nxuq8dke",
+   "b": "pmwcl5vw30j5ajx",
    "status": "malzenstwo"
   }
  ]
