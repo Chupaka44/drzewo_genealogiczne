@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:33:35.000Z",
+ "exported": "2026-11-11T21:33:55.402Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1042,7 +1042,9 @@
    "lastName": "Synowiec",
    "maidenName": "Ligęza",
    "gender": "K",
-   "deceased": false,
+   "birthDate": "6 04 1911",
+   "deceased": true,
+   "deathDate": "28 03 1996",
    "events": [],
    "fatherId": "pmwckscuhujkpw5",
    "motherId": "pmwcksgu6jjt83v"
