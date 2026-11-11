@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:40:13.577Z",
+ "exported": "2026-11-11T21:46:55.135Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6765,7 +6765,8 @@
    "lastName": "Synowiec",
    "gender": "M",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmwcnfpom7sobw9"
   },
   {
    "id": "pmwckwdmvzu76k4",
@@ -7376,6 +7377,14 @@
    "events": [],
    "fatherId": "pmwcmit9055iyab",
    "motherId": "pmwcmkjt3a3jko5"
+  },
+  {
+   "id": "pmwcnfpom7sobw9",
+   "firstName": "Tomasz",
+   "lastName": "Synowiec",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
