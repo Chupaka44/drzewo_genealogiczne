@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:35:11.796Z",
+ "exported": "2026-11-11T22:36:35.593Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1056,7 +1056,7 @@
    "birthDate": "6 04 1911",
    "deceased": true,
    "deathDate": "28 03 1996",
-   "sources": "Ślub:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=060.jpg&x=1586&y=530&zoom=1.8399999999999999",
+   "sources": "Ślub:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4756&se=&sy=4560&kt=1&plik=060.jpg&x=1586&y=530&zoom=1.8399999999999999\n\nAkt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=4904&se=&sy=3500&kt=1&plik=159.jpg&x=1235&y=1396&zoom=1.88",
    "events": [],
    "fatherId": "pmwckscuhujkpw5",
    "motherId": "pmwcksgu6jjt83v"
