@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:23:13.882Z",
+ "exported": "2026-11-11T20:23:24.398Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6655,7 +6655,7 @@
   },
   {
    "id": "pmwcke6qoeddz75",
-   "firstName": "Córka?",
+   "firstName": "Anna",
    "lastName": "Kozień",
    "gender": "M",
    "deceased": false,
