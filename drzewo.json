@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:54:18.680Z",
+ "exported": "2026-11-11T19:56:18.804Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3421,6 +3421,7 @@
   },
   {
    "id": "pmvyal0s1q5wicj",
+   "firstName": "Sabina",
    "lastName": "Szary",
    "gender": "K",
    "deceased": false,
