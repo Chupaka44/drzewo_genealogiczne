@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:18:26.636Z",
+ "exported": "2026-11-11T22:18:39.360Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7609,6 +7609,17 @@
    "lastName": "Ligęza",
    "gender": "M",
    "birthDate": "1915",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmwcksgu6jjt83v",
+   "fatherId": "pmwckscuhujkpw5"
+  },
+  {
+   "id": "pmwcokigm5s4480",
+   "firstName": "Ludwik",
+   "lastName": "Ligęza",
+   "gender": "M",
+   "birthDate": "1918",
    "deceased": true,
    "events": [],
    "motherId": "pmwcksgu6jjt83v",
