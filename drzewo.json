@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:50:52.606Z",
+ "exported": "2026-11-11T21:51:07.540Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6751,7 +6751,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwcnkcpjjancdg"
+   "fatherId": "pmwcnkcpjjancdg",
+   "motherId": "pmwcnl1vxs6j0hk"
   },
   {
    "id": "pmwcksgu6jjt83v",
@@ -7428,6 +7429,15 @@
    "firstName": "Michał",
    "lastName": "Ligęza",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwcnl1vxs6j0hk",
+   "firstName": "Marianna",
+   "lastName": "Ligęza",
+   "maidenName": "Ptaszkowska",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -8811,6 +8821,12 @@
    "id": "umwcngqkoer1jih",
    "a": "pmwcng95yimkq07",
    "b": "pmwcngg6mn5drsc",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcnlbnjvcys17",
+   "a": "pmwcnkcpjjancdg",
+   "b": "pmwcnl1vxs6j0hk",
    "status": "malzenstwo"
   }
  ]
