@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:35:29.763Z",
+ "exported": "2026-11-11T21:35:46.333Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1006,7 +1006,9 @@
    "lastName": "Pater",
    "maidenName": "Synowiec",
    "gender": "K",
-   "deceased": false,
+   "birthDate": "29 04 1944",
+   "deceased": true,
+   "deathDate": "06 07 2023",
    "events": [],
    "fatherId": "pmvy44zwsqnzrbp",
    "motherId": "pmvy457x86n06sy"
