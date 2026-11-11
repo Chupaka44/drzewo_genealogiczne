@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:21:02.556Z",
+ "exported": "2026-11-11T21:21:09.123Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7275,6 +7275,16 @@
    "gender": "M",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwcmio8fkoozz7",
+   "firstName": "Anna",
+   "lastName": "Zając",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "motherId": "pmwcmh0fev0gthj",
+   "fatherId": "pmwcmihsyo0h6b9"
   }
  ],
  "unions": [
