@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T18:50:49.807Z",
+ "exported": "2026-11-11T18:50:54.631Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2263,8 +2263,9 @@
   },
   {
    "id": "pmvy61ykbiz6or4",
+   "firstName": "Antonina",
    "lastName": "Moździerz",
-   "gender": "N",
+   "gender": "K",
    "deceased": false,
    "events": [],
    "fatherId": "pmvy4wtio8ct9dc",
