@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T22:52:56.977Z",
+ "exported": "2026-11-11T22:53:24.392Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7700,7 +7700,8 @@
    "gender": "M",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwcpsqhz3rt2km"
+   "fatherId": "pmwcpsqhz3rt2km",
+   "motherId": "pmwcpsv9benwb9n"
   },
   {
    "id": "pmwcpsqhz3rt2km",
@@ -7709,6 +7710,21 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwcpsv9benwb9n",
+   "firstName": "Maria",
+   "lastName": "Smoszna",
+   "maidenName": "Zięba",
+   "gender": "K",
+   "deceased": true,
+   "events": [
+    {
+     "date": "1926",
+     "title": "ślub",
+     "place": "Stróżna"
+    }
+   ]
   }
  ],
  "unions": [
@@ -9144,6 +9160,12 @@
    "id": "umwcpsk1m6ip062",
    "a": "pmwcojljy2vjwlx",
    "b": "pmwcpscye3dhakf",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwcptf15y0qytx",
+   "a": "pmwcpsqhz3rt2km",
+   "b": "pmwcpsv9benwb9n",
    "status": "malzenstwo"
   }
  ]
