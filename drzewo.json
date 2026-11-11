@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:24:51.758Z",
+ "exported": "2026-11-11T21:33:17.017Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6725,7 +6725,9 @@
    "lastName": "Synowiec",
    "maidenName": "Zacharjasz",
    "gender": "K",
-   "deceased": false,
+   "birthDate": "00 06 1889",
+   "deceased": true,
+   "deathDate": "00 11 1991",
    "events": []
   },
   {
