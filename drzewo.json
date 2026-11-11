@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:44:09.072Z",
+ "exported": "2026-11-11T20:44:29.571Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6926,13 +6926,13 @@
   {
    "id": "pmwcl6nx8lmy7ml",
    "firstName": "Magdalena",
-   "lastName": "Patrzyk",
+   "lastName": "Pawluś",
    "maidenName": "Ludwin",
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwcl4j76db1our",
-   "fatherId": "pmwcl4znhyv8bxf"
+   "fatherId": "pmwcl4znhyv8bxf",
+   "motherId": "pmwcl4j76db1our"
   }
  ],
  "unions": [
