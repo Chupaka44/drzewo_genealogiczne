@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T20:56:46.487Z",
+ "exported": "2026-11-11T20:56:53.657Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7182,6 +7182,14 @@
    "events": [],
    "motherId": "pmvy2xrb5j78j6n",
    "fatherId": "pmvy2xfac8000j4"
+  },
+  {
+   "id": "pmwclnjqe6y510l",
+   "firstName": "Paulina",
+   "lastName": "Czech",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -8515,6 +8523,12 @@
    "id": "umwclloq6qlpz6u",
    "a": "pmwclkzrufy2i5u",
    "b": "pmwcllevffwnve8",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwclnma6qh97s0",
+   "a": "pmwclncf88vd8kk",
+   "b": "pmwclnjqe6y510l",
    "status": "malzenstwo"
   }
  ]
