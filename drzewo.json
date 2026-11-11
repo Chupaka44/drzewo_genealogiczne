@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T01:00:55.729Z",
+ "exported": "2026-11-11T01:12:13.353Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6433,8 +6433,10 @@
    "firstName": "Anna",
    "lastName": "Setlak",
    "gender": "K",
+   "birthDate": "00 04 1842",
    "deceased": true,
-   "deathDate": "1845",
+   "deathDate": "01 11 1845",
+   "sources": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/f2e491c4cbaa115810c4301e428d73cd3f57a53101a8ed3ede62225d56cf126e",
    "events": [],
    "fatherId": "pl8csjxpji03aie",
    "motherId": "pmwbetdhtfxaav1"
