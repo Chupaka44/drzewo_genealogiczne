@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-11T21:21:54.989Z",
+ "exported": "2026-11-11T21:22:12.936Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7316,6 +7316,15 @@
    "events": [],
    "motherId": "pmwcmio8fkoozz7",
    "fatherId": "pmwcmj678mo47az"
+  },
+  {
+   "id": "pmwcmk2niauvdd2",
+   "firstName": "Joanna",
+   "lastName": "Łukasiewicz",
+   "gender": "K",
+   "deceased": false,
+   "events": [],
+   "fatherId": "pmwcmit9055iyab"
   }
  ],
  "unions": [
