@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T20:32:19.160Z",
+ "exported": "2026-11-12T20:36:38.963Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5250,7 +5250,7 @@
    "deathDate": "23 10 1931",
    "burialPlace": "Libusza",
    "occupation": "rolnik",
-   "sources": "Akt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1863&kt=1&plik=009.jpg&x=92&y=1500&zoom=1.7999999999999998\n\nAkt zgonu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=033.jpg&x=59&y=1830&zoom=1.9700000000000002",
+   "sources": "Akt urodzenia 4 kolumna:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1863&kt=1&plik=009.jpg&x=92&y=1500&zoom=1.7999999999999998\n\nAkt zgonu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=033.jpg&x=59&y=1830&zoom=1.9700000000000002",
    "events": [],
    "fatherId": "pmwdx07zkyyh3kh",
    "motherId": "pmwdx17m8edlb4h"
