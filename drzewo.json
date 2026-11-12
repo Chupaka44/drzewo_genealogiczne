@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:12:41.304Z",
+ "exported": "2026-11-12T21:17:04.003Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8121,6 +8121,15 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwe1si0oxx5nzc",
+   "firstName": "Andrzej",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "deceased": false,
+   "notes": "Apolonia owdowiała po nim, wzięła drugi ślub",
+   "events": []
   }
  ],
  "unions": [
@@ -9598,6 +9607,12 @@
    "id": "umwe1iauym0q9nw",
    "a": "pmwe1hyh8uid22f",
    "b": "pmwe1i4br5u7c7e",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwe1tdixo0lx8r",
+   "a": "pmwdx17m8edlb4h",
+   "b": "pmwe1si0oxx5nzc",
    "status": "malzenstwo"
   }
  ]
