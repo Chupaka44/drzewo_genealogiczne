@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:09:50.305Z",
+ "exported": "2026-11-12T22:10:13.912Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8163,6 +8163,16 @@
    "gender": "K",
    "deceased": false,
    "events": []
+  },
+  {
+   "id": "pmwe3paafaigs0r",
+   "firstName": "Mikołaj",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "deceased": true,
+   "notes": "Owdowił Zofię",
+   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002",
+   "events": []
   }
  ],
  "unions": [
@@ -9652,6 +9662,12 @@
    "id": "umwe3luspnlwme8",
    "a": "pmwe3jomymk94ks",
    "b": "pmwe3juivv2aoyj",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwe3pqv5uylfhm",
+   "a": "pmwdxwyyn03ywx7",
+   "b": "pmwe3paafaigs0r",
    "status": "malzenstwo"
   }
  ]
