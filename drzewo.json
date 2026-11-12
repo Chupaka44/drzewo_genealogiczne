@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:49:46.482Z",
+ "exported": "2026-11-12T22:52:40.710Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8216,6 +8216,18 @@
    "events": [],
    "fatherId": "pmwe1hyh8uid22f",
    "motherId": "pmwe1i4br5u7c7e"
+  },
+  {
+   "id": "pmwe574rrhg9t1p",
+   "firstName": "Ignacy",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": true,
+   "deathDate": "13 03 1875",
+   "sources": "akt zgonu poz. 15:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=026.jpg&x=1688&y=1331&zoom=1.4700000000000002",
+   "events": [],
+   "fatherId": "pmwdx07zkyyh3kh",
+   "motherId": "pmwdx17m8edlb4h"
   }
  ],
  "unions": [
