@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T19:02:39.124Z",
+ "exported": "2026-11-12T19:03:19.586Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5231,7 +5231,8 @@
    "deceased": false,
    "occupation": "rolnik",
    "events": [],
-   "fatherId": "pmwdx07zkyyh3kh"
+   "fatherId": "pmwdx07zkyyh3kh",
+   "motherId": "pmwdx17m8edlb4h"
   },
   {
    "id": "pmw7vq12rg6a0d7",
@@ -7952,6 +7953,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwdx17m8edlb4h",
+   "firstName": "Apolonia",
+   "lastName": "Mazurek",
+   "maidenName": "Śliwa",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -9411,6 +9421,12 @@
    "id": "umwdvmoerkuwfm4",
    "a": "pmwdvlrkfm0wc0s",
    "b": "pmwdvm60gt26kdp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwdx1dubhoe7sy",
+   "a": "pmwdx07zkyyh3kh",
+   "b": "pmwdx17m8edlb4h",
    "status": "malzenstwo"
   }
  ]
