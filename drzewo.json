@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:24:09.479Z",
+ "exported": "2026-11-12T21:24:16.212Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8120,6 +8120,15 @@
    "lastName": "Mazurek",
    "maidenName": "Lignar",
    "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmwe22ilybgzxfh"
+  },
+  {
+   "id": "pmwe22ilybgzxfh",
+   "firstName": "Sebastian",
+   "lastName": "Lignar",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
