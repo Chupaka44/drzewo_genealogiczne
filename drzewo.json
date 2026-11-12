@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T20:52:28.317Z",
+ "exported": "2026-11-12T20:53:20.757Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8009,6 +8009,17 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwe0ynp30cbsel",
+   "firstName": "Antoni",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "birthDate": "10 06 1861",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmwdx07zkyyh3kh",
+   "motherId": "pmwdx17m8edlb4h"
   }
  ],
  "unions": [
