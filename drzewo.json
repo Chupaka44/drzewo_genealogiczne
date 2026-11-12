@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T19:34:01.241Z",
+ "exported": "2026-11-12T19:43:00.349Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5392,6 +5392,7 @@
   },
   {
    "id": "pmw7wayhkvdk5c7",
+   "firstName": "Franciszek",
    "lastName": "Nalepa",
    "gender": "M",
    "deceased": false,
