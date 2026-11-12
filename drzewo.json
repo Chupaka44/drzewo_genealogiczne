@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T19:01:45.374Z",
+ "exported": "2026-11-12T19:01:57.728Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -128,6 +128,7 @@
    "birthDate": "15 09 1903",
    "deceased": true,
    "deathDate": "14 08 1969",
+   "sources": "akt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=031.jpg&x=10&y=1580&zoom=1.9700000000000002",
    "events": [],
    "fatherId": "pmw7vjup0e6y0hk",
    "motherId": "pmw7vjpahf78aau"
