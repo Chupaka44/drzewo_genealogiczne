@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:06:07.210Z",
+ "exported": "2026-11-12T21:08:18.259Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7978,7 +7978,8 @@
    "gender": "M",
    "deceased": true,
    "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3",
-   "events": []
+   "events": [],
+   "fatherId": "pmwe1hyh8uid22f"
   },
   {
    "id": "pmwdx17m8edlb4h",
@@ -8081,6 +8082,14 @@
    "events": [],
    "fatherId": "pmwdx07zkyyh3kh",
    "motherId": "pmwdx17m8edlb4h"
+  },
+  {
+   "id": "pmwe1hyh8uid22f",
+   "firstName": "Stanisław",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
