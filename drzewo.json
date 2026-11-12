@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:16:20.153Z",
+ "exported": "2026-11-12T18:18:24.486Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7811,6 +7811,19 @@
    "burialPlace": "Kryg",
    "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=06mp&rid=12968&search_lastname=Ludwin&search_name=Adam&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=&ordertable=",
    "events": []
+  },
+  {
+   "id": "pmwdvf4i01ksgns",
+   "firstName": "Marianna",
+   "lastName": "Ludwin",
+   "gender": "K",
+   "birthDate": "29 05 1830",
+   "birthPlace": "Kryg",
+   "deceased": true,
+   "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=06mp&rid=12967&search_lastname=Ludwin&search_name=Anna&search_lastname2=Ludwin&search_name2=Adam&from_date=&to_date=&near=1",
+   "events": [],
+   "motherId": "pmwdu5d6wkjcb9w",
+   "fatherId": "pmwdu4p5bbaqa5q"
   }
  ],
  "unions": [
