@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:17:13.391Z",
+ "exported": "2026-11-12T21:19:15.205Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7978,7 +7978,7 @@
    "gender": "M",
    "birthDate": "30 09 1834",
    "deceased": true,
-   "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\n\nAkt chrztu Władysława ostatni wpis prawa strona:",
+   "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\n\nAkt chrztu Władysława ostatni wpis prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1834&kt=1&plik=003.jpg&x=1271&y=2536&zoom=2.4800000000000004",
    "events": [],
    "fatherId": "pmwe1hyh8uid22f",
    "motherId": "pmwe1i4br5u7c7e"
