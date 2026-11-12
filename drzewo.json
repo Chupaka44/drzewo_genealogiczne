@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:07:12.378Z",
+ "exported": "2026-11-12T22:09:23.539Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8021,6 +8021,7 @@
    "maidenName": "Baran",
    "gender": "K",
    "deceased": true,
+   "notes": "Wdowa po zmarłym Mikołaju Przybyłowiczu",
    "sources": "wiemy o nim z aktu ślubu Władysława i Apoloni poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&x=3&y=574&zoom=1.5\n\nakt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002",
    "events": [
     {
