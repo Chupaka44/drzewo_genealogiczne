@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T20:13:28.063Z",
+ "exported": "2026-11-12T20:13:38.667Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7968,7 +7968,7 @@
    "maidenName": "Zawadowicz",
    "gender": "K",
    "deceased": true,
-   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05",
+   "sources": "z aktu urodzenia wnuczki Zofii Ludwin:\nAkt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05\n\n\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05",
    "events": []
   },
   {
