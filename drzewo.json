@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:09:30.211Z",
+ "exported": "2026-11-12T18:10:07.252Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7801,7 +7801,12 @@
    "lastName": "Ludwin",
    "maidenName": "Przybyłowicz",
    "gender": "K",
+   "birthDate": "1808",
    "deceased": true,
+   "deathDate": "25 11 1826",
+   "deathPlace": "Ślub",
+   "burialPlace": "Kryg",
+   "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=06mp&rid=12968&search_lastname=Ludwin&search_name=Adam&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=&ordertable=",
    "events": []
   }
  ],
