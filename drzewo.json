@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T19:01:57.728Z",
+ "exported": "2026-11-12T19:02:39.124Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5230,7 +5230,8 @@
    "gender": "M",
    "deceased": false,
    "occupation": "rolnik",
-   "events": []
+   "events": [],
+   "fatherId": "pmwdx07zkyyh3kh"
   },
   {
    "id": "pmw7vq12rg6a0d7",
@@ -7942,6 +7943,14 @@
    "gender": "K",
    "deceased": true,
    "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05",
+   "events": []
+  },
+  {
+   "id": "pmwdx07zkyyh3kh",
+   "firstName": "Władysław",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": true,
    "events": []
   }
  ],
