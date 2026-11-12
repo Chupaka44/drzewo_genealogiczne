@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T17:44:16.589Z",
+ "exported": "2026-11-12T17:44:28.817Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -392,7 +392,7 @@
   },
   {
    "id": "pmvy31i00is89mp",
-   "firstName": "Alfred",
+   "firstName": "Daj na głośnik Alfred",
    "lastName": "Mazurek",
    "gender": "M",
    "birthDate": "02 06 1931",
