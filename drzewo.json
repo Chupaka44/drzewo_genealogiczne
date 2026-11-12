@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T17:37:57.387Z",
+ "exported": "2026-11-12T17:41:14.761Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5217,7 +5217,8 @@
    "deathDate": "12 04 1944",
    "burialPlace": "Libusza",
    "notes": "akt chrztu Tekli: https://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1020&y=98&zoom=1.7699999999999996\nakt zgonu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=054.jpg&zoom=3.97",
-   "events": []
+   "events": [],
+   "fatherId": "pmwdu3gqpgdofg9"
   },
   {
    "id": "pmw7vjup0e6y0hk",
@@ -7753,6 +7754,15 @@
    "events": [],
    "fatherId": "pmw2qe3vehknpro",
    "motherId": "pmw2rx7a4yckp91"
+  },
+  {
+   "id": "pmwdu3gqpgdofg9",
+   "firstName": "Wawrzyniec",
+   "lastName": "Kosiba",
+   "gender": "M",
+   "deceased": true,
+   "occupation": "rolnik",
+   "events": []
   }
  ],
  "unions": [
