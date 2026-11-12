@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:11:44.823Z",
+ "exported": "2026-11-12T21:12:13.140Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7976,7 +7976,7 @@
    "firstName": "Władysław",
    "lastName": "Mazurek",
    "gender": "M",
-   "birthDate": "30 09 1883",
+   "birthDate": "30 09 1834",
    "deceased": true,
    "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\n\nAkt chrztu Władysława ostatni wpis prawa strona:",
    "events": [],
