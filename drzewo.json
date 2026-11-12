@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T19:45:54.616Z",
+ "exported": "2026-11-12T19:48:25.714Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -411,7 +411,7 @@
    "gender": "M",
    "birthDate": "02 06 1931",
    "deceased": true,
-   "deathDate": "29 01 1994",
+   "deathDate": "29 01 1995",
    "burialPlace": "Libusza",
    "events": [],
    "fatherId": "pmvy2qcbascca8r",
