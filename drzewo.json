@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:41:55.838Z",
+ "exported": "2026-11-12T22:44:28.788Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8089,7 +8089,9 @@
    "gender": "M",
    "birthDate": "03 10 1867",
    "deceased": true,
-   "sources": "akt urodzenia poz. 49:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1168&y=1842&zoom=2.05",
+   "deathDate": "5 10 1867",
+   "deathCause": "osłabienie",
+   "sources": "akt urodzenia poz. 49:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1168&y=1842&zoom=2.05\n\nakt zgonu poz.23:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=015.jpg&x=2099&y=167&zoom=1.4700000000000002",
    "events": [],
    "fatherId": "pmwdx07zkyyh3kh",
    "motherId": "pmwdx17m8edlb4h"
