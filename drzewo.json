@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T17:41:37.985Z",
+ "exported": "2026-11-12T17:41:53.574Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5218,7 +5218,8 @@
    "burialPlace": "Libusza",
    "notes": "akt chrztu Tekli: https://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1020&y=98&zoom=1.7699999999999996\nakt zgonu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=054.jpg&zoom=3.97",
    "events": [],
-   "fatherId": "pmwdu3gqpgdofg9"
+   "fatherId": "pmwdu3gqpgdofg9",
+   "motherId": "pmwdu4czbqc8b2i"
   },
   {
    "id": "pmw7vjup0e6y0hk",
@@ -7764,6 +7765,15 @@
    "occupation": "rolnik",
    "sources": "Informacja z chrztu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1568&y=371&zoom=1.7699999999999996",
    "events": []
+  },
+  {
+   "id": "pmwdu4czbqc8b2i",
+   "firstName": "Maria",
+   "lastName": "Kosiba",
+   "maidenName": "Ludwin",
+   "gender": "K",
+   "deceased": false,
+   "events": []
   }
  ],
  "unions": [
@@ -9205,6 +9215,12 @@
    "id": "umwcptf15y0qytx",
    "a": "pmwcpsqhz3rt2km",
    "b": "pmwcpsv9benwb9n",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwdu4nrtdp4s8y",
+   "a": "pmwdu3gqpgdofg9",
+   "b": "pmwdu4czbqc8b2i",
    "status": "malzenstwo"
   }
  ]
