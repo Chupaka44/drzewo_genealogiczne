@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T12:47:22.304Z",
+ "exported": "2026-11-12T12:50:44.057Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7736,6 +7736,20 @@
      "place": "Stróżna"
     }
    ]
+  },
+  {
+   "id": "pmwdjosr75usvhv",
+   "firstName": "Maria",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "04 06 1944",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "04 06 1944",
+   "deathPlace": "Libusza",
+   "events": [],
+   "fatherId": "pmw2qe3vehknpro",
+   "motherId": "pmw2rx7a4yckp91"
   }
  ],
  "unions": [
