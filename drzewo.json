@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:38:03.195Z",
+ "exported": "2026-11-12T22:41:55.838Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8063,7 +8063,9 @@
    "gender": "M",
    "birthDate": "05 07 1864",
    "deceased": true,
-   "sources": "akt chrztu poz. 34:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1864&kt=1&plik=004.jpg&x=0&y=1153&zoom=1.87",
+   "deathDate": "27 10 1866",
+   "burialPlace": "Libusza",
+   "sources": "akt chrztu poz. 34:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1864&kt=1&plik=004.jpg&x=0&y=1153&zoom=1.87\n\nAkt zgonu poz. 13:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=013.jpg&x=135&y=2091&zoom=1.4700000000000002",
    "events": [],
    "fatherId": "pmwdx07zkyyh3kh",
    "motherId": "pmwdx17m8edlb4h"
