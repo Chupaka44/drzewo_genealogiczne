@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T20:01:47.737Z",
+ "exported": "2026-11-12T20:13:28.063Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7957,7 +7957,7 @@
    "gender": "M",
    "deceased": true,
    "occupation": "komornik",
-   "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05",
+   "sources": "z aktu urodzenia wnuczki Zofii Ludwin:\nAkt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05\n\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05",
    "events": []
   },
   {
