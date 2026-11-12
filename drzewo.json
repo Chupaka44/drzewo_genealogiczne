@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T23:04:12.426Z",
+ "exported": "2026-11-12T23:05:22.767Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8014,8 +8014,12 @@
    "firstName": "Bartłomiej",
    "lastName": "Śliwa",
    "gender": "M",
+   "birthDate": "1812",
    "deceased": true,
-   "sources": "do sprawdzenia akt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3505&kt=1&plik=047.jpg&x=637&y=170&zoom=2.22\n\nakt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002",
+   "deathDate": "02 04 1877",
+   "burialPlace": "Libusza",
+   "deathCause": "udar",
+   "sources": "do sprawdzenia akt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3505&kt=1&plik=047.jpg&x=637&y=170&zoom=2.22\n\nakt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002\n\nakt zgonu bartłomieja śliwy (żył w małżeństwie 18 lat) poz. 11:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=029.jpg&x=365&y=2020&zoom=1.4700000000000002",
    "events": [
     {
      "date": "13 11 1833",
