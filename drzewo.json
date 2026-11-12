@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:08:38.655Z",
+ "exported": "2026-11-12T21:09:38.031Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8011,7 +8011,8 @@
    "maidenName": "Baran",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwe1jofr5mpjvx"
   },
   {
    "id": "pmwe0ynp30cbsel",
@@ -8099,6 +8100,14 @@
    "lastName": "Mazurek",
    "maidenName": "Lignar",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwe1jofr5mpjvx",
+   "firstName": "Paweł",
+   "lastName": "Baran",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
