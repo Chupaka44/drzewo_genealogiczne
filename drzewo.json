@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:03:31.917Z",
+ "exported": "2026-11-12T18:03:41.833Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7792,7 +7792,7 @@
    "id": "pmwdu5d6wkjcb9w",
    "firstName": "Anna",
    "lastName": "Ludwin",
-   "maidenName": "Przybyło",
+   "maidenName": "Przybyłowicz",
    "gender": "K",
    "deceased": true,
    "events": []
