@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T12:50:44.057Z",
+ "exported": "2026-11-12T16:48:29.356Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5216,6 +5216,7 @@
    "deceased": true,
    "deathDate": "12 04 1944",
    "burialPlace": "Libusza",
+   "notes": "akt zgonu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=054.jpg&zoom=3.97",
    "events": []
   },
   {
