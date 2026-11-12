@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:30:24.312Z",
+ "exported": "2026-11-12T18:30:56.021Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7914,6 +7914,8 @@
    "birthDate": "25 04 1851",
    "birthPlace": "Kryg",
    "deceased": true,
+   "deathDate": "02 07 1853",
+   "burialPlace": "Kryg",
    "sources": "Akt urodzenia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=1&plik=003.jpg&x=0&y=1606&zoom=2.05",
    "events": [],
    "fatherId": "pmwdu4p5bbaqa5q",
