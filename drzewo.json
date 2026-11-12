@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:10:13.912Z",
+ "exported": "2026-11-12T22:18:41.223Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8173,6 +8173,31 @@
    "notes": "Owdowił Zofię",
    "sources": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002",
    "events": []
+  },
+  {
+   "id": "pmwe3v3ynlfd20i",
+   "firstName": "Antonina",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "birthDate": "19 01 1828",
+   "deceased": true,
+   "deathDate": "23 05 1828",
+   "sources": "Akt urodzenia poz.2:\n https://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1828&kt=1&plik=001.jpg&x=0&y=707&zoom=1.4500000000000002\n\nAkt zgonu poz. 4 strona prawa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1828&kt=3&plik=001.jpg&x=1374&y=623&zoom=2.21",
+   "events": [],
+   "fatherId": "pmwe1hyh8uid22f",
+   "motherId": "pmwe1i4br5u7c7e"
+  },
+  {
+   "id": "pmwe3zjqui7474l",
+   "firstName": "Antonina",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "birthDate": "12 12 1829",
+   "deceased": false,
+   "sources": "akt urodzenia poz. ostatnia lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3505&kt=1&plik=096.jpg&x=45&y=672&zoom=2.22",
+   "events": [],
+   "fatherId": "pmwe1hyh8uid22f",
+   "motherId": "pmwe1i4br5u7c7e"
   }
  ],
  "unions": [
