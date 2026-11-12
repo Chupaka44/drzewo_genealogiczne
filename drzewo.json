@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:10:07.252Z",
+ "exported": "2026-11-12T18:10:22.264Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7785,6 +7785,7 @@
    "firstName": "Adam",
    "lastName": "Ludwin",
    "gender": "M",
+   "birthDate": "1802",
    "deceased": true,
    "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=06mp&rid=12968&search_lastname=Ludwin&search_name=Adam&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=&ordertable=",
    "events": [
