@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T23:02:43.926Z",
+ "exported": "2026-11-12T23:04:12.426Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8238,6 +8238,7 @@
    "maidenName": "Świerz",
    "gender": "K",
    "deceased": true,
+   "sources": "akt zgonu bartłomieja śliwy (żył w małżeństwie 18 lat) poz. 11:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=029.jpg&x=365&y=2020&zoom=1.4700000000000002",
    "events": []
   }
  ],
