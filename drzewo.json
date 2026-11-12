@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:18:41.223Z",
+ "exported": "2026-11-12T22:37:37.448Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7979,7 +7979,13 @@
    "birthDate": "30 09 1834",
    "deceased": true,
    "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\n\nAkt chrztu Władysława ostatni wpis prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1834&kt=1&plik=003.jpg&x=1271&y=2536&zoom=2.4800000000000004",
-   "events": [],
+   "events": [
+    {
+     "date": "24 09 1860",
+     "title": "ślub z Władysławem",
+     "place": "Libusza"
+    }
+   ],
    "fatherId": "pmwe1hyh8uid22f",
    "motherId": "pmwe1i4br5u7c7e"
   },
