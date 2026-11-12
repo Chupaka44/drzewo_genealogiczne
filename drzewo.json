@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:19:29.481Z",
+ "exported": "2026-11-12T18:19:48.671Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7844,6 +7844,18 @@
    "lastName": "Ludwin",
    "gender": "M",
    "birthDate": "17 04 1839",
+   "birthPlace": "Kryg",
+   "deceased": true,
+   "events": [],
+   "motherId": "pmwdu5d6wkjcb9w",
+   "fatherId": "pmwdu4p5bbaqa5q"
+  },
+  {
+   "id": "pmwdvh20oaawak4",
+   "firstName": "Michał",
+   "lastName": "Ludwin",
+   "gender": "M",
+   "birthDate": "13 09 1840",
    "birthPlace": "Kryg",
    "deceased": true,
    "events": [],
