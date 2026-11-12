@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T17:42:25.063Z",
+ "exported": "2026-11-12T17:44:16.589Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7774,7 +7774,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdu4p5bbaqa5q",
@@ -7782,6 +7783,13 @@
    "lastName": "Ludwin",
    "gender": "M",
    "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwdu5d6wkjcb9w",
+   "firstName": "Anna",
+   "gender": "K",
+   "deceased": false,
    "events": []
   }
  ],
@@ -9230,6 +9238,12 @@
    "id": "umwdu4nrtdp4s8y",
    "a": "pmwdu3gqpgdofg9",
    "b": "pmwdu4czbqc8b2i",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwdu7q44c5ycbt",
+   "a": "pmwdu4p5bbaqa5q",
+   "b": "pmwdu5d6wkjcb9w",
    "status": "malzenstwo"
   }
  ]
