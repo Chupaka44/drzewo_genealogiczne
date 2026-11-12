@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T22:55:46.606Z",
+ "exported": "2026-11-12T22:57:07.034Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8225,7 +8225,7 @@
    "birthDate": "03 01 1872",
    "birthPlace": "Libusza",
    "deceased": true,
-   "deathDate": "13 03 1875",
+   "deathDate": "16 03 1875",
    "sources": "akt narodzin poz. ostatnia prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3515&kt=1&plik=124.jpg&x=1546&y=2024&zoom=2.0300000000000002\n\nakt zgonu poz. 15:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=026.jpg&x=1688&y=1331&zoom=1.4700000000000002",
    "events": [],
    "fatherId": "pmwdx07zkyyh3kh",
