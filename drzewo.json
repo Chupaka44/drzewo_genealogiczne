@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:19:15.205Z",
+ "exported": "2026-11-12T21:23:42.999Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8119,7 +8119,7 @@
    "id": "pmwe1ksoo00kt3j",
    "firstName": "Sebastian",
    "lastName": "Lignar",
-   "gender": "K",
+   "gender": "M",
    "deceased": true,
    "events": []
   },
