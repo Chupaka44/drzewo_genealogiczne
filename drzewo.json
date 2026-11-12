@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T23:10:17.095Z",
+ "exported": "2026-11-12T23:21:20.137Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8260,6 +8260,15 @@
    "deceased": true,
    "sources": "akt zgonu bartłomieja śliwy (żył w małżeństwie 18 lat) poz. 11:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=029.jpg&x=365&y=2020&zoom=1.4700000000000002",
    "events": []
+  },
+  {
+   "id": "pmwe68iv2ru7pj7",
+   "firstName": "Józef",
+   "lastName": "Oleszkiewicz",
+   "gender": "M",
+   "deceased": false,
+   "notes": "Owdowił Annę Śliwę",
+   "events": []
   }
  ],
  "unions": [
@@ -9761,6 +9770,12 @@
    "id": "umwe5l9fsg0gge2",
    "a": "pmwdxwph2cdrb7r",
    "b": "pmwe5l0tqcqsrdp",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwe696pth6rv3m",
+   "a": "pmwe5l0tqcqsrdp",
+   "b": "pmwe68iv2ru7pj7",
    "status": "malzenstwo"
   }
  ]
