@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:24:16.212Z",
+ "exported": "2026-11-12T21:39:31.216Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8116,7 +8116,7 @@
   },
   {
    "id": "pmwe1i4br5u7c7e",
-   "firstName": "Maria",
+   "firstName": "Anna",
    "lastName": "Mazurek",
    "maidenName": "Lignar",
    "gender": "K",
