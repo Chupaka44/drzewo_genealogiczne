@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T21:23:42.999Z",
+ "exported": "2026-11-12T21:23:54.015Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7980,8 +7980,7 @@
    "deceased": true,
    "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\n\nAkt chrztu Władysława ostatni wpis prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1834&kt=1&plik=003.jpg&x=1271&y=2536&zoom=2.4800000000000004",
    "events": [],
-   "fatherId": "pmwe1hyh8uid22f",
-   "motherId": "pmwe1i4br5u7c7e"
+   "fatherId": "pmwe1hyh8uid22f"
   },
   {
    "id": "pmwdx17m8edlb4h",
@@ -8096,16 +8095,6 @@
    "gender": "M",
    "deceased": true,
    "events": []
-  },
-  {
-   "id": "pmwe1i4br5u7c7e",
-   "firstName": "Maria",
-   "lastName": "Mazurek",
-   "maidenName": "Lignar",
-   "gender": "K",
-   "deceased": true,
-   "events": [],
-   "motherId": "pmwe1ksoo00kt3j"
   },
   {
    "id": "pmwe1jofr5mpjvx",
@@ -9602,12 +9591,6 @@
    "id": "umwdxxbj8uddl2p",
    "a": "pmwdxwph2cdrb7r",
    "b": "pmwdxwyyn03ywx7",
-   "status": "malzenstwo"
-  },
-  {
-   "id": "umwe1iauym0q9nw",
-   "a": "pmwe1hyh8uid22f",
-   "b": "pmwe1i4br5u7c7e",
    "status": "malzenstwo"
   },
   {
