@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:23:27.904Z",
+ "exported": "2026-11-12T18:23:53.822Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7811,7 +7811,8 @@
    "burialPlace": "Kryg",
    "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=06mp&rid=12968&search_lastname=Ludwin&search_name=Adam&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=&ordertable=",
    "events": [],
-   "fatherId": "pmwdvlrkfm0wc0s"
+   "fatherId": "pmwdvlrkfm0wc0s",
+   "motherId": "pmwdvm60gt26kdp"
   },
   {
    "id": "pmwdvf4i01ksgns",
@@ -7917,6 +7918,16 @@
    "firstName": "Kazimierz",
    "lastName": "Przybyłowicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwdvm60gt26kdp",
+   "firstName": "Marianna",
+   "middleName": "Joanna",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Zawadowicz",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -9372,6 +9383,12 @@
    "id": "umwdu7q44c5ycbt",
    "a": "pmwdu4p5bbaqa5q",
    "b": "pmwdu5d6wkjcb9w",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwdvmoerkuwfm4",
+   "a": "pmwdvlrkfm0wc0s",
+   "b": "pmwdvm60gt26kdp",
    "status": "malzenstwo"
   }
  ]
