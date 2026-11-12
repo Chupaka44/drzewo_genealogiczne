@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T18:10:22.264Z",
+ "exported": "2026-11-12T18:16:20.153Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7785,9 +7785,11 @@
    "firstName": "Adam",
    "lastName": "Ludwin",
    "gender": "M",
-   "birthDate": "1802",
+   "birthDate": "1803",
    "deceased": true,
-   "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=06mp&rid=12968&search_lastname=Ludwin&search_name=Adam&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=&ordertable=",
+   "deathDate": "16 12 1851",
+   "burialPlace": "Kryg",
+   "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=S&w=06mp&rid=12968&search_lastname=Ludwin&search_name=Adam&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=&ordertable=\n\nAkt zgonu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1851&kt=3&plik=001.jpg&x=394&y=2296&zoom=1.2999999999999998",
    "events": [
     {
      "date": "25 11 1826",
