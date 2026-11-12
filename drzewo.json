@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T19:07:11.524Z",
+ "exported": "2026-11-12T19:10:01.325Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -149,6 +149,7 @@
    "deceased": true,
    "deathDate": "14 07 2008",
    "burialPlace": "Libusza",
+   "sources": "akt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4520&kt=1&plik=008.jpg&x=2068&y=1581&zoom=1.4700000000000002",
    "events": [
     {
      "date": "17 02 1935",
