@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T21:47:42.616Z",
+ "exported": "2026-11-13T21:50:45.423Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8381,6 +8381,20 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwfifj24dyi9ku",
+   "firstName": "Grzegorz",
+   "lastName": "Kosiba",
+   "gender": "M",
+   "deceased": true,
+   "deathDate": "25 02 1863",
+   "deathPlace": "Libusza",
+   "deathCause": "zwyczajna",
+   "sources": "akt zgonu poz. 10:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1863&kt=3&plik=003.jpg&x=0&y=286&zoom=1.5499999999999998",
+   "events": [],
+   "fatherId": "pmwdu3gqpgdofg9",
+   "motherId": "pmwdu4czbqc8b2i"
   }
  ],
  "unions": [
