@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T20:25:12.057Z",
+ "exported": "2026-11-13T21:20:45.436Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8340,6 +8340,16 @@
    "events": [],
    "fatherId": "pmwdx07zkyyh3kh",
    "motherId": "pmwdx17m8edlb4h"
+  },
+  {
+   "id": "pmwfhdedgfpgmpg",
+   "firstName": "Adam",
+   "lastName": "Wietecha",
+   "gender": "M",
+   "deceased": false,
+   "notes": "Syn za panny, przejął nazwisko po ojcu",
+   "events": [],
+   "motherId": "pmw2rfbn7tubv8d"
   }
  ],
  "unions": [
