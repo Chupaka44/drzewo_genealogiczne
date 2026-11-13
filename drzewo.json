@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T21:20:45.436Z",
+ "exported": "2026-11-13T21:31:35.892Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7796,9 +7796,15 @@
    "deathDate": "12 1869",
    "deathPlace": "Libusza dom nr 86",
    "occupation": "rolnik",
-   "notes": "\nZgon koniec 1869 (ostatni wpis roku), dom 86: „Laurentius Kosiba maritus Martiannae natae Lidwin agricola”, lat 33 (ur. ok. 1836), 12 lat w małżeństwie (ślub ok. 1857). Tekla miała wtedy 2 lata. Dzieci zmarłe: Grzegorz (bliźniak, 1863: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=008.jpg), Wojciech (XII 1863: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=010.jpg), Stanisław (V 1865: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=012.jpg), Anna (VII 1870: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=019.jpg).",
+   "notes": "Zgon koniec 1869 (ostatni wpis roku), dom 86: „Laurentius Kosiba maritus Martiannae natae Lidwin agricola”, lat 33 (ur. ok. 1836), 12 lat w małżeństwie (ślub ok. 1857). Tekla miała wtedy 2 lata. Dzieci zmarłe: Grzegorz (bliźniak, 1863: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=008.jpg), Wojciech (XII 1863: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=010.jpg), Stanisław (V 1865: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=012.jpg), Anna (VII 1870: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=019.jpg).\n\nAkt ślubu poz.1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1857&kt=2&plik=001.jpg&x=0&y=1268&zoom=2.8",
    "sources": "Informacja z chrztu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1568&y=371&zoom=1.7699999999999996\nakt zgonu (koniec 1869, prawa strona, ostatni wpis): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=018.jpg",
-   "events": []
+   "events": [
+    {
+     "date": "18 02 1857",
+     "title": "ślub",
+     "place": "Libusza"
+    }
+   ]
   },
   {
    "id": "pmwdu4czbqc8b2i",
