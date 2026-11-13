@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T21:47:30.007Z",
+ "exported": "2026-11-13T21:47:42.616Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7805,7 +7805,8 @@
      "place": "Kobylanka"
     }
    ],
-   "fatherId": "pmwfic7y4qtrcze"
+   "fatherId": "pmwfic7y4qtrcze",
+   "motherId": "pmwficdp71753ot"
   },
   {
    "id": "pmwdu4czbqc8b2i",
@@ -8369,6 +8370,15 @@
    "firstName": "Tomasz",
    "lastName": "Kosiba",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwficdp71753ot",
+   "firstName": "Małgorzara",
+   "lastName": "Kosiba",
+   "maidenName": "Bogdan",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -9884,6 +9894,12 @@
    "id": "umwe98pnccg6dxw",
    "a": "pmwe9725qxu4stn",
    "b": "pmwe97926i51s29",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwficmv3t7quiw",
+   "a": "pmwfic7y4qtrcze",
+   "b": "pmwficdp71753ot",
    "status": "malzenstwo"
   }
  ]
