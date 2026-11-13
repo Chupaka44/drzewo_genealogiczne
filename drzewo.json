@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T00:43:45.512Z",
+ "exported": "2026-11-13T00:44:56.866Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8140,7 +8140,8 @@
    "burialPlace": "Libusza",
    "sources": "akt zgonu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1856&kt=3&plik=001.jpg&x=0&y=610&zoom=2.3\n\nakt chrztu poz. przed ostatni prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3505&kt=1&plik=018.jpg&x=1325&y=1464&zoom=2.22",
    "events": [],
-   "fatherId": "pmwe9725qxu4stn"
+   "fatherId": "pmwe9725qxu4stn",
+   "motherId": "pmwe97926i51s29"
   },
   {
    "id": "pmwe1jofr5mpjvx",
@@ -8283,6 +8284,15 @@
    "firstName": "Wojciech",
    "lastName": "Mazurek",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwe97926i51s29",
+   "firstName": "Katarzyna",
+   "lastName": "Mazurek",
+   "maidenName": "Sroconka",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -9792,6 +9802,12 @@
    "id": "umwe696pth6rv3m",
    "a": "pmwe5l0tqcqsrdp",
    "b": "pmwe68iv2ru7pj7",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwe98pnccg6dxw",
+   "a": "pmwe9725qxu4stn",
+   "b": "pmwe97926i51s29",
    "status": "malzenstwo"
   }
  ]
