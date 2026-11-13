@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T00:43:32.124Z",
+ "exported": "2026-11-13T00:43:45.512Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8139,7 +8139,8 @@
    "deathDate": "05 03 1856",
    "burialPlace": "Libusza",
    "sources": "akt zgonu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1856&kt=3&plik=001.jpg&x=0&y=610&zoom=2.3\n\nakt chrztu poz. przed ostatni prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3505&kt=1&plik=018.jpg&x=1325&y=1464&zoom=2.22",
-   "events": []
+   "events": [],
+   "fatherId": "pmwe9725qxu4stn"
   },
   {
    "id": "pmwe1jofr5mpjvx",
@@ -8275,6 +8276,14 @@
    "gender": "M",
    "deceased": false,
    "notes": "Owdowił Annę Śliwę",
+   "events": []
+  },
+  {
+   "id": "pmwe9725qxu4stn",
+   "firstName": "Wojciech",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": true,
    "events": []
   }
  ],
