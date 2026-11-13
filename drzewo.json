@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T00:49:17.662Z",
+ "exported": "2026-11-13T10:44:35.320Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6424,8 +6424,8 @@
    "deceased": true,
    "deathDate": "05 11 1873",
    "events": [],
-   "motherId": "pmwb8ofjpoviit8",
-   "fatherId": "pmwb8n1l82kb4f0"
+   "fatherId": "pmwb8n1l82kb4f0",
+   "motherId": "pmwb8ofjpoviit8"
   },
   {
    "id": "pmwbeb8c9zgrhqx",
@@ -6456,8 +6456,8 @@
    "birthDate": "17 09 1908",
    "deceased": true,
    "events": [],
-   "motherId": "pmvy349newb8p1u",
-   "fatherId": "pmvy345i249oo9x"
+   "fatherId": "pmvy345i249oo9x",
+   "motherId": "pmvy349newb8p1u"
   },
   {
    "id": "pmwbei31cp8msyj",
@@ -6467,8 +6467,8 @@
    "birthDate": "24 05 1911",
    "deceased": true,
    "events": [],
-   "motherId": "pmvy349newb8p1u",
-   "fatherId": "pmvy345i249oo9x"
+   "fatherId": "pmvy345i249oo9x",
+   "motherId": "pmvy349newb8p1u"
   },
   {
    "id": "pmwbenxf5tc79xv",
@@ -6479,8 +6479,8 @@
    "deceased": true,
    "deathDate": "25 12 1863",
    "events": [],
-   "motherId": "pmwbcolc775m4dc",
-   "fatherId": "pmwbcofqf2d3ss7"
+   "fatherId": "pmwbcofqf2d3ss7",
+   "motherId": "pmwbcolc775m4dc"
   },
   {
    "id": "pmwbetdhtfxaav1",
@@ -6616,8 +6616,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4sd7m0ijl6m",
-   "fatherId": "pmvy4s6pyb5l4wl"
+   "fatherId": "pmvy4s6pyb5l4wl",
+   "motherId": "pmvy4sd7m0ijl6m"
   },
   {
    "id": "pmwch6lq46ltt30",
@@ -6626,8 +6626,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy4sd7m0ijl6m",
-   "fatherId": "pmvy4s6pyb5l4wl"
+   "fatherId": "pmvy4s6pyb5l4wl",
+   "motherId": "pmvy4sd7m0ijl6m"
   },
   {
    "id": "pmwch9qnws1pbg2",
@@ -6665,8 +6665,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7uuc0x3pmsb2",
-   "fatherId": "pmwck7p2k6s0vni"
+   "fatherId": "pmwck7p2k6s0vni",
+   "motherId": "pmw7uuc0x3pmsb2"
   },
   {
    "id": "pmwck8b7c2z1gs8",
@@ -6675,8 +6675,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmw7uuc0x3pmsb2",
-   "fatherId": "pmwck7p2k6s0vni"
+   "fatherId": "pmwck7p2k6s0vni",
+   "motherId": "pmw7uuc0x3pmsb2"
   },
   {
    "id": "pmwck8ig2xpmqa2",
@@ -6721,8 +6721,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwck7z704tn6ev",
-   "fatherId": "pmwck8ig2xpmqa2"
+   "fatherId": "pmwck8ig2xpmqa2",
+   "motherId": "pmwck7z704tn6ev"
   },
   {
    "id": "pmwckfts806b4qb",
@@ -6755,8 +6755,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy3fhfay88zc0",
-   "fatherId": "pmwckh77s58suca"
+   "fatherId": "pmwckh77s58suca",
+   "motherId": "pmvy3fhfay88zc0"
   },
   {
    "id": "pmwckhr58k98qdv",
@@ -6882,8 +6882,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwckwzurt80tve",
-   "fatherId": "pmwckx9dxlwmtfj"
+   "fatherId": "pmwckx9dxlwmtfj",
+   "motherId": "pmwckwzurt80tve"
   },
   {
    "id": "pmwckxnyx86ffo5",
@@ -6893,8 +6893,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwckwzurt80tve",
-   "fatherId": "pmwckx9dxlwmtfj"
+   "fatherId": "pmwckx9dxlwmtfj",
+   "motherId": "pmwckwzurt80tve"
   },
   {
    "id": "pmwcky6k51ewnjj",
@@ -6919,8 +6919,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwckxevh98sx1y",
-   "fatherId": "pmwckye3tmsgzkz"
+   "fatherId": "pmwckye3tmsgzkz",
+   "motherId": "pmwckxevh98sx1y"
   },
   {
    "id": "pmwckyy79g1a1pt",
@@ -6929,8 +6929,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwckxevh98sx1y",
-   "fatherId": "pmwckye3tmsgzkz"
+   "fatherId": "pmwckye3tmsgzkz",
+   "motherId": "pmwckxevh98sx1y"
   },
   {
    "id": "pmwckz7p3el8f2g",
@@ -6950,8 +6950,8 @@
    "deceased": true,
    "notes": "7 msc",
    "events": [],
-   "motherId": "pmwckxnyx86ffo5",
-   "fatherId": "pmwcky6k51ewnjj"
+   "fatherId": "pmwcky6k51ewnjj",
+   "motherId": "pmwckxnyx86ffo5"
   },
   {
    "id": "pmwcl1rbkmd3yb2",
@@ -6974,8 +6974,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmvy37igob3hqb4",
-   "fatherId": "pmvy2s9z9cozikh"
+   "fatherId": "pmvy2s9z9cozikh",
+   "motherId": "pmvy37igob3hqb4"
   },
   {
    "id": "pmwcl4znhyv8bxf",
@@ -6995,8 +6995,8 @@
    "deceased": false,
    "notes": "Chrzestny Waldemar Setlak",
    "events": [],
-   "motherId": "pmwcl4j76db1our",
-   "fatherId": "pmwcl4znhyv8bxf"
+   "fatherId": "pmwcl4znhyv8bxf",
+   "motherId": "pmwcl4j76db1our"
   },
   {
    "id": "pmwcl5vw30j5ajx",
@@ -7046,8 +7046,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwcl6nx8lmy7ml",
-   "fatherId": "pmwcl7pole9rj2f"
+   "fatherId": "pmwcl7pole9rj2f",
+   "motherId": "pmwcl6nx8lmy7ml"
   },
   {
    "id": "pmwcl8ajlawvxzl",
@@ -7073,8 +7073,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwcl4j76db1our",
-   "fatherId": "pmwcl4znhyv8bxf"
+   "fatherId": "pmwcl4znhyv8bxf",
+   "motherId": "pmwcl4j76db1our"
   },
   {
    "id": "pmwclatby3w2bsw",
@@ -7091,8 +7091,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclaj6305tetm",
-   "fatherId": "pmwclatby3w2bsw"
+   "fatherId": "pmwclatby3w2bsw",
+   "motherId": "pmwclaj6305tetm"
   },
   {
    "id": "pmwclg4l3zsn8l1",
@@ -7114,8 +7114,8 @@
    "deceased": false,
    "notes": "wujek Olek",
    "events": [],
-   "motherId": "pmvy2xrb5j78j6n",
-   "fatherId": "pmvy2xfac8000j4"
+   "fatherId": "pmvy2xfac8000j4",
+   "motherId": "pmvy2xrb5j78j6n"
   },
   {
    "id": "pmwclgk3j6csqk5",
@@ -7222,8 +7222,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclko6spg8dmx",
-   "fatherId": "pmwcljchyvd8v57"
+   "fatherId": "pmwcljchyvd8v57",
+   "motherId": "pmwclko6spg8dmx"
   },
   {
    "id": "pmwcllevffwnve8",
@@ -7240,8 +7240,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclkzrufy2i5u",
-   "fatherId": "pmwcllevffwnve8"
+   "fatherId": "pmwcllevffwnve8",
+   "motherId": "pmwclkzrufy2i5u"
   },
   {
    "id": "pmwclltw8ll668e",
@@ -7250,8 +7250,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclkzrufy2i5u",
-   "fatherId": "pmwcllevffwnve8"
+   "fatherId": "pmwcllevffwnve8",
+   "motherId": "pmwclkzrufy2i5u"
   },
   {
    "id": "pmwclncf88vd8kk",
@@ -7295,8 +7295,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclnjqe6y510l",
-   "fatherId": "pmwclncf88vd8kk"
+   "fatherId": "pmwclncf88vd8kk",
+   "motherId": "pmwclnjqe6y510l"
   },
   {
    "id": "pmwclohc2wbnqy1",
@@ -7312,8 +7312,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclo9a5v67m3s",
-   "fatherId": "pmwclohc2wbnqy1"
+   "fatherId": "pmwclohc2wbnqy1",
+   "motherId": "pmwclo9a5v67m3s"
   },
   {
    "id": "pmwclpt7lntrjpa",
@@ -7322,8 +7322,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "motherId": "pmwclo9a5v67m3s",
-   "fatherId": "pmwclohc2wbnqy1"
+   "fatherId": "pmwclohc2wbnqy1",
+   "motherId": "pmwclo9a5v67m3s"
   },
   {
    "id": "pmwcmgfkuxqon8f",
@@ -7412,8 +7412,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "motherId": "pmwcmio8fkoozz7",
-   "fatherId": "pmwcmj678mo47az"
+   "fatherId": "pmwcmj678mo47az",
+   "motherId": "pmwcmio8fkoozz7"
   },
   {
    "id": "pmwcmkjt3a3jko5",
@@ -7538,8 +7538,8 @@
    "gender": "M",
    "deceased": true,
    "events": [],
-   "motherId": "pmwcobetruznv2l",
-   "fatherId": "pmwcod02up51lc5"
+   "fatherId": "pmwcod02up51lc5",
+   "motherId": "pmwcobetruznv2l"
   },
   {
    "id": "pmwcnzvcuiul7a8",
@@ -7549,8 +7549,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "motherId": "pmwcobqryxsapm3",
-   "fatherId": "pmwcodbbpf0239c"
+   "fatherId": "pmwcodbbpf0239c",
+   "motherId": "pmwcobqryxsapm3"
   },
   {
    "id": "pmwco085yncx484",
@@ -7791,9 +7791,13 @@
    "firstName": "Wawrzyniec",
    "lastName": "Kosiba",
    "gender": "M",
+   "birthDate": "1836",
    "deceased": true,
+   "deathDate": "12 1869",
+   "deathPlace": "Libusza dom nr 86",
    "occupation": "rolnik",
-   "sources": "Informacja z chrztu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1568&y=371&zoom=1.7699999999999996",
+   "notes": "\nZgon koniec 1869 (ostatni wpis roku), dom 86: „Laurentius Kosiba maritus Martiannae natae Lidwin agricola”, lat 33 (ur. ok. 1836), 12 lat w małżeństwie (ślub ok. 1857). Tekla miała wtedy 2 lata. Dzieci zmarłe: Grzegorz (bliźniak, 1863: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=008.jpg), Wojciech (XII 1863: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=010.jpg), Stanisław (V 1865: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=012.jpg), Anna (VII 1870: https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=019.jpg).",
+   "sources": "Informacja z chrztu Tekli:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1867&kt=1&plik=005.jpg&x=1568&y=371&zoom=1.7699999999999996\nakt zgonu (koniec 1869, prawa strona, ostatni wpis): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=018.jpg",
    "events": []
   },
   {
@@ -7856,8 +7860,8 @@
    "deceased": true,
    "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=06mp&rid=12967&search_lastname=Ludwin&search_name=Anna&search_lastname2=Ludwin&search_name2=Adam&from_date=&to_date=&near=1",
    "events": [],
-   "motherId": "pmwdu5d6wkjcb9w",
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdvfnwnxpb8wr",
@@ -7869,8 +7873,8 @@
    "deceased": true,
    "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=06mp&rid=12967&search_lastname=Ludwin&search_name=Anna&search_lastname2=Ludwin&search_name2=Adam&from_date=&to_date=&near=1",
    "events": [],
-   "motherId": "pmwdu5d6wkjcb9w",
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdvgomf5etc54",
@@ -7881,8 +7885,8 @@
    "birthPlace": "Kryg",
    "deceased": true,
    "events": [],
-   "motherId": "pmwdu5d6wkjcb9w",
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdvh20oaawak4",
@@ -7908,8 +7912,8 @@
    "birthPlace": "Kryg",
    "deceased": true,
    "events": [],
-   "motherId": "pmwdu5d6wkjcb9w",
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdvhtcwza210v",
@@ -7920,8 +7924,8 @@
    "birthPlace": "Kryg",
    "deceased": true,
    "events": [],
-   "motherId": "pmwdu5d6wkjcb9w",
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdvi7m7xnocrd",
@@ -7932,8 +7936,8 @@
    "birthPlace": "Kryg",
    "deceased": true,
    "events": [],
-   "motherId": "pmwdu5d6wkjcb9w",
-   "fatherId": "pmwdu4p5bbaqa5q"
+   "fatherId": "pmwdu4p5bbaqa5q",
+   "motherId": "pmwdu5d6wkjcb9w"
   },
   {
    "id": "pmwdvikvj7fxyj0",
@@ -7978,7 +7982,11 @@
    "gender": "M",
    "birthDate": "30 09 1834",
    "deceased": true,
-   "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\n\nAkt chrztu Władysława ostatni wpis prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1834&kt=1&plik=003.jpg&x=1271&y=2536&zoom=2.4800000000000004",
+   "deathDate": "29 08 1910",
+   "deathPlace": "Libusza dom nr 85",
+   "burialPlace": "Libusza",
+   "notes": "\nZgon 29.08.1910, dom 85, nr 19: syn Stanisława i Anny Lignar, wdowiec po Apolonii Śliwie, lat 76, ur. 30.09.1834; „4 lib.” (4 dzieci żyje).",
+   "sources": "akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\nAkt chrztu Władysława ostatni wpis prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1834&kt=1&plik=003.jpg&x=1271&y=2536&zoom=2.4800000000000004\nakt zgonu poz. 19 (prawa strona): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=095.jpg",
    "events": [
     {
      "date": "24 09 1860",
@@ -7995,10 +8003,13 @@
    "lastName": "Mazurek",
    "maidenName": "Śliwa",
    "gender": "K",
-   "birthDate": "1836",
+   "birthDate": "21 05 1837",
    "deceased": true,
-   "notes": "Wdowa po Andrzeju",
-   "sources": "Akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3",
+   "deathDate": "10 03 1906",
+   "deathPlace": "Libusza dom nr 85",
+   "burialPlace": "Libusza",
+   "notes": "Wdowa po Andrzeju\nZgon 10.03.1906, dom 85, nr 4: córka Bartłomieja Śliwy i Zofii Baran, lat 68¾, ur. 21.05.1837; paralisis.",
+   "sources": "Akt ślubu poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&zoom=2.3\nakt zgonu poz. 4 (lewa strona): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=085.jpg",
    "events": [
     {
      "date": "24 09 1860",
@@ -8037,8 +8048,10 @@
    "maidenName": "Baran",
    "gender": "K",
    "deceased": true,
-   "notes": "Wdowa po zmarłym Mikołaju Przybyłowiczu",
-   "sources": "wiemy o nim z aktu ślubu Władysława i Apoloni poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&x=3&y=574&zoom=1.5\n\nakt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002",
+   "deathDate": "1858",
+   "deathPlace": "Libusza dom nr 12",
+   "notes": "Wdowa po zmarłym Mikołaju Przybyłowiczu\nZgon 1858 (czerwiec/lipiec, dzień 6, pogrzeb 8), dom 12: „Sophia Bartholomaei Śliwa cmethonis uxor”. Data dzienna/miesiąc do sprawdzenia.",
+   "sources": "wiemy o nim z aktu ślubu Władysława i Apoloni poz.5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1860&kt=2&plik=003.jpg&x=3&y=574&zoom=1.5\nakt ślubu:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4505&kt=1&plik=039.jpg&x=2143&y=456&zoom=1.5300000000000002\nakt zgonu (1858, dom 12, lewa strona): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=004.jpg",
    "events": [
     {
      "date": "13 11 1833",
@@ -8167,6 +8180,7 @@
    "maidenName": "Lignar",
    "gender": "K",
    "deceased": true,
+   "notes": "\nŻyła 5.03.1856 (owdowiała). Zgonu NIE ma w księdze zgonów Libuszy 1857–1877 (przejrzane). Szukać: reszta 1856 albo inna parafia; ewent. lata 1878–1890.",
    "events": [],
    "fatherId": "pmwe22ilybgzxfh"
   },
@@ -8295,6 +8309,37 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pnti8pu5cpnmkp3",
+   "firstName": "Teofila",
+   "lastName": "Haluch",
+   "maidenName": "Mazurek",
+   "gender": "K",
+   "birthDate": "1826",
+   "deceased": true,
+   "deathDate": "17 01 1889",
+   "deathPlace": "Libusza dom nr 102",
+   "burialPlace": "Libusza",
+   "notes": "Zm. 17.01.1889 (pogrzeb 19.01), dom 102, nr 3: „Theophila Haluch, vidua post p.d. Ludovicum Haluch, filia Stanislai Mazur et Annae Lignar”, lat 63 (ur. ok. 1826). Przyczyna: cancer. Siostra Władysława.",
+   "sources": "akt zgonu poz. 3 (prawa strona): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=047.jpg",
+   "events": [],
+   "fatherId": "pmwe1hyh8uid22f",
+   "motherId": "pmwe1i4br5u7c7e"
+  },
+  {
+   "id": "ptufwphdsliy1kx",
+   "firstName": "Karol",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "deceased": true,
+   "deathDate": "1874",
+   "deathPlace": "Libusza dom nr 85",
+   "notes": "Zm. 1874 (przed listopadem), dom 85: „Carolus filius Ladislai Mazurek et Apolloniae natae Śliwa”, kilka dni (?) – wiek do odczytania.",
+   "sources": "akt zgonu (1874, prawa strona): https://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=025.jpg",
+   "events": [],
+   "fatherId": "pmwdx07zkyyh3kh",
+   "motherId": "pmwdx17m8edlb4h"
   }
  ],
  "unions": [
