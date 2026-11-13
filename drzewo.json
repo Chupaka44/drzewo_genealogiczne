@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-12T23:28:57.216Z",
+ "exported": "2026-11-13T00:29:22.490Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8134,6 +8134,9 @@
    "lastName": "Mazurek",
    "gender": "M",
    "deceased": true,
+   "deathDate": "05 03 1856",
+   "burialPlace": "Libusza",
+   "sources": "akt zgonu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1856&kt=3&plik=001.jpg&x=0&y=610&zoom=2.3",
    "events": []
   },
   {
