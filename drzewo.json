@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T00:30:19.957Z",
+ "exported": "2026-11-13T00:43:32.124Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8133,11 +8133,12 @@
    "firstName": "Stanisław",
    "lastName": "Mazurek",
    "gender": "M",
-   "birthDate": "1791",
+   "birthDate": "28 04 1794",
+   "birthPlace": "Libusza",
    "deceased": true,
    "deathDate": "05 03 1856",
    "burialPlace": "Libusza",
-   "sources": "akt zgonu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1856&kt=3&plik=001.jpg&x=0&y=610&zoom=2.3",
+   "sources": "akt zgonu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1856&kt=3&plik=001.jpg&x=0&y=610&zoom=2.3\n\nakt chrztu poz. przed ostatni prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3505&kt=1&plik=018.jpg&x=1325&y=1464&zoom=2.22",
    "events": []
   },
   {
