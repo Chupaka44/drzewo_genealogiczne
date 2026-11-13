@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-13T21:32:05.937Z",
+ "exported": "2026-11-13T21:40:09.013Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -7814,14 +7814,8 @@
    "gender": "K",
    "birthDate": "19 01 1837",
    "deceased": true,
-   "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=06mp&rid=12967&search_lastname=Ludwin&search_name=Maria&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=50&ordertable=[[2,%22desc%22]]&searchtable=&rpp2=50\n\nAkt ślubu poz.2:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3281&se=&sy=1857&kt=2&plik=001.jpg&x=0&y=1268&zoom=2.8",
-   "events": [
-    {
-     "date": "18 02 1857",
-     "title": "ślub",
-     "place": "Libusza"
-    }
-   ],
+   "sources": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=06mp&rid=12967&search_lastname=Ludwin&search_name=Maria&search_lastname2=&search_name2=&from_date=&to_date=&near=1&rpp1=50&ordertable=[[2,%22desc%22]]&searchtable=&rpp2=50",
+   "events": [],
    "fatherId": "pmwdu4p5bbaqa5q",
    "motherId": "pmwdu5d6wkjcb9w"
   },
