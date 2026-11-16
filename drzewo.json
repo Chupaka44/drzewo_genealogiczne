@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:16:19.123Z",
+ "exported": "2026-11-16T19:16:49.164Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8515,6 +8515,18 @@
    "events": [],
    "fatherId": "pmwbets7ldi8gkn",
    "motherId": "pmwbetyrs1eygkz"
+  },
+  {
+   "id": "pmwjn9qti41hsmh",
+   "firstName": "Antoni",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "09 05 1835",
+   "birthPlace": "Dzielec",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pl8csjxpji03aie",
+   "motherId": "pmwbetdhtfxaav1"
   }
  ],
  "unions": [
