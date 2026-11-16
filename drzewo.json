@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:30:35.513Z",
+ "exported": "2026-11-16T19:32:06.467Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8564,18 +8564,6 @@
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
    "motherId": "pisgrn5ib818kk9"
-  },
-  {
-   "id": "pmwjnqt3299pfea",
-   "firstName": "Józef",
-   "lastName": "Setlak",
-   "gender": "M",
-   "birthDate": "01 03 1843",
-   "deceased": true,
-   "notes": "prawdopodobnie zmarł przy porodzie",
-   "sources": "akt urodzenia poz. ostatnia prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=042.jpg&x=1128&y=1590&zoom=1.0299999999999998",
-   "events": [],
-   "fatherId": "pbxr1kj6c5mxu2w"
   }
  ],
  "unions": [
