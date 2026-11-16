@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:32:20.171Z",
+ "exported": "2026-11-16T15:40:23.098Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -197,6 +197,7 @@
    "deceased": true,
    "deathDate": "13 01 1984",
    "burialPlace": "Biecz",
+   "deathCause": "poronienie",
    "sources": "akt ślubu poz. 1 1928:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=049.JPG&x=1034&y=1277&zoom=1.4500000000000002",
    "events": [
     {
