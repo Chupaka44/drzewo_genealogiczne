@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T18:15:34.687Z",
+ "exported": "2026-11-16T18:20:46.053Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8501,6 +8501,19 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwjl5d9y67kdgo",
+   "firstName": "Antoni",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "28 05 1812",
+   "deceased": true,
+   "notes": "zmarł młody",
+   "sources": "Akt urodzenia poz. 2 od końca prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=017.jpg&x=144&y=284&zoom=1.5",
+   "events": [],
+   "fatherId": "pbxr1kj6c5mxu2w",
+   "motherId": "pql3ip6508tgtis"
   }
  ],
  "unions": [
