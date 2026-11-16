@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T16:29:22.196Z",
+ "exported": "2026-11-16T17:06:19.706Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4890,12 +4890,12 @@
    "lastName": "Setlak",
    "maidenName": "Rydarowicz",
    "gender": "K",
-   "birthDate": "1824",
+   "birthDate": "9 11 1822",
    "birthPlace": "Dzielec",
    "deceased": true,
    "residence": "Dzielec nr 21",
    "notes": "Rok urodzenia przybliżony: w akcie ślubu XI 1844 ma 20 lat. Rodzice wyrazili pisemną zgodę na ślub (podpisani krzyżykami).",
-   "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
+   "sources": "Akt urodzenia, poz. 2 lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=022.jpg&x=1&y=74&zoom=1.2799999999999998\n\nCieklin, księga 4520 M-1785-1889-Dzielec, ślub XI 1844",
    "events": [],
    "fatherId": "pmw75p2htg6iv3h",
    "motherId": "psu6kyc8megamoe"
