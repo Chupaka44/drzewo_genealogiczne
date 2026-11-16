@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T17:13:04.950Z",
+ "exported": "2026-11-16T17:13:18.673Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5685,10 +5685,8 @@
    "firstName": "Maciej",
    "lastName": "Wyszkowicz",
    "gender": "M",
-   "birthPlace": "Dzielec (?)",
+   "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Ojciec Gertrudy Rydarowiczowej (akty chrztu 1851 i 1856).",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1851, 1856",
    "events": []
   },
   {
