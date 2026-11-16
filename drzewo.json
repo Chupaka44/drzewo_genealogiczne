@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:53:52.549Z",
+ "exported": "2026-11-16T15:54:16.210Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8442,6 +8442,8 @@
    "lastName": "Wojtonik",
    "maidenName": "Tumidajewicz",
    "gender": "K",
+   "birthDate": "01 02 1879",
+   "birthPlace": "Korczyna",
    "deceased": true,
    "sources": "akt ślubu poz. 1 1899:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=036.JPG&x=0&y=958&zoom=1.7000000000000002",
    "events": [
