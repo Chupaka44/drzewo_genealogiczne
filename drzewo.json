@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:40:23.098Z",
+ "exported": "2026-11-16T15:40:58.187Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -506,8 +506,10 @@
    "gender": "K",
    "birthDate": "22 10 1905",
    "deceased": true,
-   "deathDate": "przed 1940",
-   "sources": "akt ślubu poz. 1 1928:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=049.JPG&x=1034&y=1277&zoom=1.4500000000000002",
+   "deathDate": "03 08 1936",
+   "deathPlace": "Korczyn",
+   "deathCause": "poronienie",
+   "sources": "akt ślubu poz. 1 1928:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=049.JPG&x=1034&y=1277&zoom=1.4500000000000002\n\n\nakt zgonu poz. 3 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=022.jpg&x=840&y=0&zoom=1.5099999999999998",
    "events": [
     {
      "date": "28 07 1928",
