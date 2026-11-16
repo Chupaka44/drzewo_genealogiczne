@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:54:16.210Z",
+ "exported": "2026-11-16T15:54:34.652Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8452,7 +8452,8 @@
      "title": "ślub",
      "place": "Korczyna"
     }
-   ]
+   ],
+   "fatherId": "pmwjg1yu986bn58"
   },
   {
    "id": "pmwjfmu2r05tk96",
@@ -8487,6 +8488,14 @@
    "gender": "K",
    "deceased": false,
    "notes": "Majscowa/ parafia Dębowiec",
+   "events": []
+  },
+  {
+   "id": "pmwjg1yu986bn58",
+   "firstName": "Józef",
+   "lastName": "Tumidajewicz",
+   "gender": "M",
+   "deceased": true,
    "events": []
   }
  ],
