@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:35:10.489Z",
+ "exported": "2026-11-16T19:36:59.546Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5937,11 +5937,10 @@
    "firstName": "Maria",
    "lastName": "Setlak",
    "gender": "K",
-   "birthDate": "02 02 1853",
+   "birthDate": "18 03 1844",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Ur. Dzielec nr 20. Ślub 15.07.1873 z Antonim Wyżkiewiczem (synem Jana i Małgorzaty Rydarowicz); zm. przed 1882.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "sources": "akt urodzenia poz. 4 strona prawa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=043.jpg&x=1267&y=391&zoom=1.0299999999999998",
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
    "motherId": "pisgrn5ib818kk9"
