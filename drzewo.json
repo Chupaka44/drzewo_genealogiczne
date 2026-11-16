@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T17:31:53.693Z",
+ "exported": "2026-11-16T17:32:44.300Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5745,6 +5745,7 @@
    "deathDate": "27 10 1831",
    "deathPlace": "Dzielec nr 18",
    "burialPlace": "Cieklin",
+   "deathCause": "naturalna",
    "sources": "Akt śmierci:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=5520&kt=1&plik=017.jpg&x=6&y=514&zoom=2.44",
    "events": [],
    "fatherId": "pymkdm359sd86l3"
