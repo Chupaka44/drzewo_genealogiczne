@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T17:22:13.990Z",
+ "exported": "2026-11-16T17:22:39.914Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4872,7 +4872,7 @@
    "deceased": true,
    "occupation": "rolnik (agricola), chłop pańszczyźniany",
    "residence": "Dzielec nr 21 (gospodarstwo teścia)",
-   "notes": "Ur. 8/9 stycznia 1821, Dzielec nr 18. W akcie ślubu 1844: lat 23, kawaler, rodzice Szczepan i Petronela z Byrków już nie żyli. Świadek na ślubie: brat Grzegorz Setlak.\n\nŻył jeszcze 26.01.1885 (świadek na ślubie Andrzeja Setlaka, lat ok. 64). Świadek także 1854, 1860, 1873, 1877, 1879.",
+   "notes": "Świadek na ślubie: prawdopodobnie brat Grzegorz Setlak.",
    "sources": "Akt małżeństwa poz ostatnia strona lewa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=4520&kt=1&plik=018.jpg&x=0&y=1271&zoom=1.2799999999999998",
    "events": [
     {
