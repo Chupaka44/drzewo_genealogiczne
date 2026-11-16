@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:24:26.484Z",
+ "exported": "2026-11-16T19:28:03.962Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8552,6 +8552,18 @@
    "events": [],
    "motherId": "pmwbfem4hivh0gw",
    "fatherId": "pku8nnb0jokmvdd"
+  },
+  {
+   "id": "pmwjnnwocx1ud1b",
+   "firstName": "Jakub",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "10 07 1840",
+   "deceased": false,
+   "sources": "akt urodzenia poz. srodek lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=041.jpg&x=0&y=1317&zoom=1.0299999999999998",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
   }
  ],
  "unions": [
