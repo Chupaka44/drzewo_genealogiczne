@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:36:59.546Z",
+ "exported": "2026-11-16T19:37:30.671Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8588,7 +8588,8 @@
    "notes": "bliźniaczka z Marią, prawdopodobnie zmarła przy porodzie",
    "sources": "akt urodzenia poz. 1 strona lewa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=043.jpg&x=0&y=0&zoom=1.0299999999999998",
    "events": [],
-   "fatherId": "pw2olx4jkon4kd7"
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
   }
  ],
  "unions": [
