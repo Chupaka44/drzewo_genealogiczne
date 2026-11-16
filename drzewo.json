@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:37:30.671Z",
+ "exported": "2026-11-16T19:56:58.364Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -3523,7 +3523,7 @@
    "birthPlace": "Dzielec",
    "deceased": true,
    "notes": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=062.jpg&x=156&y=1633&zoom=2.2800000000000002\n\nChrzest: Dzielec nr 21 (dom dziadka Kazimierza Rydarowicza), 2.11.1845. Chrzestna m.in. Katarzyna, żona Pawła Setlaka.\n\nChrzestny w Dzielcu: 1878 (Wiktoria Putlak, dom 13), 1.03.1882 (Grzegorz, syn Jana Setlaka i Zofii Pyznar), 12.02.1888 (Maciej, syn brata Jana). Żona Marianna chrzestną w 1878 (Zofia, dom 24) – zapis „Marianna Setlak – Martini”.\n\nZMARŁ PRAWDOPODOBNIE MIĘDZY STYCZNIEM 1901 A STYCZNIEM 1902: w zapowiedziach córki Maryi (I 1901) zapisany bez „śp.”, w zapowiedziach syna Józefa (I 1902) jako „śp. Marcin”. Wdowa Marya (Marianna) Knapik żyła w I 1902.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl), 1845\nCieklin, księga 3570 U-1876-1925-Dzielec, 1878–1888",
+   "sources": "akt urodzenia poz. środek strona prawa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=044.jpg&x=1780&y=1036&zoom=0.7799999999999998",
    "events": [],
    "fatherId": "pmw75ob3ehd43gn",
    "motherId": "pmw75ok7tznzsyj"
