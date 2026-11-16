@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T17:13:31.616Z",
+ "exported": "2026-11-16T17:14:39.072Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4905,6 +4905,7 @@
    "firstName": "Kazimierz",
    "lastName": "Rydarowicz",
    "gender": "M",
+   "birthDate": "1791",
    "deceased": true,
    "occupation": "rolnik (agricola)",
    "residence": "Dzielec nr 21",
