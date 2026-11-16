@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T17:21:28.926Z",
+ "exported": "2026-11-16T17:21:39.547Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4876,9 +4876,9 @@
    "sources": "Akt małżeństwa poz ostatnia strona lewa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=4520&kt=1&plik=018.jpg&x=0&y=1271&zoom=1.2799999999999998",
    "events": [
     {
-     "date": "11 1844",
-     "title": "Ślub z Katarzyną Rydarowicz (zgoda dworu Cieklin 9.11.1844, nr 207)",
-     "place": "Dzielec, par. Cieklin"
+     "date": "11 11 1844",
+     "title": "Ślub",
+     "place": "Cieklin Dzielec"
     }
    ],
    "fatherId": "pbxr1kj6c5mxu2w",
