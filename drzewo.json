@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:31:14.567Z",
+ "exported": "2026-11-16T15:32:20.171Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -514,7 +514,8 @@
      "place": "Korczyna"
     }
    ],
-   "fatherId": "pmwjf7yxklt9fcx"
+   "fatherId": "pmwjf7yxklt9fcx",
+   "motherId": "pmwjf8351ym291q"
   },
   {
    "id": "pmvy3av3s3rgyv5",
@@ -8420,6 +8421,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwjf8351ym291q",
+   "firstName": "Ludwika",
+   "lastName": "Wojtonik",
+   "maidenName": "Tumidajewicz",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -9939,6 +9949,12 @@
    "id": "umwficmv3t7quiw",
    "a": "pmwfic7y4qtrcze",
    "b": "pmwficdp71753ot",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwjf9gfpp1kz4g",
+   "a": "pmwjf7yxklt9fcx",
+   "b": "pmwjf8351ym291q",
    "status": "malzenstwo"
   }
  ]
