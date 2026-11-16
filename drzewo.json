@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:41:02.682Z",
+ "exported": "2026-11-16T15:44:48.414Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8432,6 +8432,23 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwjfmu2r05tk96",
+   "firstName": "Józef",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "22 01 1935",
+   "birthPlace": "Korczyn",
+   "deceased": true,
+   "deathDate": "22 01 1935",
+   "deathPlace": "Korczyn",
+   "burialPlace": "Biecz",
+   "deathCause": "wcześniak",
+   "sources": "akt zgonu poz. 1 rok 1935:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=022.jpg&x=30&y=874&zoom=1.5099999999999998",
+   "events": [],
+   "motherId": "pmvy37igob3hqb4",
+   "fatherId": "pmvy2s9z9cozikh"
   }
  ],
  "unions": [
