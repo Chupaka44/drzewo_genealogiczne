@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T20:04:44.068Z",
+ "exported": "2026-11-16T20:05:50.309Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8602,6 +8602,18 @@
    "events": [],
    "fatherId": "pku8nnb0jokmvdd",
    "motherId": "pmwbfem4hivh0gw"
+  },
+  {
+   "id": "pmwjp0ccwqwwety",
+   "firstName": "Jadwiga",
+   "lastName": "Setlak",
+   "gender": "K",
+   "birthDate": "12 10 1848",
+   "deceased": true,
+   "sources": "akt urodzenia poz.  3 strona lewa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=046.jpg&x=66&y=900&zoom=1",
+   "events": [],
+   "fatherId": "pw2olx4jkon4kd7",
+   "motherId": "pisgrn5ib818kk9"
   }
  ],
  "unions": [
