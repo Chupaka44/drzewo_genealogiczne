@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T18:03:26.589Z",
+ "exported": "2026-11-16T18:14:03.448Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -6095,8 +6095,7 @@
    "birthDate": "16 02 1808",
    "birthPlace": "Dzielec",
    "deceased": true,
-   "notes": "Chrzest 16.02.1808, Dzielec nr 16. Chrzestni: Łukasz Bania, Urszula Rydarowiczowa. Krzyżyk przy imieniu – zmarł w dzieciństwie; dlatego brat ur. 1821 dostał to samo imię (po dziadku Macieju Byrku).",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec",
+   "sources": "Akt urodzenia poz. środek prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=015.jpg&x=1037&y=740&zoom=1.0299999999999998",
    "events": [],
    "fatherId": "pbxr1kj6c5mxu2w",
    "motherId": "pql3ip6508tgtis"
