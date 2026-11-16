@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T17:19:40.388Z",
+ "exported": "2026-11-16T17:21:24.404Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -4896,7 +4896,13 @@
    "residence": "Dzielec nr 21",
    "notes": "Rok urodzenia przybliżony: w akcie ślubu XI 1844 ma 20 lat. Rodzice wyrazili pisemną zgodę na ślub (podpisani krzyżykami).",
    "sources": "Akt urodzenia, poz. 2 lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=022.jpg&x=1&y=74&zoom=1.2799999999999998\n\nAkt małżeństwa poz ostatnia strona lewa:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=4520&kt=1&plik=018.jpg&x=0&y=1271&zoom=1.2799999999999998",
-   "events": [],
+   "events": [
+    {
+     "date": "11 11 1844",
+     "title": "ślub",
+     "place": "Cieklin Dzielec"
+    }
+   ],
    "fatherId": "pmw75p2htg6iv3h",
    "motherId": "psu6kyc8megamoe"
   },
