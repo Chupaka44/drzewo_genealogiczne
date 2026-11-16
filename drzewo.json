@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T15:51:51.403Z",
+ "exported": "2026-11-16T15:52:40.962Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8431,7 +8431,8 @@
      "place": "Korczyna"
     }
    ],
-   "fatherId": "pmwjfycuw0rb6gz"
+   "fatherId": "pmwjfycuw0rb6gz",
+   "motherId": "pmwjfyqg1a6y92x"
   },
   {
    "id": "pmwjf8351ym291q",
@@ -8472,6 +8473,16 @@
    "lastName": "Wojtonik",
    "gender": "M",
    "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwjfyqg1a6y92x",
+   "firstName": "Zofia",
+   "lastName": "Wojtonik",
+   "maidenName": "Kmiecik",
+   "gender": "K",
+   "deceased": false,
+   "notes": "Majscowa/ parafia Dębowiec",
    "events": []
   }
  ],
@@ -9998,6 +10009,12 @@
    "id": "umwjf9gfpp1kz4g",
    "a": "pmwjf7yxklt9fcx",
    "b": "pmwjf8351ym291q",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwjfzmeq067zrd",
+   "a": "pmwjfycuw0rb6gz",
+   "b": "pmwjfyqg1a6y92x",
    "status": "malzenstwo"
   }
  ]
