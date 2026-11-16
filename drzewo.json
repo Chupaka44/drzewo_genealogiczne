@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:56:58.364Z",
+ "exported": "2026-11-16T19:59:26.210Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5899,7 +5899,7 @@
    "birthPlace": "Dzielec",
    "deceased": true,
    "notes": "Ur. 10.10.1846, chrzest 18.10.1846, Dzielec nr 20. Krzyżyk przy imieniu w księdze (prawdopodobnie zmarł w dzieciństwie – niepotwierdzone aktem zgonu). Nie mylić z Marcinem, synem Macieja.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec; Cieklin, księga 4520 M-1785-1889-Dzielec",
+   "sources": "Akt urodzenia poz. środek lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=045.jpg&x=242&y=1365&zoom=0.7799999999999998",
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
    "motherId": "pisgrn5ib818kk9"
