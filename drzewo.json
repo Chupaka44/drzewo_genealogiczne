@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:21:03.878Z",
+ "exported": "2026-11-16T19:21:40.289Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8530,12 +8530,11 @@
   },
   {
    "id": "pmwjndg5cbhlnzh",
-   "firstName": "Katarzyna?",
+   "firstName": "Katarzyna",
    "lastName": "Setlak",
    "gender": "M",
    "birthDate": "20 02 1836",
    "deceased": true,
-   "notes": "do zweryfikowania",
    "sources": "akt urodzenia poz. 2:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=038.jpg&x=0&y=176&zoom=1.0299999999999998",
    "events": [],
    "fatherId": "pku8nnb0jokmvdd",
