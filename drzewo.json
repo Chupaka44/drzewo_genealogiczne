@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T19:21:40.289Z",
+ "exported": "2026-11-16T19:22:24.438Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8539,6 +8539,19 @@
    "events": [],
    "fatherId": "pku8nnb0jokmvdd",
    "motherId": "pmwbfem4hivh0gw"
+  },
+  {
+   "id": "pmwjngfkkg8j4u6",
+   "firstName": "Wawrzyniec",
+   "lastName": "Setlak",
+   "gender": "M",
+   "birthDate": "10 02 1838",
+   "deceased": true,
+   "notes": "zmarł młody",
+   "sources": "akt urodzenia poz. ostatnia lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=039.jpg&x=193&y=1476&zoom=1.0299999999999998",
+   "events": [],
+   "motherId": "pmwbfem4hivh0gw",
+   "fatherId": "pku8nnb0jokmvdd"
   }
  ],
  "unions": [
