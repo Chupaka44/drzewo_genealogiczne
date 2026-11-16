@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T18:14:03.448Z",
+ "exported": "2026-11-16T18:15:34.687Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5783,13 +5783,13 @@
    "firstName": "Grzegorz",
    "lastName": "Setlak",
    "gender": "M",
-   "birthDate": "1810",
+   "birthDate": "20 08 1810",
    "birthPlace": "Dzielec",
    "deceased": true,
    "occupation": "zagrodnik, rolnik",
    "residence": "Dzielec nr 18, potem nr 20",
    "notes": "Chrzest 1810, Dzielec nr 17. Ślub 2.02.1832 z Łucją Szudy – w akcie wprost syn Szczepana Setlaka i Petroneli Byrek (lat 24). Świadek na ślubie brata Macieja w 1844. Żył jeszcze 1873.",
-   "sources": "Cieklin, księga 3565 U-1784-1859-Dzielec (skanoteka.genealodzy.pl)\nCieklin, księga 4520 M-1785-1889-Dzielec, 1832",
+   "sources": "Akt urodzenia poz. 4 od góry prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=016.jpg&x=1267&y=351&zoom=1.0299999999999998",
    "events": [
     {
      "date": "02 02 1832",
