@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-16T20:49:26.223Z",
+ "exported": "2026-11-17T20:42:32.058Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5788,8 +5788,7 @@
    "deceased": true,
    "occupation": "zagrodnik, rolnik",
    "residence": "Dzielec nr 18, potem nr 20",
-   "notes": "Chrzest 1810, Dzielec nr 17. Ślub 2.02.1832 z Łucją Szudy – w akcie wprost syn Szczepana Setlaka i Petroneli Byrek (lat 24). Świadek na ślubie brata Macieja w 1844. Żył jeszcze 1873.",
-   "sources": "Akt urodzenia poz. 4 od góry prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=016.jpg&x=1267&y=351&zoom=1.0299999999999998",
+   "sources": "Akt urodzenia poz. 4 od góry prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3565&kt=1&plik=016.jpg&x=1267&y=351&zoom=1.0299999999999998\n\nAkt małżeństwa poz. 2 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=4520&kt=1&plik=012.jpg&x=1267&y=1071&zoom=1.0299999999999998",
    "events": [
     {
      "date": "02 02 1832",
