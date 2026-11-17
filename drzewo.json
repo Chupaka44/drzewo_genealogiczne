@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-17T20:43:01.536Z",
+ "exported": "2026-11-17T20:43:42.726Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5860,7 +5860,8 @@
    "notes": "Prawdopodobnie ur. 11.12.1816, chrzest 12.12.1816, Dzielec nr 20 (ten sam dom, w którym potem mieszkała z Grzegorzem); córka Macieja Szudego i Marii z d. Mleczko (Mleczkówna, odczyt prawdopodobny). Chrzestny: Paweł Setlak, komornik. Uwaga: w akcie ślubu 1832 wiek wpisany wyżej niż wynikałoby z tej daty.",
    "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1832; Cieklin, księga 3565 U-1784-1859-Dzielec",
    "events": [],
-   "fatherId": "pmwl5sr7mn0qoef"
+   "fatherId": "pmwl5sr7mn0qoef",
+   "motherId": "pmwl5sx468hnw63"
   },
   {
    "id": "p2fhxw1ldr36e3g",
@@ -8634,6 +8635,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwl5sx468hnw63",
+   "firstName": "Marianna",
+   "lastName": "Szudy",
+   "maidenName": "Mliczek?",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -10177,6 +10187,12 @@
    "id": "umwbetnl66z1xfn",
    "a": "pl8csjxpji03aie",
    "b": "pmwbetdhtfxaav1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwl5tr7hngkyyu",
+   "a": "pmwl5sr7mn0qoef",
+   "b": "pmwl5sx468hnw63",
    "status": "malzenstwo"
   }
  ]
