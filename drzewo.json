@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-17T20:42:32.058Z",
+ "exported": "2026-11-17T20:43:01.536Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5859,7 +5859,8 @@
    "residence": "Dzielec nr 20",
    "notes": "Prawdopodobnie ur. 11.12.1816, chrzest 12.12.1816, Dzielec nr 20 (ten sam dom, w którym potem mieszkała z Grzegorzem); córka Macieja Szudego i Marii z d. Mleczko (Mleczkówna, odczyt prawdopodobny). Chrzestny: Paweł Setlak, komornik. Uwaga: w akcie ślubu 1832 wiek wpisany wyżej niż wynikałoby z tej daty.",
    "sources": "Cieklin, księga 4520 M-1785-1889-Dzielec, 1832; Cieklin, księga 3565 U-1784-1859-Dzielec",
-   "events": []
+   "events": [],
+   "fatherId": "pmwl5sr7mn0qoef"
   },
   {
    "id": "p2fhxw1ldr36e3g",
@@ -8625,6 +8626,14 @@
    "events": [],
    "fatherId": "pw2olx4jkon4kd7",
    "motherId": "pisgrn5ib818kk9"
+  },
+  {
+   "id": "pmwl5sr7mn0qoef",
+   "firstName": "Maciej",
+   "lastName": "Szudy",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
