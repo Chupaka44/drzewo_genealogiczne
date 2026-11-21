@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:46:51.109Z",
+ "exported": "2026-11-21T01:48:04.277Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8724,7 +8724,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwpqyu0a5xg9ss"
+   "fatherId": "pmwpqyu0a5xg9ss",
+   "motherId": "pmwpqzmcywd0diz"
   },
   {
    "id": "pmwpq060y02cf88",
@@ -8782,6 +8783,15 @@
    "firstName": "Bartłomiej",
    "lastName": "Oleśkiewicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwpqzmcywd0diz",
+   "firstName": "Maria",
+   "lastName": "Oleśkiewicz",
+   "maidenName": "Sroka",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -10363,6 +10373,12 @@
    "id": "umwpq1zyt00kjzy",
    "a": "pmwpq1ffehypz22",
    "b": "pmwpq1pzuyv2ucw",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwpr0pd1he77jz",
+   "a": "pmwpqyu0a5xg9ss",
+   "b": "pmwpqzmcywd0diz",
    "status": "malzenstwo"
   }
  ]
