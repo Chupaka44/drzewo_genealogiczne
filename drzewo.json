@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:16:02.990Z",
+ "exported": "2026-11-21T01:17:34.801Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1504,7 +1504,8 @@
      "place": "Libusza"
     }
    ],
-   "fatherId": "pmwppvc4qfw19j6"
+   "fatherId": "pmwppvc4qfw19j6",
+   "motherId": "pmwppx63mdsswg8"
   },
   {
    "id": "pmvy4pyvwy7wstb",
@@ -8667,6 +8668,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwppx63mdsswg8",
+   "firstName": "Marianna",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Dyląg",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -10216,6 +10226,12 @@
    "id": "umwl5tr7hngkyyu",
    "a": "pmwl5sr7mn0qoef",
    "b": "pmwl5sx468hnw63",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwppxhq5tspoue",
+   "a": "pmwppvc4qfw19j6",
+   "b": "pmwppx63mdsswg8",
    "status": "malzenstwo"
   }
  ]
