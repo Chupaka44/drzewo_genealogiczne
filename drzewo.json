@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T03:05:07.004Z",
+ "exported": "2026-11-21T03:05:46.500Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8982,9 +8982,10 @@
    "birthPlace": "Libusza",
    "deceased": true,
    "deathDate": "23 04 1914",
+   "sources": "akt zgonu poz. 11:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=100.jpg&x=102&y=0&zoom=1.7200000000000002",
    "events": [],
-   "motherId": "pmw7vjpahf78aau",
-   "fatherId": "pmw7vjup0e6y0hk"
+   "fatherId": "pmw7vjup0e6y0hk",
+   "motherId": "pmw7vjpahf78aau"
   }
  ],
  "unions": [
