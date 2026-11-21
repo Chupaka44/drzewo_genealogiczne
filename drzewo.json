@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:38:11.635Z",
+ "exported": "2026-11-21T02:38:20.854Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8896,7 +8896,8 @@
   {
    "id": "pmwpsr6rffhc11l",
    "firstName": "Eleonora",
-   "lastName": "Mazurek",
+   "lastName": "Ludwin",
+   "maidenName": "Mazurek",
    "gender": "K",
    "birthDate": "02 01 1906",
    "birthPlace": "Libusza",
@@ -8909,8 +8910,8 @@
      "place": "Libusza"
     }
    ],
-   "motherId": "pmw7vjpahf78aau",
-   "fatherId": "pmw7vjup0e6y0hk"
+   "fatherId": "pmw7vjup0e6y0hk",
+   "motherId": "pmw7vjpahf78aau"
   },
   {
    "id": "pmwpsskj70l0g7c",
