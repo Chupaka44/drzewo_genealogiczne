@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:20:33.381Z",
+ "exported": "2026-11-21T01:20:47.054Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5478,7 +5478,8 @@
    "maidenName": "Kusiak",
    "gender": "K",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmwpq1ffehypz22"
   },
   {
    "id": "pmw7wslc00onwft",
@@ -8733,6 +8734,14 @@
    "maidenName": "Bogdan",
    "gender": "K",
    "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwpq1ffehypz22",
+   "firstName": "Wojciecha",
+   "lastName": "Kusiak",
+   "gender": "M",
+   "deceased": false,
    "events": []
   }
  ],
