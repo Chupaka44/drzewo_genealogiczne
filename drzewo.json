@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:46:07.532Z",
+ "exported": "2026-11-21T01:46:51.109Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8723,7 +8723,8 @@
    "maidenName": "Oleśkiewicz",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwpqyu0a5xg9ss"
   },
   {
    "id": "pmwpq060y02cf88",
@@ -8773,6 +8774,14 @@
    "lastName": "Kusiak",
    "maidenName": "Dybaś",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwpqyu0a5xg9ss",
+   "firstName": "Bartłomiej",
+   "lastName": "Oleśkiewicz",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
