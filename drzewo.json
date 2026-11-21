@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:17:48.240Z",
+ "exported": "2026-11-21T01:18:02.424Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8668,7 +8668,8 @@
    "gender": "M",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwppxo6y8kj2cb"
+   "fatherId": "pmwppxo6y8kj2cb",
+   "motherId": "pmwppxtij9mcl9a"
   },
   {
    "id": "pmwppx63mdsswg8",
@@ -8684,6 +8685,15 @@
    "firstName": "Jan",
    "lastName": "Przybyłowicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwppxtij9mcl9a",
+   "firstName": "Jadwiga",
+   "lastName": "Przybyłowicz",
+   "maidenName": "Oleśkiewicz",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -10241,6 +10251,12 @@
    "id": "umwppxhq5tspoue",
    "a": "pmwppvc4qfw19j6",
    "b": "pmwppx63mdsswg8",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwppy31poj3prr",
+   "a": "pmwppxo6y8kj2cb",
+   "b": "pmwppxtij9mcl9a",
    "status": "malzenstwo"
   }
  ]
