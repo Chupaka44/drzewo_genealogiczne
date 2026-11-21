@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:45:22.363Z",
+ "exported": "2026-11-21T02:50:28.744Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8940,6 +8940,23 @@
    "burialPlace": "Libusza",
    "deathCause": "wrodzone osłabienie",
    "sources": "akt urodzenia poz. 43:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3520&kt=1&plik=078.jpg&x=0&y=0&zoom=2.7800000000000002\n\nakt zgonu poz. 27:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=058.jpg&x=33&y=1205&zoom=2.5300000000000002",
+   "events": [],
+   "fatherId": "pmwppvc4qfw19j6",
+   "motherId": "pmwppx63mdsswg8"
+  },
+  {
+   "id": "pmwpt3pd7hkdida",
+   "firstName": "Józef",
+   "middleName": "II",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "birthDate": "19 10 1901",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "07 10 1915",
+   "burialPlace": "Libusza",
+   "deathCause": "suchoty / gruźlica",
+   "sources": "akt urodzenia poz. 51:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=024.jpg&x=0&y=61&zoom=2.22\n\nakt zgonu poz. 59:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=003.jpg&x=1954&y=685&zoom=1.7800000000000002",
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
