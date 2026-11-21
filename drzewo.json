@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:36:37.979Z",
+ "exported": "2026-11-21T02:37:38.514Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8892,6 +8892,25 @@
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
+  },
+  {
+   "id": "pmwpsr6rffhc11l",
+   "firstName": "Eleonora",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "birthDate": "02 01 1906",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "sources": "akt urodzenia poz. 1 1906:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=049.jpg&x=73&y=1042&zoom=2.0300000000000002",
+   "events": [
+    {
+     "date": "12 08 1928",
+     "title": "ślub z Adamem",
+     "place": "Libusza"
+    }
+   ],
+   "motherId": "pmw7vjpahf78aau",
+   "fatherId": "pmw7vjup0e6y0hk"
   }
  ],
  "unions": [
