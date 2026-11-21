@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:19:58.753Z",
+ "exported": "2026-11-21T01:20:16.775Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5467,7 +5467,8 @@
    "lastName": "Dyląg",
    "gender": "M",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmwpq0supeft9b2"
   },
   {
    "id": "pmw7wmt8tfn83mq",
@@ -8713,6 +8714,14 @@
    "lastName": "Dyląg",
    "maidenName": "Fik",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwpq0supeft9b2",
+   "firstName": "Wojciech",
+   "lastName": "Dyląg",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
