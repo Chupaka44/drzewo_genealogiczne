@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:20:16.775Z",
+ "exported": "2026-11-21T01:20:33.381Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5468,7 +5468,8 @@
    "gender": "M",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwpq0supeft9b2"
+   "fatherId": "pmwpq0supeft9b2",
+   "motherId": "pmwpq10zeh4lbqw"
   },
   {
    "id": "pmw7wmt8tfn83mq",
@@ -8724,6 +8725,15 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwpq10zeh4lbqw",
+   "firstName": "Katarczyna",
+   "lastName": "Dyląg",
+   "maidenName": "Bogdan",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -10291,6 +10301,12 @@
    "id": "umwpq0kt1tkbfer",
    "a": "pmwpq060y02cf88",
    "b": "pmwpq0aybtpk83p",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwpq1bitqpxl9k",
+   "a": "pmwpq0supeft9b2",
+   "b": "pmwpq10zeh4lbqw",
    "status": "malzenstwo"
   }
  ]
