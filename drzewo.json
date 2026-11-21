@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:41:30.108Z",
+ "exported": "2026-11-21T01:42:40.459Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8690,7 +8690,8 @@
    "birthDate": "02 10 1870",
    "deceased": true,
    "deathDate": "28 05 1943",
-   "sources": "akt urodzenia poz 32:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3515&kt=1&plik=120.jpg&x=524&y=1256&zoom=2.7800000000000002\nakt małżeństwa poz. 13:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=015.jpg&x=524&y=1472&zoom=2.7800000000000002",
+   "burialPlace": "Libusza",
+   "sources": "akt urodzenia poz 32:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3515&kt=1&plik=120.jpg&x=524&y=1256&zoom=2.7800000000000002\nakt małżeństwa poz. 13:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=015.jpg&x=524&y=1472&zoom=2.7800000000000002\n\nakt zgonu poz. 14:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=052.jpg&x=644&y=116&zoom=2.5300000000000002",
    "events": [],
    "fatherId": "pmwpq060y02cf88",
    "motherId": "pmwpq0aybtpk83p"
