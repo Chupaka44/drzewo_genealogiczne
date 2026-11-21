@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:36:18.220Z",
+ "exported": "2026-11-21T02:36:30.634Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -5276,7 +5276,7 @@
    "events": [
     {
      "date": "31 01 1889",
-     "title": "ślub",
+     "title": "ślub z Stanisławem",
      "place": "Libusza"
     }
    ],
