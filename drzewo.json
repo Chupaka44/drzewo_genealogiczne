@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:53:29.427Z",
+ "exported": "2026-11-21T02:00:10.020Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8816,6 +8816,20 @@
    "burialPlace": "Libusza",
    "deathCause": "gruźlica",
    "sources": "akt zgonu poz. 9:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=004.jpg&x=1938&y=114&zoom=1.4700000000000002",
+   "events": [],
+   "fatherId": "pmwppvc4qfw19j6",
+   "motherId": "pmwppx63mdsswg8"
+  },
+  {
+   "id": "pmwprejcaxsw5ac",
+   "firstName": "Anna",
+   "lastName": "Przybyłowicz",
+   "gender": "K",
+   "birthDate": "1889",
+   "deceased": true,
+   "deathDate": "16 12 1917",
+   "burialPlace": "Libusza",
+   "sources": "akt zgonu poz. 44:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=007.jpg&x=1922&y=1665&zoom=1.7200000000000002",
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
