@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T03:12:33.612Z",
+ "exported": "2026-11-21T03:16:44.860Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8734,7 +8734,11 @@
    "lastName": "Przybyłowicz",
    "maidenName": "Oleśkiewicz",
    "gender": "K",
+   "birthDate": "1835",
    "deceased": true,
+   "deathDate": "31 07 1910",
+   "burialPlace": "Libusza",
+   "sources": "akt zgonu poz. 17:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5505&kt=1&plik=095.jpg&x=1052&y=791&zoom=2.2800000000000002",
    "events": [],
    "fatherId": "pmwpqyu0a5xg9ss",
    "motherId": "pmwpqzmcywd0diz"
