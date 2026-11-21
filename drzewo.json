@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:50:28.744Z",
+ "exported": "2026-11-21T02:55:20.347Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8957,6 +8957,18 @@
    "burialPlace": "Libusza",
    "deathCause": "suchoty / gruźlica",
    "sources": "akt urodzenia poz. 51:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=024.jpg&x=0&y=61&zoom=2.22\n\nakt zgonu poz. 59:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=003.jpg&x=1954&y=685&zoom=1.7800000000000002",
+   "events": [],
+   "fatherId": "pmwppvc4qfw19j6",
+   "motherId": "pmwppx63mdsswg8"
+  },
+  {
+   "id": "pmwpt9ia2jhzrjl",
+   "firstName": "Marianna",
+   "lastName": "Przybyłowicz",
+   "gender": "K",
+   "birthDate": "12 08 1896",
+   "deceased": true,
+   "sources": "akt urodzenia poz. 61:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3520&kt=1&plik=096.jpg&x=17&y=1577&zoom=2.0300000000000002",
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
