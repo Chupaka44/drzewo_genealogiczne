@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:48:04.277Z",
+ "exported": "2026-11-21T01:48:12.873Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8792,6 +8792,15 @@
    "lastName": "Oleśkiewicz",
    "maidenName": "Sroka",
    "gender": "K",
+   "deceased": true,
+   "events": [],
+   "fatherId": "pmwpr0rb7l9rrvd"
+  },
+  {
+   "id": "pmwpr0rb7l9rrvd",
+   "firstName": "Józef",
+   "lastName": "Sroka",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
