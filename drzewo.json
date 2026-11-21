@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T03:22:33.228Z",
+ "exported": "2026-11-21T03:23:20.879Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8734,7 +8734,8 @@
      "title": "ślub",
      "place": "Libusza"
     }
-   ]
+   ],
+   "fatherId": "pmwpuf31filjp27"
   },
   {
    "id": "pmwppxtij9mcl9a",
@@ -9004,6 +9005,14 @@
    "events": [],
    "fatherId": "pmw7vjup0e6y0hk",
    "motherId": "pmw7vjpahf78aau"
+  },
+  {
+   "id": "pmwpuf31filjp27",
+   "firstName": "Wojciech",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
