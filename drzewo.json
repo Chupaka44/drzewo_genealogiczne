@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:11:21.920Z",
+ "exported": "2026-11-21T02:12:03.281Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8674,7 +8674,7 @@
    "firstName": "Sebastian",
    "lastName": "Przybyłowicz",
    "gender": "M",
-   "birthDate": "00 01 1858",
+   "birthDate": "11 01 1858",
    "deceased": true,
    "sources": "akt urodzenia poz.1 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3515&kt=1&plik=066.jpg&x=2038&y=124&zoom=1.7200000000000002\n\nakt małżeństwa poz. 13:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=015.jpg&x=524&y=1472&zoom=2.7800000000000002",
    "events": [
