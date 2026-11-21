@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:24:18.754Z",
+ "exported": "2026-11-21T02:25:32.625Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8860,7 +8860,8 @@
    "deceased": true,
    "deathDate": "10 03 1920",
    "burialPlace": "Libusza",
-   "sources": "akt urodzenia poz 24:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=087.jpg&x=0&y=1103&zoom=3.2800000000000002",
+   "deathCause": "grypa",
+   "sources": "akt urodzenia poz 24:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=087.jpg&x=0&y=1103&zoom=3.2800000000000002\n\nakt zgonu poz. 15:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=014.jpg&x=1239&y=8&zoom=2.2800000000000002",
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
