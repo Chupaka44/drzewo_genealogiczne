@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:55:20.347Z",
+ "exported": "2026-11-21T03:05:07.004Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8972,6 +8972,19 @@
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
+  },
+  {
+   "id": "pmwptqktuz06q1g",
+   "firstName": "Helena",
+   "lastName": "Mazurek",
+   "gender": "K",
+   "birthDate": "19 07 1913",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "23 04 1914",
+   "events": [],
+   "motherId": "pmw7vjpahf78aau",
+   "fatherId": "pmw7vjup0e6y0hk"
   }
  ],
  "unions": [
