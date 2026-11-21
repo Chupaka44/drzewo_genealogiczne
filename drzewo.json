@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:12:03.281Z",
+ "exported": "2026-11-21T02:19:49.913Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8834,6 +8834,20 @@
    "events": [],
    "fatherId": "pmwppvc4qfw19j6",
    "motherId": "pmwppx63mdsswg8"
+  },
+  {
+   "id": "pmwps3h5ejffwe4",
+   "firstName": "Jan",
+   "lastName": "Mazurek",
+   "gender": "M",
+   "birthDate": "30 03 1895",
+   "deceased": true,
+   "deathDate": "28 10 1927",
+   "burialPlace": "Libusza",
+   "sources": "akt zgonu poz. 25:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=027.jpg&x=0&y=0&zoom=1.7200000000000002",
+   "events": [],
+   "motherId": "pmw7vjpahf78aau",
+   "fatherId": "pmw7vjup0e6y0hk"
   }
  ],
  "unions": [
