@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:22:32.792Z",
+ "exported": "2026-11-21T01:26:27.044Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1498,7 +1498,7 @@
    "birthDate": "13 09 1890",
    "birthPlace": "Libusza",
    "deceased": true,
-   "sources": "akt małżeństwa poz.1 lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=080.jpg&x=0&y=0&zoom=2.5300000000000002",
+   "sources": "akt urodzenia poz. 68 prawa strona dół:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3520&kt=1&plik=057.jpg&x=2093&y=1427&zoom=1.4700000000000002\n\nakt małżeństwa poz.1 lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=080.jpg&x=0&y=0&zoom=2.5300000000000002",
    "events": [
     {
      "date": "27 10 1920",
