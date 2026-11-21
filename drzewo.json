@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T01:48:22.458Z",
+ "exported": "2026-11-21T01:53:29.427Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8804,6 +8804,21 @@
    "deceased": true,
    "occupation": "zagrodnik",
    "events": []
+  },
+  {
+   "id": "pmwpr4y2i1jvoco",
+   "firstName": "Andrzej",
+   "lastName": "Przybyłowicz",
+   "gender": "M",
+   "birthDate": "8 11 1892",
+   "deceased": true,
+   "deathDate": "8 06 1916",
+   "burialPlace": "Libusza",
+   "deathCause": "gruźlica",
+   "sources": "akt zgonu poz. 9:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=5510&kt=1&plik=004.jpg&x=1938&y=114&zoom=1.4700000000000002",
+   "events": [],
+   "fatherId": "pmwppvc4qfw19j6",
+   "motherId": "pmwppx63mdsswg8"
   }
  ],
  "unions": [
