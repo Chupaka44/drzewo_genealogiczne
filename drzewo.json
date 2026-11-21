@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T02:21:00.498Z",
+ "exported": "2026-11-21T02:24:18.754Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8849,6 +8849,21 @@
    "events": [],
    "fatherId": "pmw7vjup0e6y0hk",
    "motherId": "pmw7vjpahf78aau"
+  },
+  {
+   "id": "pmwpsaby39izew2",
+   "firstName": "Ludwika",
+   "lastName": "Przybyłowicz",
+   "gender": "K",
+   "birthDate": "21 05 1913",
+   "birthPlace": "Libusza",
+   "deceased": true,
+   "deathDate": "10 03 1920",
+   "burialPlace": "Libusza",
+   "sources": "akt urodzenia poz 24:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=3525&kt=1&plik=087.jpg&x=0&y=1103&zoom=3.2800000000000002",
+   "events": [],
+   "fatherId": "pmwppvc4qfw19j6",
+   "motherId": "pmwppx63mdsswg8"
   }
  ],
  "unions": [
