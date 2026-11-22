@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T21:23:31.715Z",
+ "exported": "2026-11-22T21:23:53.271Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2243,7 +2243,8 @@
      "title": "ślub",
      "place": "Libusza"
     }
-   ]
+   ],
+   "fatherId": "pmwscgjfws4kzee"
   },
   {
    "id": "pmvy5xx8jap348f",
@@ -9076,6 +9077,14 @@
    "id": "pmwpufl7g6bz3w9",
    "firstName": "Jakub",
    "lastName": "Pawlik",
+   "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwscgjfws4kzee",
+   "firstName": "Wojciech",
+   "lastName": "Mazur",
    "gender": "M",
    "deceased": true,
    "events": []
