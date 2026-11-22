@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T15:18:44.096Z",
+ "exported": "2026-11-22T15:18:57.753Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1492,7 +1492,14 @@
    "deceased": true,
    "deathDate": "31 08 2001",
    "burialPlace": "Libusza",
-   "events": [],
+   "sources": "akt małżeństwa poz. 11 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=089.jpg&x=1053&y=0&zoom=2.41",
+   "events": [
+    {
+     "date": "28 09 1924",
+     "title": "ślub",
+     "place": "Libusza"
+    }
+   ],
    "fatherId": "pmvy5xtm74v969c",
    "motherId": "pmvy5xx8jap348f"
   },
