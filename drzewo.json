@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T15:21:12.992Z",
+ "exported": "2026-11-22T15:22:27.959Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2238,10 +2238,11 @@
   },
   {
    "id": "pmvy5xx8jap348f",
-   "firstName": "Petronela",
+   "firstName": "Pryscylia",
    "lastName": "Mazur",
+   "maidenName": "Liwosz",
    "gender": "K",
-   "deceased": false,
+   "deceased": true,
    "events": []
   },
   {
