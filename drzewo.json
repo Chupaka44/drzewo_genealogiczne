@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T21:16:05.820Z",
+ "exported": "2026-11-22T21:16:22.036Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2387,6 +2387,7 @@
    "birthPlace": "Przemyśl",
    "deceased": true,
    "deathDate": "1922",
+   "occupation": "rezerwista c.k. pułku piechoty / batalionu strzelców polowych nr 4",
    "notes": "Data narodzin do sprawdzenia czy 1880 czy 1889",
    "sources": "Akt ślubu poz. 5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=050.jpg&x=0&y=0&zoom=3.91",
    "events": [
