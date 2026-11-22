@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-21T03:28:01.078Z",
+ "exported": "2026-11-22T13:54:49.626Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8795,7 +8795,7 @@
   },
   {
    "id": "pmwpq1ffehypz22",
-   "firstName": "Wojciecha",
+   "firstName": "Wojciech",
    "lastName": "Kusiak",
    "gender": "M",
    "deceased": false,
