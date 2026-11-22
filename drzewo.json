@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T21:25:35.605Z",
+ "exported": "2026-11-22T21:25:51.986Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2263,7 +2263,8 @@
      "title": "ślub",
      "place": "Libusza"
     }
-   ]
+   ],
+   "motherId": "pmwscj2968d8w2h"
   },
   {
    "id": "pmvy5yz8dwfd5wz",
@@ -9096,6 +9097,14 @@
    "firstName": "Małgorzata",
    "lastName": "Mazur",
    "maidenName": "Dyląg",
+   "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwscj2968d8w2h",
+   "firstName": "Antonina",
+   "lastName": "Liwosz",
    "gender": "K",
    "deceased": true,
    "events": []
