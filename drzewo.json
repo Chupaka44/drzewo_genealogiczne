@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T21:16:22.036Z",
+ "exported": "2026-11-22T21:21:30.493Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -2234,7 +2234,14 @@
    "lastName": "Mazur",
    "gender": "M",
    "deceased": true,
-   "events": []
+   "sources": "Akt ślubu poz. 5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5717&se=&sy=4515&kt=1&plik=044.jpg&x=155&y=1925&zoom=2",
+   "events": [
+    {
+     "date": "17 05 1903",
+     "title": "ślub",
+     "place": "Libusza"
+    }
+   ]
   },
   {
    "id": "pmvy5xx8jap348f",
