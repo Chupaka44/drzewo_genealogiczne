@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:42:45.026Z",
+ "exported": "2026-11-25T21:43:30.905Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9158,6 +9158,7 @@
    "id": "pmwwnd669z6lz1a",
    "firstName": "Anna",
    "lastName": "Gryga",
+   "maidenName": "Wójcikiewicz",
    "gender": "K",
    "deceased": true,
    "events": []
