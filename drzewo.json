@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T22:22:48.118Z",
+ "exported": "2026-11-25T22:24:15.160Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9232,8 +9232,11 @@
    "firstName": "Tomasz",
    "lastName": "Wójcikiewicz",
    "gender": "M",
+   "birthDate": "1840",
    "deceased": true,
-   "sources": "akt ślubu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1864&kt=2&plik=378a.jpg&x=2491&y=2427&zoom=2.2199999999999998",
+   "deathDate": "25 03 1905",
+   "burialPlace": "Biecz",
+   "sources": "akt ślubu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1864&kt=2&plik=378a.jpg&x=2491&y=2427&zoom=2.2199999999999998\n\nzgon z geneteki:\nhttps://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=D&w=06mp&rid=12969&search_lastname=W%C3%B3jcikiewicz&search_name=Tomasz&search_lastname2=&search_name2=&from_date=&to_date=&near=1",
    "events": [
     {
      "date": "03 02 1864",
