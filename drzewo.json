@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T22:10:02.022Z",
+ "exported": "2026-11-25T22:10:24.935Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9161,7 +9161,8 @@
    "lastName": "Gryga",
    "gender": "M",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwwofypfvkgav9"
   },
   {
    "id": "pmwwnd669z6lz1a",
@@ -9201,6 +9202,14 @@
   {
    "id": "pmwwnpt0atxsdk8",
    "firstName": "Jan",
+   "lastName": "Gryga",
+   "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwwofypfvkgav9",
+   "firstName": "Józef",
    "lastName": "Gryga",
    "gender": "M",
    "deceased": true,
