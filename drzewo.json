@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T22:12:23.461Z",
+ "exported": "2026-11-25T22:14:07.147Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9173,7 +9173,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwwoigqq59qwnd"
+   "fatherId": "pmwwoigqq59qwnd",
+   "motherId": "pmwwoinhe0gx4ml"
   },
   {
    "id": "pmwwnof2cvg7lvn",
@@ -9231,6 +9232,15 @@
    "firstName": "Tomasz",
    "lastName": "Wójcikiewicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwwoinhe0gx4ml",
+   "firstName": "Dorota",
+   "lastName": "Wójcikiewicz",
+   "maidenName": "Besowicz",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -10866,6 +10876,12 @@
    "id": "umwwohcoc0r1w1d",
    "a": "pmwwofypfvkgav9",
    "b": "pmwwog2sag9pnn1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwwokthw3n4dty",
+   "a": "pmwwoigqq59qwnd",
+   "b": "pmwwoinhe0gx4ml",
    "status": "malzenstwo"
   }
  ]
