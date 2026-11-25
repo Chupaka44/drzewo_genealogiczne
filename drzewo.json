@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:40:09.229Z",
+ "exported": "2026-11-25T21:40:17.295Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -346,7 +346,8 @@
    "gender": "K",
    "deceased": false,
    "events": [],
-   "fatherId": "pmwwn9oy1yq5900"
+   "fatherId": "pmwwn9oy1yq5900",
+   "motherId": "pmwwnd669z6lz1a"
   },
   {
    "id": "pmvy2z6tdrl5avg",
@@ -9137,6 +9138,14 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwwnd669z6lz1a",
+   "firstName": "Anna",
+   "lastName": "Gryga",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -10746,6 +10755,12 @@
    "id": "umwwn9mxqf92q4x",
    "a": "pmwwn94wa7u6ek6",
    "b": "pmwwn9gry1u5nna",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwwndb98vq9h60",
+   "a": "pmwwn9oy1yq5900",
+   "b": "pmwwnd669z6lz1a",
    "status": "malzenstwo"
   }
  ]
