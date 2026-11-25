@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:43:30.905Z",
+ "exported": "2026-11-25T21:45:00.320Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -231,11 +231,12 @@
    "birthDate": "17 11 1921",
    "deceased": true,
    "deathDate": "12 02 2009",
+   "sources": "akt urodzenia poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=027.JPG&x=1895&y=1484&zoom=1.5",
    "events": [
     {
-     "date": "00 02 1947",
+     "date": "07 07 1946",
      "title": "Ślub",
-     "place": ""
+     "place": "Korczyna"
     }
    ],
    "fatherId": "pmvy2tc8vyn73nb",
