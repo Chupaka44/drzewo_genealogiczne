@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-22T21:51:43.472Z",
+ "exported": "2026-11-25T21:36:13.351Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -250,6 +250,7 @@
    "birthDate": "8 10 1923",
    "deceased": true,
    "deathDate": "15 01 1994",
+   "sources": "akt urodzenia poz. 5:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=028.JPG&x=1640&y=1234&zoom=2",
    "events": [
     {
      "date": "00 02 1947",
