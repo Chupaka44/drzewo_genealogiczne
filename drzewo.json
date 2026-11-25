@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T22:19:19.327Z",
+ "exported": "2026-11-25T22:19:41.604Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9259,7 +9259,8 @@
      "place": "Korczyna"
     }
    ],
-   "fatherId": "pmwwoq93fd7ucfh"
+   "fatherId": "pmwwoq93fd7ucfh",
+   "motherId": "pmwwork2rmojk3f"
   },
   {
    "id": "pmwwopahnotpi57",
@@ -9283,6 +9284,15 @@
    "firstName": "Wojciech",
    "lastName": "Bejowicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwwork2rmojk3f",
+   "firstName": "Katarzyna",
+   "lastName": "Bejowicz",
+   "maidenName": "Bełda",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -10930,6 +10940,12 @@
    "id": "umwwopvcdq11wx4",
    "a": "pmwwopahnotpi57",
    "b": "pmwwopiazd3thvf",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwworzks48h7vc",
+   "a": "pmwwoq93fd7ucfh",
+   "b": "pmwwork2rmojk3f",
    "status": "malzenstwo"
   }
  ]
