@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:45:13.851Z",
+ "exported": "2026-11-25T21:47:45.484Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -338,6 +338,7 @@
    "gender": "M",
    "birthDate": "05 06 1892",
    "deceased": true,
+   "sources": "akt urodzenia poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=006.JPG&x=67&y=348&zoom=2.25",
    "events": [
     {
      "date": "29 01 1921",
