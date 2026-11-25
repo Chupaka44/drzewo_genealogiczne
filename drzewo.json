@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T22:17:00.236Z",
+ "exported": "2026-11-25T22:17:19.441Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9249,7 +9249,14 @@
    "maidenName": "Besowicz",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "sources": "akt ślubu poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1864&kt=2&plik=378a.jpg&x=2491&y=2427&zoom=2.2199999999999998",
+   "events": [
+    {
+     "date": "03 02 1864",
+     "title": "ślub",
+     "place": "Korczyna"
+    }
+   ]
   }
  ],
  "unions": [
