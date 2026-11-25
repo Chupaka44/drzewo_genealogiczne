@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:49:15.757Z",
+ "exported": "2026-11-25T21:49:58.416Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9149,7 +9149,8 @@
    "maidenName": "Gryga",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "events": [],
+   "motherId": "pmwwnpjbvg1tgg7"
   },
   {
    "id": "pmwwn9oy1yq5900",
@@ -9181,6 +9182,15 @@
    "firstName": "Marianna",
    "lastName": "Czech",
    "maidenName": "Białoń",
+   "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwwnpjbvg1tgg7",
+   "firstName": "Marianna",
+   "lastName": "Gryga",
+   "maidenName": "Sasak",
    "gender": "K",
    "deceased": true,
    "events": []
