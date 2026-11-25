@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:36:13.351Z",
+ "exported": "2026-11-25T21:37:10.657Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -335,7 +335,8 @@
    "lastName": "Czech",
    "gender": "M",
    "deceased": false,
-   "events": []
+   "events": [],
+   "fatherId": "pmwwn94wa7u6ek6"
   },
   {
    "id": "pmvy2xrb5j78j6n",
@@ -9107,6 +9108,14 @@
    "firstName": "Antonina",
    "lastName": "Liwosz",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwwn94wa7u6ek6",
+   "firstName": "Wojciech",
+   "lastName": "Czech",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
