@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T22:17:40.705Z",
+ "exported": "2026-11-25T22:18:02.805Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9241,7 +9241,8 @@
      "place": "Korczyna"
     }
    ],
-   "fatherId": "pmwwopahnotpi57"
+   "fatherId": "pmwwopahnotpi57",
+   "motherId": "pmwwopiazd3thvf"
   },
   {
    "id": "pmwwoinhe0gx4ml",
@@ -9264,6 +9265,15 @@
    "firstName": "Paweł",
    "lastName": "Wójcikiewicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwwopiazd3thvf",
+   "firstName": "Agnieszka",
+   "lastName": "Wójcikiewicz",
+   "maidenName": "Kosiba",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -10905,6 +10915,12 @@
    "id": "umwwokthw3n4dty",
    "a": "pmwwoigqq59qwnd",
    "b": "pmwwoinhe0gx4ml",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwwopvcdq11wx4",
+   "a": "pmwwopahnotpi57",
+   "b": "pmwwopiazd3thvf",
    "status": "malzenstwo"
   }
  ]
