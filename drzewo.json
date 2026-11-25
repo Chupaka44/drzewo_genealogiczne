@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-25T21:41:22.489Z",
+ "exported": "2026-11-25T21:41:58.026Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -351,8 +351,15 @@
    "firstName": "Bronisława",
    "lastName": "Czech",
    "gender": "K",
-   "deceased": false,
-   "events": [],
+   "birthDate": "24 05 1896",
+   "deceased": true,
+   "events": [
+    {
+     "date": "29 01 1921",
+     "title": "ślub",
+     "place": "Korczyna"
+    }
+   ],
    "fatherId": "pmwwn9oy1yq5900",
    "motherId": "pmwwnd669z6lz1a"
   },
