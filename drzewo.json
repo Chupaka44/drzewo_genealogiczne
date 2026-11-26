@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T21:36:35.450Z",
+ "exported": "2026-11-26T21:36:58.559Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -8862,7 +8862,7 @@
   },
   {
    "id": "pmwpq10zeh4lbqw",
-   "firstName": "Katarczyna",
+   "firstName": "Katarzyna",
    "lastName": "Dyląg",
    "maidenName": "Bogdan",
    "gender": "K",
