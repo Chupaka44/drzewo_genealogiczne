@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T09:18:15.484Z",
+ "exported": "2026-11-26T10:45:24.288Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9209,7 +9209,8 @@
    "maidenName": "Białoń",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwxfewvvnm0lko"
   },
   {
    "id": "pmwwnpjbvg1tgg7",
@@ -9388,6 +9389,14 @@
      "place": "Biecz"
     }
    ]
+  },
+  {
+   "id": "pmwxfewvvnm0lko",
+   "firstName": "Jan",
+   "lastName": "Białoń",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
