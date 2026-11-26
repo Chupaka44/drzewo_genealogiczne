@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:48:38.601Z",
+ "exported": "2026-11-26T10:52:12.194Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9242,7 +9242,7 @@
   },
   {
    "id": "pmwwnpt0atxsdk8",
-   "firstName": "Jan",
+   "firstName": "Kajetan",
    "lastName": "Gryga",
    "gender": "M",
    "deceased": true,
