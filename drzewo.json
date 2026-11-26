@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:52:43.404Z",
+ "exported": "2026-11-26T18:01:59.285Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9600,6 +9600,22 @@
    "events": [],
    "motherId": "pmwwn9gry1u5nna",
    "fatherId": "pmwwn94wa7u6ek6"
+  },
+  {
+   "id": "pmwxuzdpekhj9b9",
+   "firstName": "Magdalena",
+   "lastName": "Czech",
+   "maidenName": "Białoń",
+   "gender": "K",
+   "birthDate": "22 05 1864",
+   "deceased": true,
+   "events": [
+    {
+     "date": "01 06 1904",
+     "title": "ślub",
+     "place": ""
+    }
+   ]
   }
  ],
  "unions": [
@@ -11299,6 +11315,12 @@
    "id": "umwxuhmj8vfds2r",
    "a": "pmwxudpqo0d0toc",
    "b": "pmwxufe7k75fkg2",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxv0ffgmivlc2",
+   "a": "pmwwn94wa7u6ek6",
+   "b": "pmwxuzdpekhj9b9",
    "status": "malzenstwo"
   }
  ]
