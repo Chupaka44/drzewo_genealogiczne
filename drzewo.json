@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:45:27.017Z",
+ "exported": "2026-11-26T17:47:22.016Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9572,6 +9572,15 @@
    "events": [],
    "fatherId": "pmwwn94wa7u6ek6",
    "motherId": "pmwwn9gry1u5nna"
+  },
+  {
+   "id": "pmwxufe7k75fkg2",
+   "firstName": "Magdalena",
+   "lastName": "Czech",
+   "maidenName": "Dąbrowska",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -11265,6 +11274,12 @@
    "id": "umwxfyuohhe9n6g",
    "a": "pmwxfwxivmiupim",
    "b": "pmwxfyjsat4vvs1",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxuhmj8vfds2r",
+   "a": "pmwxudpqo0d0toc",
+   "b": "pmwxufe7k75fkg2",
    "status": "malzenstwo"
   }
  ]
