@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:07:12.976Z",
+ "exported": "2026-11-26T18:07:16.681Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9639,19 +9639,6 @@
    "deceased": true,
    "notes": "ślub prawdopodobnie 21 07 1927",
    "sources": "akt urodzenia poz. ostatnia lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=019.JPG&x=152&y=711&zoom=2.25",
-   "events": [],
-   "motherId": "pmwxuzdpekhj9b9",
-   "fatherId": "pmwwn94wa7u6ek6"
-  },
-  {
-   "id": "pmwxv5qpuan4a5n",
-   "firstName": "Bronisława",
-   "lastName": "Czech",
-   "gender": "K",
-   "birthDate": "27 04 1909",
-   "birthPlace": "Biecz",
-   "deceased": true,
-   "sources": "akt urodzenia poz.1 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=021.JPG&x=1282&y=193&zoom=2.25",
    "events": [],
    "motherId": "pmwxuzdpekhj9b9",
    "fatherId": "pmwwn94wa7u6ek6"
