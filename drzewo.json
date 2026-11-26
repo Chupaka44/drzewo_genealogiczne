@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:45:42.157Z",
+ "exported": "2026-11-26T10:45:55.704Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9200,7 +9200,8 @@
    "lastName": "Czech",
    "gender": "M",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwxfflj4k6ht3a"
   },
   {
    "id": "pmwwnok3ejsam5y",
@@ -9405,6 +9406,14 @@
    "lastName": "Białoń",
    "maidenName": "Popiel",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxfflj4k6ht3a",
+   "firstName": "Antoni",
+   "lastName": "Czech",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
