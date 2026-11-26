@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:38:45.150Z",
+ "exported": "2026-11-26T08:45:41.170Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9234,7 +9234,8 @@
    "lastName": "Gryga",
    "gender": "M",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwxb4wrlfht4tj"
   },
   {
    "id": "pmwwog2sag9pnn1",
@@ -9337,6 +9338,14 @@
    "lastName": "Cetnarowicz",
    "maidenName": "Bahara",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxb4wrlfht4tj",
+   "firstName": "Michał",
+   "lastName": "Gryga",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
