@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:45:41.170Z",
+ "exported": "2026-11-26T08:45:59.097Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9235,7 +9235,8 @@
    "gender": "M",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwxb4wrlfht4tj"
+   "fatherId": "pmwxb4wrlfht4tj",
+   "motherId": "pmwxb59x5f56asu"
   },
   {
    "id": "pmwwog2sag9pnn1",
@@ -9346,6 +9347,14 @@
    "firstName": "Michał",
    "lastName": "Gryga",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxb59x5f56asu",
+   "firstName": "Agnieszka",
+   "lastName": "Gryga",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -11005,6 +11014,12 @@
    "id": "umwxaw3pxnxah7d",
    "a": "pmwxavnioqws457",
    "b": "pmwxavsru4yiy4y",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxb5f9cj1h0jq",
+   "a": "pmwxb4wrlfht4tj",
+   "b": "pmwxb59x5f56asu",
    "status": "malzenstwo"
   }
  ]
