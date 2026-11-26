@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T11:19:50.671Z",
+ "exported": "2026-11-26T11:22:04.528Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9234,9 +9234,11 @@
    "lastName": "Czech",
    "maidenName": "Białoń",
    "gender": "K",
+   "birthDate": "28 08 1839",
+   "birthPlace": "Załawie",
    "deceased": true,
    "notes": "odnotowana dyspensa z 3. stopnia pokrewieństwa",
-   "sources": "Akt małżeństwa poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1861&kt=2&plik=275a.jpg&x=0&y=454&zoom=1.5",
+   "sources": "akt urodzenia poz. środek:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1839&kt=1&plik=172a.jpg&x=0&y=1023&zoom=2.45\n\nAkt małżeństwa poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1861&kt=2&plik=275a.jpg&x=0&y=454&zoom=1.5",
    "events": [
     {
      "date": "04 02 1861",
