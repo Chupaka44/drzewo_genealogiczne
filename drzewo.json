@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T19:06:49.217Z",
+ "exported": "2026-11-26T19:11:53.476Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -1323,11 +1323,11 @@
    "burialPlace": "Wójtowa",
    "occupation": "kowal",
    "notes": "https://www.statueofliberty.org/arrival-details/?id=JFYN-QM6\n\nZapowiedzi 1902 nr 2: Józef Setlak, dom 19, syn ŚP. Marcina i Maryi Knapik, ur. 10.02.1877 Pagórek, młodzian. Narzeczona: Agnieszka Świątek, dom 27, c. Marcina i Anny Świątkowskiej, ur. 22.10.1876 Pagórek, panna. Ślub zawarty 22.01.1902. Świadkowie (odczyt niepewny): Jerzy Nero (?), Józef Jaryczka (?).",
-   "sources": "akt urodzenia poz. środek lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=0&y=303&zoom=3.0300000000000002\n\nCieklin, Księga zapowiedzi (skanoteka 7000), 1902 nr 2",
+   "sources": "akt urodzenia poz. środek lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=3580&kt=1&plik=004.jpg&x=0&y=303&zoom=3.0300000000000002\n\nakt zapowiedzi poz 2:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5833&se=&sy=7000&kt=1&plik=120.jpg&x=28&y=420&zoom=2.0300000000000002",
    "events": [
     {
      "date": "22 01 1902",
-     "title": "Ślub z Agnieszką Świątek (Świątkowską)",
+     "title": "ślub",
      "place": "Cieklin"
     }
    ],
