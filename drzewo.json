@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:31:29.719Z",
+ "exported": "2026-11-26T08:31:47.886Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9182,8 +9182,14 @@
    "birthDate": "11 02 1865",
    "birthPlace": "Biecz",
    "deceased": true,
-   "sources": "akt urodzenia poz. 14:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1865&kt=1&plik=004.jpg&x=0&y=1593&zoom=1.19",
-   "events": [],
+   "sources": "akt urodzenia poz. 14:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1865&kt=1&plik=004.jpg&x=0&y=1593&zoom=1.19\n\nakt małżeństwa poz. 6:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4535&kt=1&plik=056.jpg&x=293&y=404&zoom=1.7599999999999998",
+   "events": [
+    {
+     "date": "12 11 1884",
+     "title": "ślub",
+     "place": "Biecz"
+    }
+   ],
    "fatherId": "pmwwoigqq59qwnd",
    "motherId": "pmwwoinhe0gx4ml"
   },
