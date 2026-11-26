@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:46:28.605Z",
+ "exported": "2026-11-26T08:46:33.774Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9336,7 +9336,7 @@
   {
    "id": "pmwxavsru4yiy4y",
    "firstName": "Anna",
-   "lastName": "Cetnarowicz",
+   "lastName": "Cecnar",
    "maidenName": "Bahara",
    "gender": "K",
    "deceased": true,
