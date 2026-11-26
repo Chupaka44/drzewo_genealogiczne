@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:47:40.665Z",
+ "exported": "2026-11-26T09:13:21.561Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9362,7 +9362,14 @@
    "lastName": "Gryga",
    "gender": "M",
    "deceased": true,
-   "events": []
+   "sources": "akt małżeńśtwa poz. ostatnia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4525&kt=1&plik=013.JPG&x=198&y=1582&zoom=1.2000000000000002",
+   "events": [
+    {
+     "date": "09 11 1798",
+     "title": "ślub",
+     "place": "Biecz"
+    }
+   ]
   },
   {
    "id": "pmwxb59x5f56asu",
