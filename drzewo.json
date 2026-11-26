@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:15:05.944Z",
+ "exported": "2026-11-26T18:15:17.159Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9699,6 +9699,7 @@
    "birthDate": "27 08 1920",
    "birthPlace": "Biecz",
    "deceased": true,
+   "deathDate": "03 09 1920",
    "sources": "akt urodzenia poz. ostatnia prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=026.JPG&x=1275&y=861&zoom=2.25",
    "events": [],
    "fatherId": "pmvy2tc8vyn73nb",
