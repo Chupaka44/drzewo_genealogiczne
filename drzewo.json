@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:47:27.270Z",
+ "exported": "2026-11-26T08:47:40.665Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9252,7 +9252,14 @@
    "maidenName": "Cecnar",
    "gender": "K",
    "deceased": true,
-   "events": [],
+   "sources": "akt ślubu poz. 3 od końca:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1837&kt=2&plik=140.jpg&x=1594&y=1958&zoom=1.4100000000000001",
+   "events": [
+    {
+     "date": "07 11 1837",
+     "title": "ślub",
+     "place": "Biecz"
+    }
+   ],
    "fatherId": "pmwxavnioqws457",
    "motherId": "pmwxavsru4yiy4y"
   },
