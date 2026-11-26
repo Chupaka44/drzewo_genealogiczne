@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:47:49.176Z",
+ "exported": "2026-11-26T10:47:54.043Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9213,6 +9213,7 @@
    "maidenName": "Białoń",
    "gender": "K",
    "deceased": true,
+   "sources": "Akt małżeństwa poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1861&kt=2&plik=275a.jpg&x=0&y=454&zoom=1.5",
    "events": [],
    "fatherId": "pmwxfewvvnm0lko",
    "motherId": "pmwxff66mrdx8kq"
