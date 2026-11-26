@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:38:08.168Z",
+ "exported": "2026-11-26T17:41:05.913Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9541,6 +9541,22 @@
    "gender": "M",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwxu7rgpl3sos8",
+   "firstName": "Maria",
+   "lastName": "Czech",
+   "gender": "K",
+   "birthDate": "15 01 1900",
+   "birthPlace": "Biecz",
+   "deceased": true,
+   "deathDate": "15 01 1900",
+   "burialPlace": "Biecz",
+   "deathCause": "słabość",
+   "sources": "akt zgonu poz.1 1900:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=010.jpg&x=1484&y=1055&zoom=2.0300000000000002",
+   "events": [],
+   "motherId": "pmwwn9gry1u5nna",
+   "fatherId": "pmwwn94wa7u6ek6"
   }
  ],
  "unions": [
