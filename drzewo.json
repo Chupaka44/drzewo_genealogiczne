@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T19:25:35.921Z",
+ "exported": "2026-11-26T21:25:42.226Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -218,7 +218,7 @@
    "deceased": true,
    "deathDate": "13 02 1978",
    "burialPlace": "Biecz",
-   "sources": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/d895a1322253c3f2c0183a3f4efb85d40470be551783eac1b75f2f7fe77204c2",
+   "sources": "akt urodzenia poz. prawy dół:\nhttps://www.szukajwarchiwach.gov.pl/skan/-/skan/d895a1322253c3f2c0183a3f4efb85d40470be551783eac1b75f2f7fe77204c2",
    "events": [],
    "fatherId": "pmvy345i249oo9x",
    "motherId": "pmvy349newb8p1u"
