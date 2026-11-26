@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:14:28.529Z",
+ "exported": "2026-11-26T18:15:05.944Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9693,6 +9693,7 @@
   {
    "id": "pmwxve6uihxm52p",
    "firstName": "Stefania",
+   "middleName": "Kunegunda",
    "lastName": "Szary",
    "gender": "K",
    "birthDate": "27 08 1920",
