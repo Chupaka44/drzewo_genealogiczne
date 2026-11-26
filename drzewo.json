@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:45:24.288Z",
+ "exported": "2026-11-26T10:45:42.157Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9210,7 +9210,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwxfewvvnm0lko"
+   "fatherId": "pmwxfewvvnm0lko",
+   "motherId": "pmwxff66mrdx8kq"
   },
   {
    "id": "pmwwnpjbvg1tgg7",
@@ -9395,6 +9396,15 @@
    "firstName": "Jan",
    "lastName": "Białoń",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxff66mrdx8kq",
+   "firstName": "Julia",
+   "lastName": "Białoń",
+   "maidenName": "Popiel",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -11060,6 +11070,12 @@
    "id": "umwxb5f9cj1h0jq",
    "a": "pmwxb4wrlfht4tj",
    "b": "pmwxb59x5f56asu",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxffdds79cb6k",
+   "a": "pmwxfewvvnm0lko",
+   "b": "pmwxff66mrdx8kq",
    "status": "malzenstwo"
   }
  ]
