@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:46:31.919Z",
+ "exported": "2026-11-26T10:47:04.056Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9426,6 +9426,15 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwxfgtv5ft39ie",
+   "firstName": "Kunegunda",
+   "lastName": "Czech",
+   "maidenName": "Szary",
+   "gender": "K",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
@@ -11101,6 +11110,12 @@
    "id": "umwxfgfif69rioy",
    "a": "pmwxfflj4k6ht3a",
    "b": "pmwxffui2hwf1bf",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxfh48gpaox1t",
+   "a": "pmwwnof2cvg7lvn",
+   "b": "pmwxfgtv5ft39ie",
    "status": "malzenstwo"
   }
  ]
