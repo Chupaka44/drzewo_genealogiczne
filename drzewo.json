@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:47:57.248Z",
+ "exported": "2026-11-26T10:48:02.243Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9213,6 +9213,7 @@
    "maidenName": "Białoń",
    "gender": "K",
    "deceased": true,
+   "notes": "odnotowana dyspensa z 3. stopnia pokrewieństwa",
    "sources": "Akt małżeństwa poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1861&kt=2&plik=275a.jpg&x=0&y=454&zoom=1.5",
    "events": [],
    "fatherId": "pmwxfewvvnm0lko",
