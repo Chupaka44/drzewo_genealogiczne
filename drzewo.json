@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:32:46.696Z",
+ "exported": "2026-11-26T17:38:08.168Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9204,8 +9204,11 @@
    "gender": "M",
    "birthDate": "1824",
    "deceased": true,
+   "deathDate": "16 05 1895",
+   "burialPlace": "Biecz",
+   "deathCause": "uwiąd starczy",
    "notes": "odnotowana dyspensa z 3. stopnia pokrewieństwa",
-   "sources": "Akt małżeństwa poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1861&kt=2&plik=275a.jpg&x=0&y=454&zoom=1.5",
+   "sources": "Akt małżeństwa poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1861&kt=2&plik=275a.jpg&x=0&y=454&zoom=1.5\n\nAkt zgonu poz. 1 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=009.jpg&x=0&y=0&zoom=2.0300000000000002",
    "events": [
     {
      "date": "04 02 1861",
