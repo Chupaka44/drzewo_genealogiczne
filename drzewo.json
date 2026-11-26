@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:30:50.810Z",
+ "exported": "2026-11-26T17:32:46.696Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9125,9 +9125,10 @@
    "firstName": "Wojciech",
    "lastName": "Czech",
    "gender": "M",
-   "birthDate": "1863",
+   "birthDate": "02 03 1863",
+   "birthPlace": "Biecz",
    "deceased": true,
-   "sources": "akt małżeństwa poz. 4:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=030.JPG&x=1611&y=1510&zoom=1.2000000000000002",
+   "sources": "akt urodzenia poz. 3 lewa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1863&kt=1&plik=328a.jpg&x=676&y=900&zoom=1.92\n\nakt małżeństwa poz. 4:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=030.JPG&x=1611&y=1510&zoom=1.2000000000000002",
    "events": [
     {
      "date": "20 11 1889",
