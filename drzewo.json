@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:53:56.725Z",
+ "exported": "2026-11-26T10:54:07.051Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9158,9 +9158,16 @@
    "maidenName": "Gryga",
    "gender": "K",
    "deceased": true,
-   "events": [],
-   "motherId": "pmwwnpjbvg1tgg7",
-   "fatherId": "pmwwnpt0atxsdk8"
+   "sources": "akt małżeństwa poz. 4:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=030.JPG&x=1611&y=1510&zoom=1.2000000000000002",
+   "events": [
+    {
+     "date": "20 11 1889",
+     "title": "ślub",
+     "place": "Biecz"
+    }
+   ],
+   "fatherId": "pmwwnpt0atxsdk8",
+   "motherId": "pmwwnpjbvg1tgg7"
   },
   {
    "id": "pmwwn9oy1yq5900",
