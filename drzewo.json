@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T11:18:56.366Z",
+ "exported": "2026-11-26T11:19:06.676Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9484,7 +9484,14 @@
    "maidenName": "Grygowicz",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "sources": "akt małżeństwa poz. ostatnia:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4515&kt=1&plik=009.JPG&x=0&y=1596&zoom=1.2000000000000002",
+   "events": [
+    {
+     "date": "14 11 1808",
+     "title": "ślub",
+     "place": "Biecz"
+    }
+   ]
   },
   {
    "id": "pmwxfgtv5ft39ie",
