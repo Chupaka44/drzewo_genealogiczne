@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T11:01:53.225Z",
+ "exported": "2026-11-26T11:02:19.122Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9270,6 +9270,7 @@
    "firstName": "Kajetan",
    "lastName": "Gryga",
    "gender": "M",
+   "birthDate": "1842",
    "deceased": true,
    "sources": "akt małżeństwa poz. 2 od końca:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=3257&se=&sy=1866&kt=2&plik=005.jpg&x=0&y=1430&zoom=2.05",
    "events": [
