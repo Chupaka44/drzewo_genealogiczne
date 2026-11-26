@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:38:29.076Z",
+ "exported": "2026-11-26T08:38:45.150Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9244,7 +9244,8 @@
    "gender": "K",
    "deceased": true,
    "events": [],
-   "fatherId": "pmwxavnioqws457"
+   "fatherId": "pmwxavnioqws457",
+   "motherId": "pmwxavsru4yiy4y"
   },
   {
    "id": "pmwwoigqq59qwnd",
@@ -9327,6 +9328,15 @@
    "firstName": "Józef",
    "lastName": "Cetnarowicz",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxavsru4yiy4y",
+   "firstName": "Anna",
+   "lastName": "Cetnarowicz",
+   "maidenName": "Bahara",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -10980,6 +10990,12 @@
    "id": "umwworzks48h7vc",
    "a": "pmwwoq93fd7ucfh",
    "b": "pmwwork2rmojk3f",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxaw3pxnxah7d",
+   "a": "pmwxavnioqws457",
+   "b": "pmwxavsru4yiy4y",
    "status": "malzenstwo"
   }
  ]
