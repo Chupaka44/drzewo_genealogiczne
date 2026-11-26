@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:47:56.153Z",
+ "exported": "2026-11-26T17:51:44.329Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9581,6 +9581,22 @@
    "gender": "K",
    "deceased": true,
    "events": []
+  },
+  {
+   "id": "pmwxukrrlx6e7oj",
+   "firstName": "Katarzyna",
+   "lastName": "Czech",
+   "gender": "K",
+   "birthDate": "29 11 1903",
+   "birthPlace": "Biecz",
+   "deceased": true,
+   "deathDate": "24 04 1904",
+   "burialPlace": "Biecz",
+   "deathCause": "osłabienie",
+   "sources": "Akt urodzenia poz. 1:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=016.JPG&x=0&y=0&zoom=2\n\nAkt zgonu poz. 3 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=012.jpg&x=1239&y=675&zoom=2.2800000000000002",
+   "events": [],
+   "motherId": "pmwwn9gry1u5nna",
+   "fatherId": "pmwwn94wa7u6ek6"
   }
  ],
  "unions": [
