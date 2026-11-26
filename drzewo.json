@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T08:27:44.507Z",
+ "exported": "2026-11-26T08:31:29.719Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9160,11 +9160,16 @@
    "firstName": "Jan",
    "lastName": "Gryga",
    "gender": "M",
-   "birthDate": "12 11 1884",
    "birthPlace": "Biecz",
    "deceased": true,
-   "sources": "akt urodzenia poz. 6:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4535&kt=1&plik=056.jpg&x=293&y=404&zoom=1.7599999999999998",
-   "events": [],
+   "sources": "akt małżeństwa poz. 6:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=4535&kt=1&plik=056.jpg&x=293&y=404&zoom=1.7599999999999998",
+   "events": [
+    {
+     "date": "12 11 1884",
+     "title": "ślub",
+     "place": "Biecz"
+    }
+   ],
    "fatherId": "pmwwofypfvkgav9",
    "motherId": "pmwwog2sag9pnn1"
   },
