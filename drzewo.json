@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T17:41:05.913Z",
+ "exported": "2026-11-26T17:43:36.423Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9553,10 +9553,10 @@
    "deathDate": "15 01 1900",
    "burialPlace": "Biecz",
    "deathCause": "słabość",
-   "sources": "akt zgonu poz.1 1900:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=010.jpg&x=1484&y=1055&zoom=2.0300000000000002",
+   "sources": "akt urodzenia poz.2:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=012.JPG&x=0&y=68&zoom=2.5\n\nakt zgonu poz.1 1900:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=5545&kt=1&plik=010.jpg&x=1484&y=1055&zoom=2.0300000000000002",
    "events": [],
-   "motherId": "pmwwn9gry1u5nna",
-   "fatherId": "pmwwn94wa7u6ek6"
+   "fatherId": "pmwwn94wa7u6ek6",
+   "motherId": "pmwwn9gry1u5nna"
   }
  ],
  "unions": [
