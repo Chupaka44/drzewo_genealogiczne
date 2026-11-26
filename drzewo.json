@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:07:50.352Z",
+ "exported": "2026-11-26T18:08:01.774Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9616,7 +9616,8 @@
      "place": ""
     }
    ],
-   "fatherId": "pmwxv7tsz3sb6ux"
+   "fatherId": "pmwxv7tsz3sb6ux",
+   "motherId": "pmwxv7zeqhv2shs"
   },
   {
    "id": "pmwxv0ip5v7m4a1",
@@ -9662,6 +9663,15 @@
    "firstName": "Piotr",
    "lastName": "Przybyło",
    "gender": "M",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxv7zeqhv2shs",
+   "firstName": "Marianna",
+   "lastName": "Przybyło",
+   "maidenName": "Świerz",
+   "gender": "K",
    "deceased": true,
    "events": []
   }
@@ -11369,6 +11379,12 @@
    "id": "umwxv0ffgmivlc2",
    "a": "pmwwn94wa7u6ek6",
    "b": "pmwxuzdpekhj9b9",
+   "status": "malzenstwo"
+  },
+  {
+   "id": "umwxv874zce8r11",
+   "a": "pmwxv7tsz3sb6ux",
+   "b": "pmwxv7zeqhv2shs",
    "status": "malzenstwo"
   }
  ]
