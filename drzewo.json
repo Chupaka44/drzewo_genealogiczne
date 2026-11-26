@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T10:59:14.571Z",
+ "exported": "2026-11-26T10:59:25.527Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9254,7 +9254,8 @@
    "maidenName": "Sasak",
    "gender": "K",
    "deceased": true,
-   "events": []
+   "events": [],
+   "fatherId": "pmwxfwxivmiupim"
   },
   {
    "id": "pmwwnpt0atxsdk8",
@@ -9484,6 +9485,14 @@
    "lastName": "Gryga",
    "maidenName": "Pawlik",
    "gender": "K",
+   "deceased": true,
+   "events": []
+  },
+  {
+   "id": "pmwxfwxivmiupim",
+   "firstName": "Jan",
+   "lastName": "Sasak",
+   "gender": "M",
    "deceased": true,
    "events": []
   }
