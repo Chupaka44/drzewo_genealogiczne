@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:07:42.801Z",
+ "exported": "2026-11-26T18:07:50.352Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9615,7 +9615,8 @@
      "title": "ślub",
      "place": ""
     }
-   ]
+   ],
+   "fatherId": "pmwxv7tsz3sb6ux"
   },
   {
    "id": "pmwxv0ip5v7m4a1",
@@ -9655,6 +9656,14 @@
    "events": [],
    "motherId": "pmwxuzdpekhj9b9",
    "fatherId": "pmwwn94wa7u6ek6"
+  },
+  {
+   "id": "pmwxv7tsz3sb6ux",
+   "firstName": "Piotr",
+   "lastName": "Przybyło",
+   "gender": "M",
+   "deceased": true,
+   "events": []
   }
  ],
  "unions": [
