@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T21:31:25.495Z",
+ "exported": "2026-11-26T21:31:40.174Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -201,12 +201,12 @@
    "events": [
     {
      "date": "28 07 1928",
-     "title": "ślub",
+     "title": "ślub Franciszka",
      "place": "Korczyna"
     },
     {
      "date": "26 06 1936",
-     "title": "ślub",
+     "title": "ślub Apolonia",
      "place": "Biecz"
     }
    ],
