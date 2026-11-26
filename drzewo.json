@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:34:34.590Z",
+ "exported": "2026-11-26T18:43:53.699Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -354,6 +354,7 @@
    "id": "pmvy2xrb5j78j6n",
    "firstName": "Bronisława",
    "lastName": "Czech",
+   "maidenName": "Gryga",
    "gender": "K",
    "birthDate": "25 05 1896",
    "birthPlace": "Korczyna",
