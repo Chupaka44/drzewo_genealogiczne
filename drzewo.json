@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:01:59.285Z",
+ "exported": "2026-11-26T18:02:36.718Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9616,6 +9616,18 @@
      "place": ""
     }
    ]
+  },
+  {
+   "id": "pmwxv0ip5v7m4a1",
+   "firstName": "Anna",
+   "lastName": "Czech",
+   "gender": "K",
+   "birthDate": "26 05 1905",
+   "deceased": true,
+   "sources": "akt urodzenia poz. 2 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=017.JPG&x=1640&y=360&zoom=2",
+   "events": [],
+   "motherId": "pmwxuzdpekhj9b9",
+   "fatherId": "pmwwn94wa7u6ek6"
   }
  ],
  "unions": [
