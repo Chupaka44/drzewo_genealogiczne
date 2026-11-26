@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:12:09.481Z",
+ "exported": "2026-11-26T18:13:25.381Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9686,6 +9686,19 @@
    "deceased": true,
    "deathDate": "02 03 1921",
    "sources": "akt urodzenia poz. 1 prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=025.JPG&x=1282&y=150&zoom=2.25",
+   "events": [],
+   "fatherId": "pmvy2tc8vyn73nb",
+   "motherId": "pmvy2w8j4rzt9yu"
+  },
+  {
+   "id": "pmwxve6uihxm52p",
+   "firstName": "Stefania",
+   "lastName": "Szary",
+   "gender": "K",
+   "birthDate": "27 08 1920",
+   "birthPlace": "Biecz",
+   "deceased": true,
+   "sources": "akt urodzenia poz. ostatnia prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=026.JPG&x=1275&y=861&zoom=2.25",
    "events": [],
    "fatherId": "pmvy2tc8vyn73nb",
    "motherId": "pmvy2w8j4rzt9yu"
