@@ -1,7 +1,7 @@
 {
  "app": "kronika-rodu",
  "version": 1,
- "exported": "2026-11-26T18:13:25.381Z",
+ "exported": "2026-11-26T18:14:28.529Z",
  "meta": {
   "id": "tree",
   "name": "Setlakowie"
@@ -9699,6 +9699,20 @@
    "birthPlace": "Biecz",
    "deceased": true,
    "sources": "akt urodzenia poz. ostatnia prawa strona:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=026.JPG&x=1275&y=861&zoom=2.25",
+   "events": [],
+   "fatherId": "pmvy2tc8vyn73nb",
+   "motherId": "pmvy2w8j4rzt9yu"
+  },
+  {
+   "id": "pmwxvfg3q43b2v5",
+   "firstName": "Anna",
+   "lastName": "Szary",
+   "gender": "K",
+   "birthDate": "12 08 1911",
+   "birthPlace": "Biecz",
+   "deceased": true,
+   "deathDate": "23 01 1921",
+   "sources": "akt urodzenia poz. 7:\nhttps://skanoteka.genealodzy.pl/index.php?op=pg&id=5669&se=&sy=3555&kt=1&plik=023.JPG&x=70&y=101&zoom=2.75",
    "events": [],
    "fatherId": "pmvy2tc8vyn73nb",
    "motherId": "pmvy2w8j4rzt9yu"
